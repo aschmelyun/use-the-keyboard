@@ -1,0 +1,1084 @@
+{
+    "view": "layout.shortcut",
+    "slug": "adobe-lightroom",
+    "title": "Adobe Lightroom CC",
+    "meta_title": "Keyboard shortcuts for Adobe Lightroom CC",
+    "meta_description": "A visual cheat-sheet for the 251 keyboard shortcuts found in Adobe Lightroom CC",
+    "reference_link": "https://helpx.adobe.com/lightroom/help/keyboard-shortcuts.html",
+    "sections": [
+        {
+            "name": "Working with panels",
+            "shortcuts": [
+                {
+                    "description": "Show/hide side panels",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Show/hide all panels",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Show/hide toolbar",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Show/hide Module Picker",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "Show/hide Filmstrip",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Show/hide left panels",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Show/hide right panels",
+                    "keys": ["F8"]
+                },
+                {
+                    "description": "Toggle solo mode",
+                    "keys": ["Alt", "(click a panel)"]
+                },
+                {
+                    "description": "Open a new panel without closing soloed panel",
+                    "keys": ["Shift", "(click a panel)"]
+                },
+                {
+                    "description": "Open/close all panels",
+                    "keys": ["Ctrl", "(click a panel)"]
+                },
+                {
+                    "description": "Open/close left panels, top to bottom",
+                    "keys": ["Ctrl", "Shift", "0-5"]
+                },
+                {
+                    "description": "Open/close right panels, Library and Develop modules, top to bottom",
+                    "keys": ["Ctrl", "0-9"]
+                },
+                {
+                    "description": "Open/close right panels, Slideshow, Print, and Web modules, top to bottom",
+                    "keys": ["Ctrl", "1-7"]
+                }
+            ]
+        },
+        {
+            "name": "Navigating modules",
+            "shortcuts": [
+                {
+                    "description": "Go to Library module",
+                    "keys": ["Ctrl", "Alt", "1"]
+                },
+                {
+                    "description": "Go to Develop module",
+                    "keys": ["Ctrl", "Alt", "2"]
+                },
+                {
+                    "description": "Go to Slideshow module",
+                    "keys": ["Ctrl", "Alt", "3"]
+                },
+                {
+                    "description": "Go to Print module",
+                    "keys": ["Ctrl", "Alt", "4"]
+                },
+                {
+                    "description": "Go to Web module",
+                    "keys": ["Ctrl", "Alt", "5"]
+                },
+                {
+                    "description": "Go back/go forward",
+                    "keys": ["Ctrl", "Alt", "Left/Right"]
+                },
+                {
+                    "description": "Go back to previous module",
+                    "keys": ["Ctrl", "Alt", "Up"]
+                }
+            ]
+        },
+        {
+            "name": "Changing view and screen modes",
+            "shortcuts": [
+                {
+                    "description": "Enter Library Loupe view",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Enter Library Grid view",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "Enter Library Compare view",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Enter Library Survey view",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Open selected photo in the Develop module",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Cycle forward through Lights Out modes",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Cycle backward through Lights Out modes",
+                    "keys": ["Shift", "L"]
+                },
+                {
+                    "description": "Toggle Lights Dim mode",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Cycle screen modes",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Switich between Normal and full-screen, hide panels",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Go to Normal screen mode",
+                    "keys": ["Ctrl", "Alt", "F"]
+                },
+                {
+                    "description": "Cycle info overlay",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Show/hide info overlay",
+                    "keys": ["Ctrl", "I"]
+                }
+            ]
+        },
+        {
+            "name": "Using a secondary window",
+            "shortcuts": [
+                {
+                    "description": "Open secondary window",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Enter Grid view",
+                    "keys": ["Shift", "G"]
+                },
+                {
+                    "description": "Enter normal Loupe view",
+                    "keys": ["Shift", "E"]
+                },
+                {
+                    "description": "Enter locked Loupe view",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Enter Compare view",
+                    "keys": ["Shift", "C"]
+                },
+                {
+                    "description": "Enter Survey view",
+                    "keys": ["Shift", "N"]
+                },
+                {
+                    "description": "Enter Slideshow view",
+                    "keys": ["Ctrl", "Alt", "Shift", "Enter"]
+                },
+                {
+                    "description": "Enter full-screen mode (requires second monitor)",
+                    "keys": ["Shift", "F11"]
+                },
+                {
+                    "description": "Show/hide Filter bar",
+                    "keys": ["Shift", "\\"]
+                },
+                {
+                    "description": "Zoom in/out",
+                    "keys": ["Ctrl", "Shift", "+/-"]
+                }
+            ]
+        },
+        {
+            "name": "Managing photos and catalogs",
+            "shortcuts": [
+                {
+                    "description": "Import photos from disk",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Open catalog",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Open Preferences",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Open Catalog Settings",
+                    "keys": ["Ctrl", "Alt", ","]
+                },
+                {
+                    "description": "Create new subfolder (segmented tethered capture)",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Hide/show tether capture bar",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Create a new folder in the Library module",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Create virtual copy (Library and Develop module only)",
+                    "keys": ["Ctrl", "'"]
+                },
+                {
+                    "description": "Show in Explorer/Finder (Library and Develop module only)",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Go to next/previous photo in the Filmstrip",
+                    "keys": ["Right/Left"]
+                },
+                {
+                    "description": "Select multiple folders or collections (in Library, Slideshow, Print, and Web modules)",
+                    "keys": ["Shift/Ctrl", "Click"]
+                },
+                {
+                    "description": "Rename photo (in Library module)",
+                    "keys": ["F2"]
+                },
+                {
+                    "description": "Delete selected photo(s)",
+                    "keys": ["Delete"]
+                },
+                {
+                    "description": "Remove selected photo(s) from catalog",
+                    "keys": ["Alt", "Backspace"]
+                },
+                {
+                    "description": "Delete selected photo(s) and move to Trash",
+                    "keys": ["Ctrl", "Alt", "Shift", "Backspace"]
+                },
+                {
+                    "description": "Delete rejected photo(s)",
+                    "keys": ["Ctrl", "Backspace"]
+                },
+                {
+                    "description": "Edit in Photoshop",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Open in other editor",
+                    "keys": ["Ctrl", "Alt", "E"]
+                },
+                {
+                    "description": "Export selected photo(s)",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Export with previous settings",
+                    "keys": ["Ctrl", "Alt", "Shift", "E"]
+                },
+                {
+                    "description": "Open plug-in manager",
+                    "keys": ["Ctrl", "Alt", "Shift", ","]
+                },
+                {
+                    "description": "Print selected photo",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Open Page Setup dialog box",
+                    "keys": ["Ctrl", "Shift", "P"]
+                }
+            ]
+        },
+        {
+            "name": "Comparing photos in the Library module",
+            "shortcuts": [
+                {
+                    "description": "Switch to Loupe view",
+                    "keys": ["E/Enter"]
+                },
+                {
+                    "description": "Switch to Grid view",
+                    "keys": ["G/Esc"]
+                },
+                {
+                    "description": "Switch to Compare view",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Switch to Survey view",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Switch from Grid to Loupe view",
+                    "keys": ["Space/E"]
+                },
+                {
+                    "description": "Swap select and candidate photos in Compare view",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Make next photos select and candidate in Compare view",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Toggle Zoom view",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Zoom in/out in Loupe view",
+                    "keys": ["Ctrl", "+/-"]
+                },
+                {
+                    "description": "Scroll up/down zoomed photo in Loupe view",
+                    "keys": ["PgUp/PgDown"]
+                },
+                {
+                    "description": "Go to beginning/end of Grid view",
+                    "keys": ["Home/End"]
+                },
+                {
+                    "description": "Play impromptu slide show",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Rotate photo right (clockwise)",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Rotate photo left (counterclockwise)",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Increase/decreate Grid thumbnail size",
+                    "keys": ["=/-"]
+                },
+                {
+                    "description": "Scroll up/down Grid thumbnails",
+                    "keys": ["PgUp/PgDown"]
+                },
+                {
+                    "description": "Toggle cell extras",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Show/hide badges",
+                    "keys": ["Ctrl", "Alt", "Shift", "H"]
+                },
+                {
+                    "description": "Cycle Grid views",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Open Library view options",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Select multiple discrete photos",
+                    "keys": ["Ctrl", "(click)"]
+                },
+                {
+                    "description": "Select multiple contiguous photos",
+                    "keys": ["Shift", "(click)"]
+                },
+                {
+                    "description": "Select all photos",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Deselect all photos",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Select only active photo",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Deselect active photo",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Add previous/next photo to selection",
+                    "keys": ["Shift", "Left/Right"]
+                },
+                {
+                    "description": "Select flagged photos",
+                    "keys": ["Ctrl", "Alt", "A"]
+                },
+                {
+                    "description": "Deselect unflagged photos",
+                    "keys": ["Ctrl", "Alt", "Shift", "D"]
+                },
+                {
+                    "description": "Group into stack",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Unstack",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Toggle stack",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Move to top of stack",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Move up in stack",
+                    "keys": ["Shift", "["]
+                },
+                {
+                    "description": "Move down in stack",
+                    "keys": ["Shift", "]"]
+                }
+            ]
+        },
+        {
+            "name": "Rating and filtering photos",
+            "shortcuts": [
+                {
+                    "description": "Set star rating",
+                    "keys": ["1-5"]
+                },
+                {
+                    "description": "Set star rating and go to next photo",
+                    "keys": ["Shift", "1-5"]
+                },
+                {
+                    "description": "Remove star rating",
+                    "keys": ["0"]
+                },
+                {
+                    "description": "Remove star rating and go to next photo",
+                    "keys": ["Shift", "0"]
+                },
+                {
+                    "description": "Increase/decrease rating by one star",
+                    "keys": ["]/["]
+                },
+                {
+                    "description": "Assign a red label",
+                    "keys": ["6"]
+                },
+                {
+                    "description": "Assign a yellow label",
+                    "keys": ["7"]
+                },
+                {
+                    "description": "Assign a green label",
+                    "keys": ["8"]
+                },
+                {
+                    "description": "Assign a blue label",
+                    "keys": ["9"]
+                },
+                {
+                    "description": "Assign a color label and go to next photo",
+                    "keys": ["Shift", "6-9"]
+                },
+                {
+                    "description": "Flag photo as a pick",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Flag photo as a pick and go to next photo",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Flag photo as a reject",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Flag photo as a reject and go to next photo",
+                    "keys": ["Shift", "X"]
+                },
+                {
+                    "description": "Unflag photo",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Unflag photo and go to next photo",
+                    "keys": ["Shift", "U"]
+                },
+                {
+                    "description": "Increase/decrease flag status",
+                    "keys": ["Ctrl", "Up/Down"]
+                },
+                {
+                    "description": "Cycle flag settings",
+                    "keys": ["`"]
+                },
+                {
+                    "description": "Refine photos",
+                    "keys": ["Ctrl", "Alt", "R"]
+                },
+                {
+                    "description": "Show/hide Library Filter bar",
+                    "keys": ["\\"]
+                },
+                {
+                    "description": "Open multiple filters in the Filter bar",
+                    "keys": ["Shift", "(click filter labels)"]
+                },
+                {
+                    "description": "Toggle filters on/off",
+                    "keys": ["Shift", "L"]
+                },
+                {
+                    "description": "Find photo in the Library module",
+                    "keys": ["Ctrl", "F"]
+                }
+            ]
+        },
+        {
+            "name": "Working with collections",
+            "shortcuts": [
+                {
+                    "description": "Create a new collection in the Library module",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Add to Quick Collection",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Add to Quick Collection and go to next photo",
+                    "keys": ["Shift", "B"]
+                },
+                {
+                    "description": "Show Quick Collection",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Save Quick Collection",
+                    "keys": ["Ctrl", "Alt", "B"]
+                },
+                {
+                    "description": "Clear Quick Collection",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Set as target collection",
+                    "keys": ["Ctrl", "Alt", "Shift", "B"]
+                }
+            ]
+        },
+        {
+            "name": "Working with metadata and keywords in the Library module",
+            "shortcuts": [
+                {
+                    "description": "Add keywords",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Edit keywords",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Set a keyword shortcut",
+                    "keys": ["Ctrl", "Alt", "Shift", "K"]
+                },
+                {
+                    "description": "Add/remove keyword shortcut from selected photo",
+                    "keys": ["Shift", "K"]
+                },
+                {
+                    "description": "Enable painting",
+                    "keys": ["Ctrl", "Alt", "K"]
+                },
+                {
+                    "description": "Add a keyword from a keyword set to selected photo",
+                    "keys": ["Alt", "1-9"]
+                },
+                {
+                    "description": "Cycle forward through keyword sets",
+                    "keys": ["Alt", "0"]
+                },
+                {
+                    "description": "Cycle backword through keyword sets",
+                    "keys": ["Alt", "Shift", "0"]
+                },
+                {
+                    "description": "Copy/paste metadata",
+                    "keys": ["Ctrl", "Alt", "Shift", "C/V"]
+                },
+                {
+                    "description": "Save metadata to file",
+                    "keys": ["Ctrl", "S"]
+                }
+            ]
+        },
+        {
+            "name": "Working in the Develop module",
+            "shortcuts": [
+                {
+                    "description": "Convert to grayscale",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Auto tone",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Auto white balance",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Edit in Photoshop",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Copy/paste Develop settings",
+                    "keys": ["Ctrl", "Shift", "C/V"]
+                },
+                {
+                    "description": "Paste settings from previous photo",
+                    "keys": ["Ctrl", "Alt", "V"]
+                },
+                {
+                    "description": "Copy After settings to Before",
+                    "keys": ["Ctrl", "Alt", "Shift", "Left"]
+                },
+                {
+                    "description": "Copy Before settings to After",
+                    "keys": ["Ctrl", "Alt", "Shift", "Right"]
+                },
+                {
+                    "description": "Swap Before and After settings",
+                    "keys": ["Ctrl", "Alt", "Shift", "Up"]
+                },
+                {
+                    "description": "Increase/decrease selected slider in small increments",
+                    "keys": ["Up/Down"]
+                },
+                {
+                    "description": "Increase/decrease selected slider in larger increments",
+                    "keys": ["Shift", "Up/Down"]
+                },
+                {
+                    "description": "Cycle through Basic panel settings (forward/backward)",
+                    "keys": ["./,"]
+                },
+                {
+                    "description": "Reset a slider",
+                    "keys": ["(double-click slider name)"]
+                },
+                {
+                    "description": "Reset a group of sliders",
+                    "keys": ["Alt", "(click group name)"]
+                },
+                {
+                    "description": "Reset all settings",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Sync settings",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Sync settings bypassing Synchronize Settings dialog box",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Toggle Auto Sync",
+                    "keys": ["Ctrl", "(click Sync button)"]
+                },
+                {
+                    "description": "Enable Auto Sync",
+                    "keys": ["Ctrl", "Alt", "Shift", "A"]
+                },
+                {
+                    "description": "Match total exposures",
+                    "keys": ["Ctrl", "Alt", "Shift", "M"]
+                },
+                {
+                    "description": "Select White Balance tool (from any module)",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Select the Crop tool (from any module)",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Contrain aspect ratio when Crop tool is selected",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Crop to same aspect ratio as previous crop",
+                    "keys": ["Shift", "A"]
+                },
+                {
+                    "description": "Crop from center of photo",
+                    "keys": ["Alt", "(drag)"]
+                },
+                {
+                    "description": "Cycle Crop grid overlay",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Cycle Crop grid overlay orientation",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "Switch crop between portrait and landscape orientation",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Reset crop",
+                    "keys": ["Ctrl", "Alt", "R"]
+                },
+                {
+                    "description": "Select the Guided Upright tool",
+                    "keys": ["Shift", "T"]
+                },
+                {
+                    "description": "Select the Sopt Removal tool",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Toggle Brush between Clone and Heal modes when Spot Removal tool is selected",
+                    "keys": ["Shift", "T"]
+                },
+                {
+                    "description": "Select the Adjustment Brush tool (from any module)",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Select the Graduated Filter tool",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Toggle Mask between Edit and Brush modes when the Graduated/Radial Filter is selected",
+                    "keys": ["Shift", "T"]
+                },
+                {
+                    "description": "Increase/decrease brush size",
+                    "keys": ["]/["]
+                },
+                {
+                    "description": "Increase/decrease brush feathering",
+                    "keys": ["Shift", "]/["]
+                },
+                {
+                    "description": "Switch between local adjustment brush A and B",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Temporarily switch from brush A or B to Eraser",
+                    "keys": ["Alt", "(drag)"]
+                },
+                {
+                    "description": "Paint a horizontal or vertical line",
+                    "keys": ["Shift", "(drag)"]
+                },
+                {
+                    "description": "Show/hide local adjustment pin",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Show/hide local adjustment mask overlay",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Cycle local adjustment mask overlay colors",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "Select Targeted Adjustment tool to apply a Tone Curve adjustment",
+                    "keys": ["Ctrl", "Alt", "Shift", "T"]
+                },
+                {
+                    "description": "Select Targeted Adjustment tool to applay a Hue adjustment",
+                    "keys": ["Ctrl", "Alt", "Shift", "H"]
+                },
+                {
+                    "description": "Select Targeted Adjustment tool to apply a Saturation adjustment",
+                    "keys": ["Ctrl", "Alt", "Shift", "S"]
+                },
+                {
+                    "description": "Select Targeted Adjustment tool to apply a Luminance adjustment",
+                    "keys": ["Ctrl", "Alt", "Shift", "L"]
+                },
+                {
+                    "description": "Select Targeted Adjustment tool to apply a Grayscale Mix adjustment",
+                    "keys": ["Ctrl", "Alt", "Shift", "G"]
+                },
+                {
+                    "description": "Deselect Targeted Adjustment tool",
+                    "keys": ["Ctrl", "Alt", "Shift", "N"]
+                },
+                {
+                    "description": "Show clipping",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Rotate photo right (clockwise)",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Rotate photo left (counterclockwise)",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Toggle between Loupe and 1:1 Zoom preview",
+                    "keys": ["Space/Z"]
+                },
+                {
+                    "description": "Zoom in/out",
+                    "keys": ["Ctrl", "+/-"]
+                },
+                {
+                    "description": "Play impromptu slide show",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "View Before and After left/right",
+                    "keys": ["Y"]
+                },
+                {
+                    "description": "View Before and After top/bottom",
+                    "keys": ["Alt", "Y"]
+                },
+                {
+                    "description": "View Before and After in a split screen",
+                    "keys": ["Shift", "Y"]
+                },
+                {
+                    "description": "View Before only",
+                    "keys": ["\\"]
+                },
+                {
+                    "description": "Create a new snapshot",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a new preset",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Create a new preset folder",
+                    "keys": ["Ctrl", "Alt", "N"]
+                },
+                {
+                    "description": "Open Develop view options",
+                    "keys": ["Ctrl", "J"]
+                }
+            ]
+        },
+        {
+            "name": "Working in the Slideshow module",
+            "shortcuts": [
+                {
+                    "description": "Play slide show",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Play impromptu slide show",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Pause slide show",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Preview slide show",
+                    "keys": ["Alt", "Enter"]
+                },
+                {
+                    "description": "End slide show",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Go to next slide",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Go to previous slide",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Rotate photo right (clockwise)",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Rotate photo left (counterclockwise)",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Show/hide guides",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Export PDF slide show",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Export JPEG slide show",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Export video slide show",
+                    "keys": ["Ctrl", "Alt", "J"]
+                },
+                {
+                    "description": "Create a new slide show template",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a new slide show template folder",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Save slide show settings",
+                    "keys": ["Ctrl", "S"]
+                }
+            ]
+        },
+        {
+            "name": "Working in the Print module",
+            "shortcuts": [
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Print one copy",
+                    "keys": ["Ctrl", "Alt", "P"]
+                },
+                {
+                    "description": "Open Page Setup dialog box",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Open Print Settings dialog box",
+                    "keys": ["Ctrl", "Alt", "Shift", "P"]
+                },
+                {
+                    "description": "Go to first page",
+                    "keys": ["Ctrl", "Shift", "Left"]
+                },
+                {
+                    "description": "Go to last page",
+                    "keys": ["Ctrl", "Shift", "Right"]
+                },
+                {
+                    "description": "Go to previous page",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Go to next page",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Show/hide guides",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Show/hide rulers",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Show/hide page bleed",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Show/hide margins and gutters",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Show/hide image cells",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Show/hide dimensions",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Play impromptu slide show",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Rotate photo right (clockwise)",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Rotate photo left (counterclockwise)",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Create a new print template",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a new print template folder",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Save print settings",
+                    "keys": ["Ctrl", "S"]
+                }
+            ]
+        },
+        {
+            "name": "Working in the Web module",
+            "shortcuts": [
+                {
+                    "description": "Reload web gallery",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Preview in browser",
+                    "keys": ["Ctrl", "Alt", "P"]
+                },
+                {
+                    "description": "Play impromptu slide show",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Export web gallery",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Create a new web gallery template",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a new web gallery template folder",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Save web gallery settings",
+                    "keys": ["Ctrl", "S"]
+                }
+            ]
+        },
+        {
+            "name": "Using help",
+            "shortcuts": [
+                {
+                    "description": "Display current module shortcuts",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Hide current module shortcuts",
+                    "keys": ["(click)"]
+                },
+                {
+                    "description": "Go to current module Help",
+                    "keys": ["Ctrl", "Alt", "/"]
+                },
+                {
+                    "description": "Open Community Help",
+                    "keys": ["F1"]
+                }
+            ]
+        }
+    ]
+}

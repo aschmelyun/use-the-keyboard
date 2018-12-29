@@ -1,0 +1,32 @@
+.title-primary {
+    font-family: $ff-alt;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 49px;
+}
+.title-section {
+    font-size: 19px;
+    font-weight: 600;
+    border-bottom: 1px solid $color-med-grey;
+    margin: 0 1rem 1rem;
+
+    @include respond-to('sm') {
+        margin: 0 0 1rem;
+    }
+
+    span {
+        display: inline-block;
+        position: relative;
+        padding: 0 0 0.15rem;
+
+        &:after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: $color-red;
+        }
+    }
+}

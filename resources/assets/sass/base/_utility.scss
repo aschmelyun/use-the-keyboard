@@ -1,0 +1,53 @@
+@each $dir in (left, right, center) {
+    .ta-#{$dir} {
+        text-align: $dir;
+    }
+}
+@for $i from 1 through 12 {
+    .mt-#{$i} {
+        margin-top: ($i/4) + 0rem;
+    }
+    .mb-#{$i} {
+        margin-bottom: ($i/4) + 0rem;
+    }
+    .ml-#{$i} {
+        margin-left: ($i/4) + 0rem;
+    }
+    .mr-#{$i} {
+        margin-right: ($i/4) + 0rem;
+    }
+    .mtb-#{$i} {
+        margin-top: ($i/4) + 0rem;
+        margin-bottom: ($i/4) + 0rem;
+    }
+    .mlr-#{$i} {
+        margin-left: ($i/4) + 0rem;
+        margin-right: ($i/4) + 0rem;
+    }
+    .m-#{$i} {
+        margin: ($i/4) + 0rem;
+    }
+    .pt-#{$i} {
+        padding-top: ($i/4) + 0rem;
+    }
+    .pb-#{$i} {
+        padding-bottom: ($i/4) + 0rem;
+    }
+    .pl-#{$i} {
+        padding-left: ($i/4) + 0rem;
+    }
+    .pr-#{$i} {
+        padding-right: ($i/4) + 0rem;
+    }
+    .ptb-#{$i} {
+        padding-top: ($i/4) + 0rem;
+        padding-bottom: ($i/4) + 0rem;
+    }
+    .plr-#{$i} {
+        padding-left: ($i/4) + 0rem;
+        padding-right: ($i/4) + 0rem;
+    }
+    .p-#{$i} {
+        padding: ($i/4) + 0rem;
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "view": "layout.shortcut",
+    "slug": "evernote",
+    "title": "Evernote",
+    "meta_title": "Keyboard shortcuts for Evernote",
+    "meta_description": "A visual cheat-sheet for the 90 keyboard shortcuts found in Evernote",
+    "reference_link": "https://help.evernote.com/hc/en-us/articles/209004807-Keyboard-shortcuts-in-Evernote-for-Windows",
+    "sections": [
+        {
+            "name": "Application-wide",
+            "shortcuts": [
+                {
+                    "description": "New Note",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "New Chat",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Jump to notebook",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Print Preview",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Switch to another user",
+                    "keys": ["Ctrl", "Alt", "A"]
+                },
+                {
+                    "description": "Show/Hide Left Panel",
+                    "keys": ["F10"]
+                },
+                {
+                    "description": "Show/Hide Note List",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Show/Hide Note Panel",
+                    "keys": ["Ctrl", "F11"]
+                },
+                {
+                    "description": "Show/Hide Tags View",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Quick Search",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Snippet View",
+                    "keys": ["Ctrl", "F5"]
+                },
+                {
+                    "description": "Card View",
+                    "keys": ["Ctrl", "F6"]
+                },
+                {
+                    "description": "Top List View",
+                    "keys": ["Ctrl", "F7"]
+                },
+                {
+                    "description": "Side List View",
+                    "keys": ["Ctrl", "F8"]
+                },
+                {
+                    "description": "Thumbnail View",
+                    "keys": ["Ctrl", "F9"]
+                },
+                {
+                    "description": "Search notebook",
+                    "keys": ["Shift", "Alt", "N"]
+                },
+                {
+                    "description": "Jump to Tags",
+                    "keys": ["Shift", "Alt", "T"]
+                },
+                {
+                    "description": "Show Search Explanation",
+                    "keys": ["Ctrl", "F10"]
+                },
+                {
+                    "description": "Close separate windows/Minimize main window to tray",
+                    "keys": ["Alt", "F4"]
+                },
+                {
+                    "description": "Sync",
+                    "keys": ["F9"]
+                },
+                {
+                    "description": "Online Help",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Rename selected notebook, note, tag, or saved search",
+                    "keys": ["F2"]
+                },
+                {
+                    "description": "Set focus to the tag field of the active note",
+                    "keys": ["F3"]
+                },
+                {
+                    "description": "Cycle through note list views (Snippet, Card, Top List, Side List, Thumbnail)",
+                    "keys": ["F5"]
+                }
+            ]
+        },
+        {
+            "name": "Note Editor",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Paste as Text",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Delete/Backspace"]
+                },
+                {
+                    "description": "Select All",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Search Notes",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Reset Search",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Find Within Note",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Find Next",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Find Previous",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Replace Within Note",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Check Spelling",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Open In a New Window",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Present",
+                    "keys": ["Ctrl", "Alt", "Enter"]
+                },
+                {
+                    "description": "Present on Another Screen",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Tag",
+                    "keys": ["Ctrl", "Alt", "T"]
+                },
+                {
+                    "description": "Email note",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Font",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Left",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Center",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Right",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Justify",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Increase Indentation",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Decrease Indentation",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Zoom In",
+                    "keys": ["Ctrl", "+"]
+                },
+                {
+                    "description": "Zoom Out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Reset Zoom",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Increase Font Size",
+                    "keys": ["Ctrl", "Shift", "."]
+                },
+                {
+                    "description": "Decrease Font Size",
+                    "keys": ["Ctrl", "Shift", ","]
+                },
+                {
+                    "description": "Bulleted List",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Numbered List",
+                    "keys": ["Ctrl", "Shift", "O"]
+                },
+                {
+                    "description": "Bold",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Strikethrough",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Highlight",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Insert Horizontal Rule",
+                    "keys": ["Ctrl", "Shift", "-"]
+                },
+                {
+                    "description": "Insert Checkbox",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Add Hyperlink",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Edit Hyperlink",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Remove Hyperlink",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Encrypt Selected Text",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Simply Formatting",
+                    "keys": ["Ctrl", "Space"]
+                },
+                {
+                    "description": "Remove Formatting",
+                    "keys": ["Ctrl", "Shift", "Space"]
+                },
+                {
+                    "description": "Insert date and time",
+                    "keys": ["Alt", "Shift", "D"]
+                }
+            ]
+        },
+        {
+            "name": "Note List",
+            "shortcuts": [
+                {
+                    "description": "Search Notebooks",
+                    "keys": ["Alt", "F1"]
+                },
+                {
+                    "description": "Search Tags",
+                    "keys": ["Alt", "F2"]
+                },
+                {
+                    "description": "Search Saved Searches",
+                    "keys": ["Alt", "F3"]
+                },
+                {
+                    "description": "Go to previous note",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Go to next note",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Scroll note list up one page",
+                    "keys": ["PgUp"]
+                },
+                {
+                    "description": "Scroll note list down one page",
+                    "keys": ["PgDown"]
+                },
+                {
+                    "description": "Go to the first note in list",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Go to the last note in list",
+                    "keys": ["End"]
+                },
+                {
+                    "description": "Move to Trash",
+                    "keys": ["Delete"]
+                },
+                {
+                    "description": "Open the selected note in a separate window",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Set focus in the note editor of the selected note",
+                    "keys": ["Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Left Panel",
+            "shortcuts": [
+                {
+                    "description": "Move to the previous item in the section (notebooks, tags, ...)",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Move to the next item in the section (notebooks, tags, ...)",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "View the list of sub-items under the selected item (if applicable)",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Collapse the list of sub-items under the selected item (if applicable)",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Delete selected item",
+                    "keys": ["Delete"]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "view": "layout.shortcut",
+    "slug": "skype",
+    "title": "Skype",
+    "meta_title": "Keyboard shortcuts for Skype",
+    "meta_description": "A visual cheat-sheet for the 31 keyboard shortcuts found in Skype",
+    "reference_link": "https://support.skype.com/en/faq/FA12025/what-are-keyboard-shortcuts-and-how-do-i-use-them-in-skype",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Open Notification panel",
+                    "keys": ["Ctrl", "Shift", "O"]
+                },
+                {
+                    "description": "Open app settings",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Launch main dial pad",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Start new conversation",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "New group",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Find in current conversation",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Select next message in search results",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Select previous message in search results",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Focus Message Composer",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Search for People, Groups, and Messages",
+                    "keys": ["Ctrl", "Option", "S"]
+                },
+                {
+                    "description": "Navigate to recent chats",
+                    "keys": ["Alt", "1"]
+                },
+                {
+                    "description": "Open contacts",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Open contact screen to bots",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Send feedback",
+                    "keys": ["Ctrl", "Alt", "O"]
+                },
+                {
+                    "description": "Refresh the app",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Open themes",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Toggle between light and dark mode",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Zoom in, out, or actual size",
+                    "keys": ["Ctrl", "+/-/0"]
+                },
+                {
+                    "description": "Edit the last message sent",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Show conversation profile",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Add people to conversation or call",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Hide conversation",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Mark as unread",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Start video call or toggle video on/off",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Select multiple messages in conversation",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Start or answer audio call",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Send a file",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Open gallery",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Take a snapshot",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Hang up",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Toggle mute",
+                    "keys": ["Ctrl", "Shift", "M"]
+                }
+            ]
+        }
+    ]
+}

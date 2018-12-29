@@ -1,0 +1,330 @@
+{
+    "view": "layout.shortcut",
+    "slug": "bear-notes",
+    "title": "Bear",
+    "meta_title": "Keyboard shortcuts for Bear notes app",
+    "meta_description": "A visual cheat-sheet for the 66 keyboard shortcuts found in Bear. This application is MacOS-only.",
+    "reference_link": "https://bear.app/faq/Shortcuts%20and%20more/Mac%20shortcuts/",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Text Styles",
+            "shortcuts": [
+                {
+                    "description": "Headings",
+                    "keys": ["Option", "Cmd", "1-6"]
+                },
+                {
+                    "description": "Line separator",
+                    "keys": ["Option", "Cmd", "S"]
+                },
+                {
+                    "description": "Bold",
+                    "keys": ["Cmd", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Cmd", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Cmd", "U"]
+                },
+                {
+                    "description": "Strikethrough",
+                    "keys": ["Shift", "Cmd", "E"]
+                },
+                {
+                    "description": "Link",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Unordered list",
+                    "keys": ["Cmd", "L"]
+                },
+                {
+                    "description": "Ordered list",
+                    "keys": ["Shift", "Cmd", "L"]
+                },
+                {
+                    "description": "Quote",
+                    "keys": ["Shift", "Cmd", "U"]
+                },
+                {
+                    "description": "Todo",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "Inline code",
+                    "keys": ["Option", "Cmd", "C"]
+                },
+                {
+                    "description": "Code block",
+                    "keys": ["Ctrl", "Option", "C"]
+                },
+                {
+                    "description": "Marker/Highlighter",
+                    "keys": ["Shift", "Cmd", "M"]
+                },
+                {
+                    "description": "Insert file",
+                    "keys": ["Shift", "Cmd", "V"]
+                }
+            ]
+        },
+        {
+            "name": "Todos",
+            "shortcuts": [
+                {
+                    "description": "Toggle Todo",
+                    "keys": ["Shift", "Cmd", "T"]
+                },
+                {
+                    "description": "Mark Todo as completed",
+                    "keys": ["Option", "Cmd", "T"]
+                },
+                {
+                    "description": "Mark Todo as incomplete",
+                    "keys": ["Ctrl", "Cmd", "T"]
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "shortcuts": [
+                {
+                    "description": "Shift line right",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Shift line left",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Move line up",
+                    "keys": ["Cmd", "Option", "Up"]
+                },
+                {
+                    "description": "Move line down",
+                    "keys": ["Cmd", "Option", "Down"]
+                }
+            ]
+        },
+        {
+            "name": "Lists",
+            "shortcuts": [
+                {
+                    "description": "Shift the list element right",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Shift the list element left",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "End the list",
+                    "keys": ["Shift", "Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Dates",
+            "shortcuts": [
+                {
+                    "description": "Long Form Date with time (11 Jul 2017, 10:43)",
+                    "keys": ["Shift", "Cmd", "7"]
+                },
+                {
+                    "description": "Long Form Date (11 Jul 2017)",
+                    "keys": ["Shift", "Cmd", "8"]
+                },
+                {
+                    "description": "Short Form Date (11/07/2017)",
+                    "keys": ["Shift", "Cmd", "9"]
+                },
+                {
+                    "description": "Hours (11:43)",
+                    "keys": ["Shift", "Cmd", "0"]
+                }
+            ]
+        },
+        {
+            "name": "Control",
+            "shortcuts": [
+                {
+                    "description": "Select all",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "End editing",
+                    "keys": ["Cmd", "Enter"]
+                },
+                {
+                    "description": "Print note",
+                    "keys": ["Cmd", "P"]
+                }
+            ]
+        },
+        {
+            "name": "Zoom",
+            "shortcuts": [
+                {
+                    "description": "Zoom in",
+                    "keys": ["Cmd", "+"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Cmd", "-"]
+                },
+                {
+                    "description": "Actual size",
+                    "keys": ["Cmd", "0"]
+                }
+            ]
+        },
+        {
+            "name": "Panels and search",
+            "shortcuts": [
+                {
+                    "description": "Toggle information panel",
+                    "keys": ["Shift", "Cmd", "I"]
+                },
+                {
+                    "description": "Search inside the current note",
+                    "keys": ["Cmd", "F"]
+                },
+                {
+                    "description": "Search and replace inside the current note",
+                    "keys": ["Option", "Cmd", "F"]
+                },
+                {
+                    "description": "Search inside the note list",
+                    "keys": ["Shift", "Cmd", "F"]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Create a new note",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "Create a new note in a new window",
+                    "keys": ["Option", "Cmd", "N"]
+                },
+                {
+                    "description": "Move the selection in the note and tags list",
+                    "keys": ["Up/Down"]
+                },
+                {
+                    "description": "Move the selection between the sidebar, the nost list, and the editor",
+                    "keys": ["Left/Right"]
+                },
+                {
+                    "description": "Edit the selected note",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Search in the current note list",
+                    "keys": ["Option", "Cmd", "F"]
+                },
+                {
+                    "description": "Delete selected note",
+                    "keys": ["Cmd", "Backspace"]
+                },
+                {
+                    "description": "Restore selected note",
+                    "keys": ["Shift", "Cmd", "R"]
+                },
+                {
+                    "description": "Pin/unpin selected note",
+                    "keys": ["Shift", "Cmd", "P"]
+                },
+                {
+                    "description": "Select all the notes in the list",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "Empty Trash",
+                    "keys": ["Shift", "Cmd", "Backspace"]
+                },
+                {
+                    "description": "Select Notes in the sidebar",
+                    "keys": ["Cmd", "1"]
+                },
+                {
+                    "description": "Select Untagged in the sidebar",
+                    "keys": ["Cmd", "2"]
+                },
+                {
+                    "description": "Select ToDo in the sidebar",
+                    "keys": ["Cmd", "3"]
+                },
+                {
+                    "description": "Select Today in the sidebar",
+                    "keys": ["Cmd", "4"]
+                },
+                {
+                    "description": "Select Archive in the sidebar",
+                    "keys": ["Cmd", "5"]
+                },
+                {
+                    "description": "Select Trash in the sidebar",
+                    "keys": ["Cmd", "6"]
+                },
+                {
+                    "description": "Navigate back in visualized notes history",
+                    "keys": ["Option", "Cmd", "Left"]
+                },
+                {
+                    "description": "Navigate forward in visualized notes history",
+                    "keys": ["Option", "Cmd", "Right"]
+                }
+            ]
+        },
+        {
+            "name": "Saving and importing",
+            "shortcuts": [
+                {
+                    "description": "Export selected notes",
+                    "keys": ["Shift", "Cmd", "S"]
+                },
+                {
+                    "description": "Import notes",
+                    "keys": ["Shift", "Cmd", "O"]
+                }
+            ]
+        },
+        {
+            "name": "Window",
+            "shortcuts": [
+                {
+                    "description": "Show sidebar, note list and editor",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Show note list and editor",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Show editor only",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Show preferences",
+                    "keys": ["Cmd", ","]
+                },
+                {
+                    "description": "Enter fullscreen",
+                    "keys": ["Ctrl", "Cmd", "F"]
+                },
+                {
+                    "description": "Open main window",
+                    "keys": ["Cmd", "\\"]
+                }
+            ]
+        }
+    ]
+}

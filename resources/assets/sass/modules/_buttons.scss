@@ -1,0 +1,38 @@
+.btn {
+    display: inline-block;
+    text-decoration: none !important;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+    padding: 0.65rem 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.75px;
+    border-radius: 2px;
+
+    &.btn-primary {
+        background: $color-red;
+        color: $color-white;
+        transition: all 0.15s ease-in;
+
+        &:hover {
+            background: lighten($color-red, 5);
+        }
+        &:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba($color-red, 0.35);
+        }
+    }
+    &.btn-secondary {
+        background: $color-light-grey;
+        color: rgba($color-dark-grey, 0.5);
+        transition: all 0.15s ease-in;
+
+        &:hover {
+            background: darken($color-light-grey, 5);
+        }
+        &:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba($color-light-grey, 0.35);
+        }
+    }
+}

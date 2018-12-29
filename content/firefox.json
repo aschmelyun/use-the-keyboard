@@ -1,0 +1,529 @@
+{
+    "view": "layout.shortcut",
+    "slug": "firefox",
+    "title": "Firefox",
+    "meta_title": "Keyboard shortcuts for Firefox",
+    "meta_description": "A visual cheat-sheet for the 116 keyboard shortcuts found in Firefox",
+    "reference_link": "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
+    "sections": [
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Back",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Home",
+                    "keys": ["Alt", "Home"]
+                },
+                {
+                    "description": "Open File",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Reload",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Reload (override cache)",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Stop",
+                    "keys": ["Ctrl", "."]
+                }
+            ]
+        },
+        {
+            "name": "Current Page",
+            "shortcuts": [
+                {
+                    "description": "Focus Next Link or Input Field",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Focus Previous Link or Input Field",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Go Down a Screen",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Go Up a Screen",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Go to Bottom of Page",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Go to Top of Page",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Move to Next Frame",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Move to Previous Frame",
+                    "keys": ["Shift", "F6"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Save Page As",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Zoom In",
+                    "keys": ["Ctrl", "+"]
+                },
+                {
+                    "description": "Zoom Out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Zoom Reset",
+                    "keys": ["Ctrl", "0"]
+                }
+            ]
+        },
+        {
+            "name": "Editing",
+            "shortcuts": [
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Backspace"]
+                },
+                {
+                    "description": "Go to Beginning of Line",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Go to End of Line",
+                    "keys": ["End"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Paste (as plain text)",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Select All",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                }
+            ]
+        },
+        {
+            "name": "Search",
+            "shortcuts": [
+                {
+                    "description": "Find",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Find Again",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Find Previous",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Quick Find within link-text only",
+                    "keys": ["'"]
+                },
+                {
+                    "description": "Quick Find",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Close the Find or Quick Find bar",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Focus Search bar",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Change the Default Search Engine",
+                    "keys": ["Ctrl", "Up/Down"]
+                },
+                {
+                    "description": "View menu to switch, add, or manage search engines",
+                    "keys": ["Alt", "Up/Down"]
+                }
+            ]
+        },
+        {
+            "name": "Windows and Tabs",
+            "shortcuts": [
+                {
+                    "description": "Close Tab",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Close Window",
+                    "keys": ["Ctrl", "Shift", "W"]
+                },
+                {
+                    "description": "Cycle through Tabs in Recently Used Order",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Quit",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Go one Tab to the Left",
+                    "keys": ["Ctrl", "Alt", "Left"]
+                },
+                {
+                    "description": "Go one Tab to the Right",
+                    "keys": ["Ctrl", "Alt", "Right"]
+                },
+                {
+                    "description": "Move Tab Left",
+                    "keys": ["Ctrl", "Shift", "PgUp"]
+                },
+                {
+                    "description": "Move Tab Right",
+                    "keys": ["Ctrl", "Shift", "PgDown"]
+                },
+                {
+                    "description": "Move Tab in focus to start",
+                    "keys": ["Ctrl", "Shift", "Home"]
+                },
+                {
+                    "description": "Move Tab in focus to end",
+                    "keys": ["Ctrl", "Shift", "End"]
+                },
+                {
+                    "description": "Mute/Unmute Audio",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "New Tab",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "New Window",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "New Private Window",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Open Address in New Foreground Tab",
+                    "keys": ["Alt", "Enter"]
+                },
+                {
+                    "description": "Open Focused Bookmark or Link in Current Tab",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Open Focused Bookmark in New Foreground Tab",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Open Focused Bookmark in New Background Tab",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Open Focused Link in New Background Tab",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Open Focused Bookmark or Link in New Window",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Undo Close Tab",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Undo Close Window",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Select Tab 1-8",
+                    "keys": ["Ctrl", "1-8"]
+                },
+                {
+                    "description": "Select Last Tab",
+                    "keys": ["Ctrl", "9"]
+                },
+                {
+                    "description": "Moves the URL left or right",
+                    "keys": ["Ctrl", "Shift", "X"]
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "shortcuts": [
+                {
+                    "description": "History sidebar",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Clear Recent History",
+                    "keys": ["Ctrl", "Shift", "Delete"]
+                }
+            ]
+        },
+        {
+            "name": "Bookmarks",
+            "shortcuts": [
+                {
+                    "description": "Bookmark All Tabs",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Bookmark This Page",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Bookmarks sidebar",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Library window (Bookmarks)",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Search for all Bookmarks",
+                    "keys": ["(search field in Library)", "Space"]
+                }
+            ]
+        },
+        {
+            "name": "Tools",
+            "shortcuts": [
+                {
+                    "description": "Downloads",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Add-ons",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Toggle Developer Tools",
+                    "keys": ["Ctrl", "Alt", "I"]
+                },
+                {
+                    "description": "Web Console",
+                    "keys": ["Ctrl", "Alt", "K"]
+                },
+                {
+                    "description": "Inspector",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Debugger",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Style Editor",
+                    "keys": ["Shift", "F7"]
+                },
+                {
+                    "description": "Profiler",
+                    "keys": ["Shift", "F5"]
+                },
+                {
+                    "description": "Network",
+                    "keys": ["Ctrl", "Alt", "E"]
+                },
+                {
+                    "description": "Developer Toolbar",
+                    "keys": ["Shift", "F2"]
+                },
+                {
+                    "description": "Responsive Design View",
+                    "keys": ["Ctrl", "Alt", "M"]
+                },
+                {
+                    "description": "Scratchpad",
+                    "keys": ["Shift", "F4"]
+                },
+                {
+                    "description": "Page Source",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Browser Console",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Page Info",
+                    "keys": ["Ctrl", "I"]
+                }
+            ]
+        },
+        {
+            "name": "PDF Viewer",
+            "shortcuts": [
+                {
+                    "description": "Next page",
+                    "keys": ["N/J/Right"]
+                },
+                {
+                    "description": "Previous page",
+                    "keys": ["P/K/Left"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["Ctrl", "+"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Automatic Zoom",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Rotate the document clockwise",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Rotate counterclockwise",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Switch to Presentation Mode",
+                    "keys": ["Ctrl", "Alt", "P"]
+                },
+                {
+                    "description": "Choose Text Selection Tool",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Choose Hand Tool",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Focus the Page Number input box",
+                    "keys": ["Ctrl", "Alt", "G"]
+                }
+            ]
+        },
+        {
+            "name": "Miscellaneous",
+            "shortcuts": [
+                {
+                    "description": "Complete .com address",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Complete .net address",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Complete .org address",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Delete Selected Autocomplete Entry",
+                    "keys": ["Shift", "Delete"]
+                },
+                {
+                    "description": "Toggle Full Screen",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Toggle Reader Mode",
+                    "keys": ["Ctrl", "Alt", "R"]
+                },
+                {
+                    "description": "Caret Browsing",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Select Location Bar",
+                    "keys": ["Ctrl", "L"]
+                }
+            ]
+        },
+        {
+            "name": "Media Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Toggle Play/Pause",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Decrease volume",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Increase volume",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Mute audio",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Unmute audio",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Seek back 15 seconds",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Seek back 10%",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Seek forward 15 seconds",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Seek forward 10%",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Seek to the beginning",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Seek to the end",
+                    "keys": ["End"]
+                }
+            ]
+        }
+    ]
+}

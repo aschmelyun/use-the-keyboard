@@ -1,0 +1,343 @@
+{
+    "view": "layout.shortcut",
+    "slug": "vlc",
+    "title": "VLC Player",
+    "meta_title": "Keyboard shortcuts for VLC",
+    "meta_description": "A visual cheat-sheet for the 82 keyboard shortcuts found in VLC Player",
+    "reference_link": "https://wiki.videolan.org/hotkeys_table/",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Fullscreen",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Leave fullscreen",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Play/Pause",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Pause only",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Play only",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Faster",
+                    "keys": ["+"]
+                },
+                {
+                    "description": "Slower",
+                    "keys": ["-"]
+                },
+                {
+                    "description": "Normal rate",
+                    "keys": ["="]
+                },
+                {
+                    "description": "Next",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Previous",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Stop",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Position",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Very short backwards jump",
+                    "keys": ["Shift", "Left"]
+                },
+                {
+                    "description": "Very short forwards jump",
+                    "keys": ["Shift", "Right"]
+                },
+                {
+                    "description": "Short backwards jump",
+                    "keys": ["Alt", "Left"]
+                },
+                {
+                    "description": "Short forwards jump",
+                    "keys": ["Alt", "Right"]
+                },
+                {
+                    "description": "Medium backwards jump",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Medium forwards jump",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Long backwards jump",
+                    "keys": ["Ctrl", "Alt", "Left"]
+                },
+                {
+                    "description": "Long forwards jump",
+                    "keys": ["Ctrl", "Alt", "Right"]
+                },
+                {
+                    "description": "Next frame",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Activate",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Navigate up",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Navigate down",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Navigate left",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Navigate right",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Go to the DVD menu",
+                    "keys": ["Shift", "M"]
+                },
+                {
+                    "description": "Select previous DVD title",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "Select next DVD title",
+                    "keys": ["Shift", "B"]
+                },
+                {
+                    "description": "Select previous DVD chapter",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Select next DVD chapter",
+                    "keys": ["Shift", "N"]
+                },
+                {
+                    "description": "Quit",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Volume up",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Volume down",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Mute",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Subtitle delay up",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Subtitle delay down",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "Audio delay up",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Audio delay down",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Cycle audio track",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Cycle through audio devices",
+                    "keys": ["Shift", "A"]
+                },
+                {
+                    "description": "Cycle subtitle track",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Cycle source aspect ratio",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Cycle video crop",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Toggle autoscaling",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Increase scale factor",
+                    "keys": ["Alt", "O"]
+                },
+                {
+                    "description": "Decrease scale factor",
+                    "keys": ["Shift", "Alt", "O"]
+                },
+                {
+                    "description": "Cycle deinterlace modes",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Show interface",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Hide interface",
+                    "keys": ["Shift", "I"]
+                },
+                {
+                    "description": "Take video snapshot",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Go back in browsing history",
+                    "keys": ["Shift", "G"]
+                },
+                {
+                    "description": "Go forward in browsing history",
+                    "keys": ["Shift", "H"]
+                },
+                {
+                    "description": "Record",
+                    "keys": ["Shift", "R"]
+                },
+                {
+                    "description": "Dump",
+                    "keys": ["Shift", "D"]
+                },
+                {
+                    "description": "Zoom",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Un-Zoom",
+                    "keys": ["Shift", "Z"]
+                },
+                {
+                    "description": "Toggle wallpaper mode",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Display OSD menu on top",
+                    "keys": ["Alt", "Shift", "M"]
+                },
+                {
+                    "description": "Do not display OSD menu",
+                    "keys": ["Alt", "Ctrl", "M"]
+                },
+                {
+                    "description": "Highlight widget on the right",
+                    "keys": ["Alt", "Shift", "Right"]
+                },
+                {
+                    "description": "Highlight widget on the left",
+                    "keys": ["Alt", "Shift", "Left"]
+                },
+                {
+                    "description": "Highlight widget on top",
+                    "keys": ["Alt", "Shift", "Up"]
+                },
+                {
+                    "description": "Highlight widget on bottom",
+                    "keys": ["Alt", "Shift", "Down"]
+                },
+                {
+                    "description": "Select current widget",
+                    "keys": ["Alt", "Shift", "Enter"]
+                },
+                {
+                    "description": "Crop one pixel from the top",
+                    "keys": ["Alt", "R"]
+                },
+                {
+                    "description": "Uncrop one pixel from the top",
+                    "keys": ["Alt", "Shift", "R"]
+                },
+                {
+                    "description": "Crop one pixel from the left",
+                    "keys": ["Alt", "D"]
+                },
+                {
+                    "description": "Uncrop one pixel from the left",
+                    "keys": ["Alt", "Shift", "D"]
+                },
+                {
+                    "description": "Crop one pixel from the bottom",
+                    "keys": ["Alt", "C"]
+                },
+                {
+                    "description": "Uncrop one pixel from the bottom",
+                    "keys": ["Alt", "Shift", "C"]
+                },
+                {
+                    "description": "Crop one pixel from the right",
+                    "keys": ["Alt", "F"]
+                },
+                {
+                    "description": "Uncrop one pixel from the right",
+                    "keys": ["Alt", "Shift", "F"]
+                },
+                {
+                    "description": "Random",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Normal/Repeat/Loop",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "1:4 Quarter",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "1:2 Half",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "1:1 Original",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "2:1 Double",
+                    "keys": ["Ctrl", "4"]
+                },
+                {
+                    "description": "Very short jump length (integer)",
+                    "keys": ["3"]
+                },
+                {
+                    "description": "Set playlist bookmark 1-10",
+                    "keys": ["Ctrl", "F1-F10"]
+                },
+                {
+                    "description": "Play playlist bookmark 1-10",
+                    "keys": ["F1-F10"]
+                }
+            ]
+        }
+    ]
+}

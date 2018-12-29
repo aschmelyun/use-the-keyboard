@@ -1,0 +1,8 @@
+{
+    "view": "layout.default",
+    "slug": "/",
+    "title": "Use The Keyboard",
+    "meta_title": "Welcome",
+    "meta_description": "A collection of keyboard shortcuts for Mac Windows programs.",
+    "popular": ["slack", "vs-code", "evernote", "spotify"]
+}

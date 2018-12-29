@@ -1,0 +1,24 @@
+.search-input {
+    width: 100%;
+    background-color: $color-white;
+    background-image: url('/assets/img/search.svg');
+    background-repeat: no-repeat;
+    background-position: 97% center;
+    background-size: 22px;
+    border-radius: 2px;
+    color: $color-dark-grey;
+    border: 1px solid $color-med-grey;
+    box-shadow: 0 1px 7px rgba(0,0,0,0.08);
+    font-family: $ff-primary;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0.75rem 1rem;
+    margin-top: 1.25rem;
+    transition: all 0.15s ease-in;
+
+    &:focus {
+        outline: none;
+        border-color: darken($color-med-grey, 5);
+        box-shadow: 0 1px 9px rgba(0,0,0,0.13);
+    }
+}

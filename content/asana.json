@@ -1,0 +1,200 @@
+{
+    "view": "layout.shortcut",
+    "slug": "asana",
+    "title": "Asana",
+    "meta_title": "Keyboard shortcuts for Asana",
+    "meta_description": "A visual cheat-sheet for the 40 keyboard shortcuts found in Asana",
+    "reference_link": "https://asana.com/guide/help/faq/shortcuts",
+    "sections": [
+        {
+            "name": "My Tasks",
+            "shortcuts": [
+                {
+                    "description": "Mark as Today in your My Tasks",
+                    "keys": ["Tab", "Y"]
+                },
+                {
+                    "description": "Mark as Upcoming in your My Tasks",
+                    "keys": ["Tab", "U"]
+                },
+                {
+                    "description": "Mark as Later in your My Tasks",
+                    "keys": ["Tab", "L"]
+                }
+            ]
+        },
+        {
+            "name": "Inbox",
+            "shortcuts": [
+                {
+                    "description": "Move Up/Down",
+                    "keys": ["K/J"]
+                },
+                {
+                    "description": "Jump to Inbox tab",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Jump to Archive tab",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Follow or Unfollow",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Archive",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Move to Inbox",
+                    "keys": ["U"]
+                }
+            ]
+        },
+        {
+            "name": "Task Actions",
+            "shortcuts": [
+                {
+                    "description": "New Task",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Delete Selected Task(s)",
+                    "keys": ["Tab", "Backspace"]
+                },
+                {
+                    "description": "Delete current task (when task name is empty)",
+                    "keys": ["Backspace"]
+                },
+                {
+                    "description": "Complete Selected Task(s)",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Move Up/Down",
+                    "keys": ["Ctrl", "Up/Down"]
+                },
+                {
+                    "description": "Jump Up/Down to the next Section",
+                    "keys": ["Ctrl", "Shift", "Up/Down"]
+                },
+                {
+                    "description": "Copy Selected Tasks",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste Tasks (one per line)",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Assign to Me",
+                    "keys": ["Tab", "M"]
+                },
+                {
+                    "description": "Like a Selected Task",
+                    "keys": ["Tab", "H"]
+                },
+                {
+                    "description": "Create a Section (at the end of a task name)",
+                    "keys": [":"]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Navigate to My Tasks",
+                    "keys": ["Tab", "Z"]
+                },
+                {
+                    "description": "Navigate to Inbox",
+                    "keys": ["Tab", "I"]
+                },
+                {
+                    "description": "Comment on Selected Task",
+                    "keys": ["Tab", "C"]
+                },
+                {
+                    "description": "Assign Selected Task",
+                    "keys": ["Tab", "A"]
+                },
+                {
+                    "description": "Set Due Date",
+                    "keys": ["Tab", "D"]
+                },
+                {
+                    "description": "Add Follower",
+                    "keys": ["Tab", "F"]
+                },
+                {
+                    "description": "Add a tag to the task",
+                    "keys": ["Tab", "T"]
+                },
+                {
+                    "description": "Focus Subtasks",
+                    "keys": ["Tab", "S"]
+                },
+                {
+                    "description": "Search for a project, tag, person, or task",
+                    "keys": ["Tab", "/"]
+                }
+            ]
+        },
+        {
+            "name": "Selection",
+            "shortcuts": [
+                {
+                    "description": "Change Selection",
+                    "keys": ["Up/Down"]
+                },
+                {
+                    "description": "Select Range",
+                    "keys": ["Shift", "(click)"]
+                },
+                {
+                    "description": "Select Range",
+                    "keys": ["Shift", "Up/Down"]
+                },
+                {
+                    "description": "Multi-select Individual Task",
+                    "keys": ["Ctrl", "(click)"]
+                }
+            ]
+        },
+        {
+            "name": "Application",
+            "shortcuts": [
+                {
+                    "description": "Show Keyboard Shortcuts",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Expand the right pane",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Collapse the right pane",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Enter Focus Mode",
+                    "keys": ["Tab", "X"]
+                },
+                {
+                    "description": "Quick Add",
+                    "keys": ["Tab", "Q"]
+                },
+                {
+                    "description": "Post Comment (from comment field)",
+                    "keys": ["Tab", "Enter"]
+                },
+                {
+                    "description": "What it sounds like",
+                    "keys": ["Tab", "B"]
+                }
+            ]
+        }
+    ]
+}

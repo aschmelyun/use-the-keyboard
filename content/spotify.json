@@ -1,0 +1,107 @@
+{
+    "view": "layout.shortcut",
+    "slug": "spotify",
+    "title": "Spotify",
+    "meta_title": "Keyboard shortcuts for Spotify",
+    "meta_description": "A visual cheat-sheet for the 23 keyboard shortcuts found in Spotify",
+    "reference_link": "https://support.spotify.com/is/using_spotify/system_settings/keyboard-shortcuts/",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Create new playlist",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Copy (alternative link)",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Del"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Play/pause",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Next track",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Previous track",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Volume up",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Volume down",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Mute",
+                    "keys": ["Ctrl", "Shift", "Down"]
+                },
+                {
+                    "description": "Max volume",
+                    "keys": ["Ctrl", "Shift", "Up"]
+                },
+                {
+                    "description": "Show help",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Filter (in Songs and Playlists)",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Give focus to search field",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Go back",
+                    "keys": ["Alt", "Left"]
+                },
+                {
+                    "description": "Go forward",
+                    "keys": ["Alt", "Right"]
+                },
+                {
+                    "description": "Play selected row",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Preferences",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Logout active user",
+                    "keys": ["Ctrl", "Shift", "W"]
+                },
+                {
+                    "description": "Quit",
+                    "keys": ["Alt", "F4"]
+                }
+            ]
+        }
+    ]
+}

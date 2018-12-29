@@ -1,0 +1,138 @@
+#!/usr/bin/env php
+<?php
+
+require 'vendor/autoload.php';
+
+use Philo\Blade\Blade;
+use Symfony\Component\Finder\Finder;
+
+class Taro
+{
+    public $version = '0.2.0';
+    public $viewsDir = __DIR__ . '/resources/views';
+    public $cacheDir = __DIR__ . '/cache';
+    public $contentDir = __DIR__ . '/content';
+    public $mixManifest = __DIR__ . '/mix-manifest.json';
+    public $outputRoot = 'dist';
+
+    private $blade;
+    private $contentCount = 0;
+    private $processTime = [];
+
+    public function __construct()
+    {
+        $this->blade = new Blade($this->viewsDir, $this->cacheDir);
+        $this->processTime['start'] = microtime(true);
+    }
+
+    public function init()
+    {
+        $this->cleanDistFolder();
+
+        $contentFiles = array_diff(scandir($this->contentDir), array('.', '..'));
+        $mixManifest = json_decode(str_replace('/dist', '', file_get_contents($this->mixManifest)), true);
+
+        foreach($contentFiles as $file) {
+            $data = json_decode(file_get_contents($this->contentDir . '/' . $file));
+            $data->contentDir = $this->contentDir;
+            $data->mix = $mixManifest;
+
+            if(!$this->dataHasErrors($data, $file)) {
+                $this->renderPage($data);
+            }
+        }
+
+        $this->finish();
+    }
+
+    public function cleanDistFolder()
+    {
+        $finder = new Finder();
+        $directories = $finder->directories()
+            ->in($this->outputRoot)
+            ->ignoreDotFiles(true)
+            ->exclude(['assets'])
+            ->depth(0);
+
+        foreach($directories as $dir) {
+            rmdir($dir);
+        }
+
+        $files = $finder->files()
+            ->in($this->outputRoot)
+            ->ignoreDotFiles(true)
+            ->depth(0);
+
+        foreach($files as $file) {
+            unlink($file);
+        }
+
+        return true;
+    }
+
+    public function dataHasErrors($data, $file)
+    {
+        $hasErrors = false;
+        if(!isset($data->view)) {
+            echo "❌ \033[1m " . $file . "\033[0m is missing the 'view' property, skipping that page." . PHP_EOL;
+            $hasErrors = true;
+        }
+
+        if(!isset($data->slug)) {
+            echo "🚫 \033[1m " . $file . "\033[0m is missing the 'slug' property, skipping that page." . PHP_EOL;
+            $hasErrors = true;
+        }
+
+        return $hasErrors;
+    }
+
+    public function renderPage($data)
+    {
+        $started = microtime(true);
+        $content = $this->blade->view()
+            ->make($data->view, get_object_vars($data))
+            ->render();
+
+        $outputPath = $this->determineOutputPath($data->slug);
+
+        $stored = file_put_contents($outputPath, $content);
+        $ended = microtime(true);
+
+        if($stored) {
+            $this->contentCount++;
+            echo "👍 \033[1m " . $data->slug . "\033[0m built in " . round((($ended - $started)*1000), 3) . " milliseconds." . PHP_EOL;
+        } else {
+            echo "🚫 \033[1m " . $data->slug . "\033[0m could not be built." . PHP_EOL;
+        }
+    }
+
+    public function determineOutputPath($output)
+    {
+        $outputDir = $this->outputRoot . '/' . $output;
+        if(!is_dir($outputDir))
+            mkdir($outputDir, 0755, true);
+
+        $outputPath = $outputDir . '/index.html';
+        return $outputPath;
+    }
+
+    public function finish()
+    {
+        $this->processTime['end'] = microtime(true);
+        echo "🎁 \033[1m " . 
+            $this->contentCount . 
+            " pages \033[0mbuilt in " . 
+            round((($this->processTime['end'] - $this->processTime['start'])*1000), 3) . 
+            " milliseconds." . 
+            PHP_EOL;
+    }
+}
+
+$taro = new Taro;
+if(isset($argv[1]) && $argv[1] === 'build') {
+    $taro->init();
+    exit();
+}
+
+echo 'V' . $taro->version . PHP_EOL;
+exit();

@@ -1,0 +1,266 @@
+{
+    "view": "layout.shortcut",
+    "slug": "google-drive",
+    "title": "Google Drive",
+    "meta_title": "Keyboard shortcuts for Google Drive",
+    "meta_description": "A visual cheat-sheet for the 54 keyboard shortcuts found in Google Drive on the web",
+    "reference_link": "https://support.google.com/drive/answer/2563044?hl=en",
+    "sections": [
+        {
+            "name": "Navigation and views",
+            "shortcuts": [
+                {
+                    "description": "Go to navigation panel (folders list)",
+                    "keys": ["G", "N"]
+                },
+                {
+                    "description": "Go to items view",
+                    "keys": ["G", "L"]
+                },
+                {
+                    "description": "Switch between grid and list in items view",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Go to details pane",
+                    "keys": ["G", "D"]
+                },
+                {
+                    "description": "Go to top of application (Google bar)",
+                    "keys": ["G", "T"]
+                },
+                {
+                    "description": "Go to download status",
+                    "keys": ["G", "A"]
+                },
+                {
+                    "description": "Go to upload status",
+                    "keys": ["G", "U"]
+                },
+                {
+                    "description": "Show or hide details pane",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Show or hide activity pane",
+                    "keys": ["I"]
+                }
+            ]
+        },
+        {
+            "name": "Select items",
+            "shortcuts": [
+                {
+                    "description": "Select or deselect item",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Select next item down",
+                    "keys": ["J/Down"]
+                },
+                {
+                    "description": "Select next item up",
+                    "keys": ["K/Up"]
+                },
+                {
+                    "description": "Select next item to the left",
+                    "keys": ["H/Left"]
+                },
+                {
+                    "description": "Select next item to the right",
+                    "keys": ["L/Right"]
+                },
+                {
+                    "description": "Extend selection down",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Extend selection up",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Extend selection left",
+                    "keys": ["Shift", "Left"]
+                },
+                {
+                    "description": "Extend selection right",
+                    "keys": ["Shift", "Right"]
+                },
+                {
+                    "description": "Select all visible items",
+                    "keys": ["Shift", "A"]
+                },
+                {
+                    "description": "Clear all selections",
+                    "keys": ["Shift", "N"]
+                }
+            ]
+        },
+        {
+            "name": "Move between items",
+            "shortcuts": [
+                {
+                    "description": "Move down without changing selection",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Move up without changing selection",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Move left without changing selection",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Move right without changing selection",
+                    "keys": ["Ctrl", "Right"]
+                }
+            ]
+        },
+        {
+            "name": "Take action on selected items",
+            "shortcuts": [
+                {
+                    "description": "Open selected item",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Rename selected item",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Share selected items",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Move selected items to new folder",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Star or unstar selected items",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Add selected items to an additional folder",
+                    "keys": ["Shift", "Z"]
+                },
+                {
+                    "description": "Remove selected items",
+                    "keys": ["Delete"]
+                },
+                {
+                    "description": "Undo last action",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo last undone action",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                }
+            ]
+        },
+        {
+            "name": "Create new items",
+            "shortcuts": [
+                {
+                    "description": "Document",
+                    "keys": ["Shift", "T"]
+                },
+                {
+                    "description": "Presentation",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Spreadsheet",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Drawing",
+                    "keys": ["Shift", "D"]
+                },
+                {
+                    "description": "Folder",
+                    "keys": ["Shift", "F"]
+                },
+                {
+                    "description": "Form",
+                    "keys": ["Shift", "O"]
+                }
+            ]
+        },
+        {
+            "name": "Open menus",
+            "shortcuts": [
+                {
+                    "description": "Create menu",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "More actions menu",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Current folder actions menu",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Sort menu",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Settings menu",
+                    "keys": ["T"]
+                }
+            ]
+        },
+        {
+            "name": "Application actions",
+            "shortcuts": [
+                {
+                    "description": "Display keyboard shortcuts list",
+                    "keys": ["Shift", "/"]
+                },
+                {
+                    "description": "Choose next visual density",
+                    "keys": ["Q", "Q"]
+                },
+                {
+                    "description": "Find/find next",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Show last message",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Search your drive",
+                    "keys": ["/"]
+                }
+            ]
+        },
+        {
+            "name": "Preview mode actions",
+            "shortcuts": [
+                {
+                    "description": "Close",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Play/pause",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["+/="]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["-"]
+                }
+            ]
+        }
+    ]
+}

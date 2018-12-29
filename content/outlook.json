@@ -1,0 +1,940 @@
+{
+    "view": "layout.shortcut",
+    "slug": "outlook",
+    "title": "Microsoft Outlook",
+    "meta_title": "Keyboard shortcuts for Microsoft Outlook",
+    "meta_description": "A visual cheat-sheet for the 210 keyboard shortcuts found in Microsoft Outlook",
+    "reference_link": "https://support.office.com/en-us/article/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd",
+    "sections": [
+        {
+            "name": "Frequently used",
+            "shortcuts": [
+                {
+                    "description": "Close",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Go to Home tab",
+                    "keys": ["Alt", "H"]
+                },
+                {
+                    "description": "New message",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Send",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Insert file",
+                    "keys": ["Alt", "N"]
+                },
+                {
+                    "description": "New task",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Delete"]
+                },
+                {
+                    "description": "Search",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Reply",
+                    "keys": ["Alt", "H", "R, P"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["Alt", "H", "F"]
+                },
+                {
+                    "description": "Reply all",
+                    "keys": ["Alt", "H", "R, A"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Send/Receive",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Go to calendar",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Create appointment",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Move to folder",
+                    "keys": ["Alt", "H", "M, V"]
+                },
+                {
+                    "description": "Attachment Save As",
+                    "keys": ["Alt", "J", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Basic navigation",
+            "shortcuts": [
+                {
+                    "description": "Switch to Mail view",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Switch to Calendar view",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Switch to Contacts view",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Switch to Tasks view",
+                    "keys": ["Ctrl", "4"]
+                },
+                {
+                    "description": "Switch to Notes",
+                    "keys": ["Ctrl", "5"]
+                },
+                {
+                    "description": "Switch to Folders list in the Folder pane",
+                    "keys": ["Ctrl", "6"]
+                },
+                {
+                    "description": "Switch to Shortcuts",
+                    "keys": ["Ctrl", "7"]
+                },
+                {
+                    "description": "Switch to next open message",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Switch to previous open message",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Move between Folder/Outlook/Reading/To-Do",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Move ar ound message header lines in the Folder pane",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Move around within the Folder pane",
+                    "keys": ["Arrows"]
+                },
+                {
+                    "description": "Go to a different folder",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Go to the Search box",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "In the Reading pane, go to the previous message",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "In the Reading pane, page down through text",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "In the Reading pane, page up through text",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Collapse or expand a group in the email message list",
+                    "keys": ["Left/Right"]
+                },
+                {
+                    "description": "Go back to previous view in the main Outlook window",
+                    "keys": ["Alt", "B/Left"]
+                },
+                {
+                    "description": "Go forward to next view in the main Outlook window",
+                    "keys": ["Alt", "Right"]
+                },
+                {
+                    "description": "Select the InfoBar and, if available, show menu of commands",
+                    "keys": ["Ctrl", "Shift", "W"]
+                }
+            ]
+        },
+        {
+            "name": "Search",
+            "shortcuts": [
+                {
+                    "description": "Find a message or other item",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Clear the search results",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Expand the search to include all items in module you are in",
+                    "keys": ["Ctrl", "Alt", "A"]
+                },
+                {
+                    "description": "Use Advanced Find",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Create a Search folder",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Search for text within an open item",
+                    "keys": ["F4"]
+                },
+                {
+                    "description": "Find and replace text/symbols in Reading pane",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Expand search to include items from the current folder",
+                    "keys": ["Ctrl", "Alt", "K"]
+                },
+                {
+                    "description": "Expand search to include subfolders",
+                    "keys": ["Ctrl", "Alt", "Z"]
+                }
+            ]
+        },
+        {
+            "name": "Flags",
+            "shortcuts": [
+                {
+                    "description": "Open the Flag for Follow Up dialog box",
+                    "keys": ["Ctrl", "Shift", "G"]
+                }
+            ]
+        },
+        {
+            "name": "Color categories",
+            "shortcuts": [
+                {
+                    "description": "Delete the selected category from the list in the Color categories box",
+                    "keys": ["Alt", "D"]
+                }
+            ]
+        },
+        {
+            "name": "Create an item or file",
+            "shortcuts": [
+                {
+                    "description": "Create an appointment",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Create a contact",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Create a contact group",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Create a fax",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Create a folder",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Create a meeting request",
+                    "keys": ["Ctrl", "Shift", "Q"]
+                },
+                {
+                    "description": "Create a message",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Create a note",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Create an Office document",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Post to the selected folder",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Post a reply in the selected folder",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Create a Search folder",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Create a task",
+                    "keys": ["Ctrl", "Shift", "K"]
+                }
+            ]
+        },
+        {
+            "name": "Commands in most views",
+            "shortcuts": [
+                {
+                    "description": "Save (except in Tasks view)",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Save and close (except in Mail view)",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Save as (only in Mail view)",
+                    "keys": ["F12"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Delete an item",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Copy an item",
+                    "keys": ["Ctrl", "Shift", "Y"]
+                },
+                {
+                    "description": "Move an item",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Check names",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Check spelling",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Flag for follow-up",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Send or post or invite all",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Endable editing in a field, all views except Mail/Icon",
+                    "keys": ["F2"]
+                },
+                {
+                    "description": "Left align text",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Center text",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Right align text",
+                    "keys": ["Ctrl", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Mail",
+            "shortcuts": [
+                {
+                    "description": "Switch to Inbox",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Switch to Outbox",
+                    "keys": ["Ctrl", "Shift", "O"]
+                },
+                {
+                    "description": "Check names",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Send",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Reply to a message",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Replay All to a message",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Reply with meeting request",
+                    "keys": ["Ctrl", "Alt", "R"]
+                },
+                {
+                    "description": "Forward a message",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Mark a message as not junk",
+                    "keys": ["Ctrl", "Alt", "J"]
+                },
+                {
+                    "description": "Display blocked external content",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Post to a folder",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Apply Normal style",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Check for new messages",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Go to the previous message",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Go to next message",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Create a message (in Mail view)",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a message (from any Outlook view)",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Open a received message",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Delete and ignore a conversation",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Open the Address Book",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Add a Quick flag to an unopened message",
+                    "keys": ["Insert"]
+                },
+                {
+                    "description": "Display the Flag for follow up dialog box",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Mark as read",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Mark as unread",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Open the MailTip in the selected message",
+                    "keys": ["Ctrl", "Shift", "W"]
+                },
+                {
+                    "description": "Find or replace",
+                    "keys": ["F4"]
+                },
+                {
+                    "description": "Find next",
+                    "keys": ["Shift", "F4"]
+                },
+                {
+                    "description": "Send",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Forward as attachment",
+                    "keys": ["Ctrl", "Alt", "F"]
+                },
+                {
+                    "description": "Show the properties for the selected item",
+                    "keys": ["Alt", "Enter"]
+                },
+                {
+                    "description": "Mark for download",
+                    "keys": ["Ctrl", "Alt", "M"]
+                },
+                {
+                    "description": "Check Mark for download status",
+                    "keys": ["Ctrl", "Alt", "U"]
+                },
+                {
+                    "description": "Display Send/Receive progress",
+                    "keys": ["Ctrl", "B"]
+                }
+            ]
+        },
+        {
+            "name": "Calendar",
+            "shortcuts": [
+                {
+                    "description": "Create an appointment",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create an appointment (any Outlook view)",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Create a meeting request",
+                    "keys": ["Ctrl", "Shift", "Q"]
+                },
+                {
+                    "description": "Show 1-10 days in the calendar",
+                    "keys": ["Alt", "1-0"]
+                },
+                {
+                    "description": "Go to a date",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Switch to Month view",
+                    "keys": ["Alt", "="]
+                },
+                {
+                    "description": "Go to the next day",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Go to the next week",
+                    "keys": ["Alt", "Down"]
+                },
+                {
+                    "description": "Go to the next month",
+                    "keys": ["Alt", "PgDown"]
+                },
+                {
+                    "description": "Go to the previous day",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Go to the previous week",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "Go to the previous month",
+                    "keys": ["Alt", "PgUp"]
+                },
+                {
+                    "description": "Go to the start of the week",
+                    "keys": ["Alt", "Home"]
+                },
+                {
+                    "description": "Go to the end of the week",
+                    "keys": ["Alt", "End"]
+                },
+                {
+                    "description": "Switch to Full Week view",
+                    "keys": ["Alt", "-"]
+                },
+                {
+                    "description": "Switch to Work Week view",
+                    "keys": ["Ctrl", "Alt", "2"]
+                },
+                {
+                    "description": "Go to previous appointment",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Go to next appointment",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Set up recurrence for an open appointment or meeting",
+                    "keys": ["Ctrl", "G"]
+                }
+            ]
+        },
+        {
+            "name": "People",
+            "shortcuts": [
+                {
+                    "description": "Dial a new call",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Find a contact or other item",
+                    "keys": ["F3"]
+                },
+                {
+                    "description": "Enter a name in the Search Address Books box",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "In Table or List view of contacts, go to first contact with letter",
+                    "keys": ["Shift", "(letter)"]
+                },
+                {
+                    "description": "Select all contacts",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Create a message with selected contact as subject",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Create a contact (when in Contacts)",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a contact (any Outlook view)",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Open a contact form for the selected contact",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Create a contact group",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Update a list of contact group members",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "Go to a different folder",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Open the Address Book",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Use Advanced Find",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "In an open contact, open the next contact listed",
+                    "keys": ["Ctrl", "Shift", "."]
+                },
+                {
+                    "description": "Find a contact",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Close a contact",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Send a fax to the selected contact",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Open the Check Address dialog box",
+                    "keys": ["Alt", "D"]
+                },
+                {
+                    "description": "In contact form, display Email 1-3",
+                    "keys": ["Alt", "Shift", "1-3"]
+                }
+            ]
+        },
+        {
+            "name": "Tasks",
+            "shortcuts": [
+                {
+                    "description": "Accept a task request",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Decline a task request",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Find a task or other item",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Open the Go to Folder dialog box",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Create a task when in Tasks view",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create a task (any Outlook view)",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Open selected item",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Print selected item",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Select all items",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Delete selected item",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Forward a task as an attachment",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Create a task request",
+                    "keys": ["Ctrl", "Shift", "Alt", "U"]
+                },
+                {
+                    "description": "Switch between Folder/Tasks/To-Do",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Undo last action",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Flag an item or mark complete",
+                    "keys": ["Insert"]
+                }
+            ]
+        },
+        {
+            "name": "Format text",
+            "shortcuts": [
+                {
+                    "description": "Display the Format menu",
+                    "keys": ["Alt", "O"]
+                },
+                {
+                    "description": "Display the Font dialog box",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Switch case (with text selected)",
+                    "keys": ["Shift", "F3"]
+                },
+                {
+                    "description": "Format letters as small capitals",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Make letters bold",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Add bullets",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Make letters italic",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Increase indent",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Decrease indent",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Left align",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Center",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Increase font size",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Decrease font size",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Clear formatting",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Delete the next word",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Justify text",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Apply styles",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Create a hanging indent",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Insert a hyperlink",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Left align a paragraph",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Right align a paragraph",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Reduce a hanging indent",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Remove paragraph formatting",
+                    "keys": ["Ctrl", "Q"]
+                }
+            ]
+        },
+        {
+            "name": "Add web information to items",
+            "shortcuts": [
+                {
+                    "description": "Insert or edit a hyperlink in the body of an item",
+                    "keys": ["Ctrl", "K"]
+                }
+            ]
+        },
+        {
+            "name": "Printing",
+            "shortcuts": [
+                {
+                    "description": "Open the Print tab in Backstage view",
+                    "keys": ["Alt", "F, P"]
+                },
+                {
+                    "description": "Print an item fron an open window",
+                    "keys": ["Alt", "F, P, F"]
+                },
+                {
+                    "description": "Open the Page Setup dialog box from Print view",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Select a printer from Print view",
+                    "keys": ["Alt", "F, P, I"]
+                },
+                {
+                    "description": "Open the Print Options dialog box",
+                    "keys": ["Alt", "F, P, R"]
+                }
+            ]
+        },
+        {
+            "name": "Send/Receive",
+            "shortcuts": [
+                {
+                    "description": "Start a send/receive for all defined groups",
+                    "keys": ["F9"]
+                },
+                {
+                    "description": "Start a send/receive for the current folder",
+                    "keys": ["Shift", "F9"]
+                },
+                {
+                    "description": "Start a send/receive",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Define Send/Receive groups",
+                    "keys": ["Ctrl", "Alt", "S"]
+                }
+            ]
+        },
+        {
+            "name": "Visual Basic Editor",
+            "shortcuts": [
+                {
+                    "description": "Open Visual Basic Editor",
+                    "keys": ["Alt", "F11"]
+                }
+            ]
+        },
+        {
+            "name": "Macros",
+            "shortcuts": [
+                {
+                    "description": "Play macro",
+                    "keys": ["Alt", "F8"]
+                }
+            ]
+        },
+        {
+            "name": "Forms",
+            "shortcuts": [
+                {
+                    "description": "Create an InfoPath form",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Close an InfoPath form",
+                    "keys": ["Ctrl", "Shift", "Alt", "T"]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "aschmelyun/taro",
+    "description": "A blazing-fast static site generator that uses JSON content files and the Laravel blade templating engine",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Schmelyun",
+            "email": "schmelyun@gmail.com",
+            "homepage": "https://aschmelyun.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "philo/laravel-blade": "^3.1",
+        "symfony/finder": "^4.2"
+    }
+}

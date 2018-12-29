@@ -1,0 +1,298 @@
+{
+    "view": "layout.shortcut",
+    "slug": "slack",
+    "title": "Slack",
+    "meta_title": "Keyboard shortcuts for Slack",
+    "meta_description": "A visual cheat-sheet for the 62 keyboard shortcuts found in Slack",
+    "reference_link": "https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts",
+    "sections": [
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Move focus to the next element",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Move focus to the previous element",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Move focus through messages in a channel or DM",
+                    "keys": ["Up/Down"]
+                },
+                {
+                    "description": "Move focus to the next section",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Move focus to the previous section",
+                    "keys": ["Shift", "F6"]
+                },
+                {
+                    "description": "Take action or 'click' on buttons",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Take action or 'click' on links",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Close windows, menus, or the message field",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Zoom in/out",
+                    "keys": ["Ctrl", "+/-"]
+                },
+                {
+                    "description": "Scroll up",
+                    "keys": ["Home/PgUp"]
+                },
+                {
+                    "description": "Scroll down",
+                    "keys": ["End/PgDown"]
+                },
+                {
+                    "description": "Quick Switcher",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Open direct messages menu",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Browse all channels",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Open All Threads view",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Previous channel or DM",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "Next channel or DM",
+                    "keys": ["Alt", "Down"]
+                },
+                {
+                    "description": "Previous unread channel or DM",
+                    "keys": ["Alt", "Shift", "Up"]
+                },
+                {
+                    "description": "Next unread channel or DM",
+                    "keys": ["Alt", "Shift", "Down"]
+                },
+                {
+                    "description": "Prevous channel or DM visited",
+                    "keys": ["Alt", "Left"]
+                },
+                {
+                    "description": "Next channel or DM visited",
+                    "keys": ["Alt", "Right"]
+                },
+                {
+                    "description": "Preferences (desktop apps only)",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Open or close right pane",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Channel info pane",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Activity",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Directory",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Starred Items",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Search the current channel or conversation",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Open previous search",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Toggle full screen view",
+                    "keys": ["Ctrl", "Shift", "F"]
+                }
+            ]
+        },
+        {
+            "name": "All Unreads navigation",
+            "shortcuts": [
+                {
+                    "description": "Open All Unreads view",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Mark message as unread",
+                    "keys": ["Alt", "(click a message)"]
+                },
+                {
+                    "description": "Move between channels",
+                    "keys": ["Left/Right"]
+                },
+                {
+                    "description": "Toggle current channel read or unread",
+                    "keys": ["R"]
+                }
+            ]
+        },
+        {
+            "name": "Switch workspaces",
+            "shortcuts": [
+                {
+                    "description": "Switch to previous workspace",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Switch to next workspace",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Switch to a specific workspace",
+                    "keys": ["Ctrl", "[number]"]
+                }
+            ]
+        },
+        {
+            "name": "Mark messages read or unread",
+            "shortcuts": [
+                {
+                    "description": "Mark all messages in current channel or DM as read",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Mark all messages as read",
+                    "keys": ["Shift", "Esc"]
+                },
+                {
+                    "description": "Set a message as your oldest unread message",
+                    "keys": ["Alt", "(click a message)"]
+                }
+            ]
+        },
+        {
+            "name": "Message shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Edit your last message",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Select text to beginning of current line",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Select text to end of current line",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Create a new line in your message",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Add emoji reactions to a message",
+                    "keys": ["Ctrl", "Shift", "\\"]
+                },
+                {
+                    "description": "Bold selected text",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Italicize selected text",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Strikethrough selected text",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Quote selected text",
+                    "keys": ["Ctrl", "Shift", ">"]
+                },
+                {
+                    "description": "Codeblock selected text",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Turn selected text into a numbered list",
+                    "keys": ["Ctrl", "Shift", "7"]
+                },
+                {
+                    "description": "Turn selected text into a bulleted list",
+                    "keys": ["Ctrl", "Shift", "8"]
+                },
+                {
+                    "description": "Set or edit your status",
+                    "keys": ["Ctrl", "Shift", "Y"]
+                }
+            ]
+        },
+        {
+            "name": "Message autocomplete",
+            "shortcuts": [
+                {
+                    "description": "Autocomplete @display name beginning with [character]",
+                    "keys": ["[character]", "Tab"]
+                },
+                {
+                    "description": "Autocomplete channel beginning with [character]",
+                    "keys": ["#[character]", "Tab"]
+                },
+                {
+                    "description": "Autocomplete emoji beginning with [character]",
+                    "keys": [":[character]", "Tab"]
+                }
+            ]
+        },
+        {
+            "name": "File and snippets",
+            "shortcuts": [
+                {
+                    "description": "Upload a file",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Create a new snippet",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Call actions",
+            "shortcuts": [
+                {
+                    "description": "Toggle mute on and off",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Toggle video on and off",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Show the invite list",
+                    "keys": ["+/A"]
+                },
+                {
+                    "description": "View and select emoji reactions",
+                    "keys": ["E", "1-9"]
+                }
+            ]
+        }
+    ]
+}

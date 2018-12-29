@@ -1,0 +1,188 @@
+{
+    "view": "layout.shortcut",
+    "slug": "todoist",
+    "title": "Todoist",
+    "meta_title": "Keyboard shortcuts for Todoist",
+    "meta_description": "A visual cheat-sheet for the 37 keyboard shortcuts found in Todoist",
+    "reference_link": "https://get.todoist.help/hc/en-us/articles/205063212-Keyboard-Shortcuts",
+    "sections": [
+        {
+            "name": "Task Quick Add",
+            "shortcuts": [
+                {
+                    "description": "Add a label",
+                    "keys": ["@"]
+                },
+                {
+                    "description": "Pick a project",
+                    "keys": ["#"]
+                },
+                {
+                    "description": "Add an assignee",
+                    "keys": ["+"]
+                },
+                {
+                    "description": "Set a priority level",
+                    "keys": ["p1/p2/p3/p4"]
+                },
+                {
+                    "description": "Add a comment to a newly created task",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Save and go to comments (Win 10 only)",
+                    "keys": ["Alt", "Enter"]
+                },
+                {
+                    "description": "Open full task editor (Win 10 only)",
+                    "keys": ["Tab"]
+                }
+            ]
+        },
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Select and change multiple tasks at once",
+                    "keys": ["Ctrl", "Click"]
+                },
+                {
+                    "description": "Add task",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Add new task at the bottom of the list",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Add new task at the top of the list",
+                    "keys": ["Shift", "A"]
+                },
+                {
+                    "description": "Open search",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Undo last action",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Manually sync",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "Navigate to default page",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Navigate back in 1-pane/2-pane view",
+                    "keys": ["PgUp"]
+                },
+                {
+                    "description": "Navigate forward in 1-pane/2-pane view",
+                    "keys": ["PgDown"]
+                }
+            ]
+        },
+        {
+            "name": "Adding or editing tasks",
+            "shortcuts": [
+                {
+                    "description": "Cancel current changes",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Save a newly created task and create a new one below it",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Save changes to an existing task and create a new task below it",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Save a new task or save changes to an existing one and create a new task above it",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Move to the  task above the task currently being edited",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Move to the task below the task currently being edited",
+                    "keys": ["Ctrl", "Down"]
+                }
+            ]
+        },
+        {
+            "name": "Creating and completing sub-tasks",
+            "shortcuts": [
+                {
+                    "description": "Increase task indent",
+                    "keys": ["Ctrl", "Alt", "Right"]
+                },
+                {
+                    "description": "Decrease task indent",
+                    "keys": ["Ctrl", "Alt", "Left"]
+                },
+                {
+                    "description": "Complete a sub-task or recurring task and archive it",
+                    "keys": ["Shift", "(click)"]
+                }
+            ]
+        },
+        {
+            "name": "Sorting tasks inside a project",
+            "shortcuts": [
+                {
+                    "description": "Sort by date",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Sort by priority",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Sort by assignee",
+                    "keys": ["R"]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Inbox",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Team Inbox (Todoist Business only)",
+                    "keys": ["Ctrl", "Shift", "1"]
+                },
+                {
+                    "description": "Today",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Next 7 days",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Projects",
+                    "keys": ["Ctrl", "4"]
+                },
+                {
+                    "description": "Labels",
+                    "keys": ["Ctrl", "5"]
+                },
+                {
+                    "description": "Filters",
+                    "keys": ["Ctrl", "6"]
+                },
+                {
+                    "description": "Settings",
+                    "keys": ["Ctrl", ","]
+                }
+            ]
+        }
+    ]
+}

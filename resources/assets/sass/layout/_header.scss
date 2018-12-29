@@ -1,0 +1,120 @@
+.header {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background: $color-white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    @include respond-to('lg') {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 500px;
+        height: 100%;
+        flex-direction: row;
+    }
+
+    .header-wrapper {
+        padding: 0 1rem;
+        margin: 3rem auto 1rem;
+
+        @include respond-to('lg') {
+            margin: 0;
+        }
+
+        .subtitle {
+            font-size: 15px;
+            line-height: 26px;
+            margin: 0.5rem 0 2.5rem;
+            color: rgba($color-dark-grey, 0.75);
+        }
+    }
+    .logo {
+        width: 100%;
+        position: relative;
+        top: 1rem;
+        left: 0;
+        padding: 0 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        @include respond-to('lg') {
+            width: 500px;
+            position: fixed;
+        }
+    }
+    .switcher {
+        position: relative;
+        background: $color-light-grey;
+        width: 42px;
+        height: 24px;
+        border-radius: 12px;
+        margin-right: 18px;
+        transition: all 0.15s ease-in;
+
+        &:hover {
+            cursor: pointer;
+        }
+
+        &:before,
+        &:after {
+            content: '';
+            position: absolute;
+            display: block;
+        }
+        &:before {
+            left: -20px;
+            top: 4px;
+            width: 16px;
+            height: 16px;
+            background: url('/assets/img/windows.svg') no-repeat center center;
+            background-size: 16px;
+            opacity: 1;
+            transition: all 0.15s ease-in;
+        }
+        &:after {
+            right: -18px;
+            top: 3px;
+            width: 14px;
+            height: 16px;
+            background: url('/assets/img/apple.svg') no-repeat center center;
+            background-size: cover;
+            opacity: 0.25;
+            transition: all 0.15s ease-in;
+        }
+
+        .toggle {
+            display: block;
+            width: 24px;
+            height: 24px;
+            background: $color-white;
+            border: 1px solid $color-med-grey;
+            border-radius: 50%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            transition: all 0.15s ease-in;
+        }
+
+        &.is-right {
+
+            .toggle {
+                left: 18px;
+            }
+            &:before {
+                opacity: 0.25;
+            }
+            &:after {
+                opacity: 1;
+            }
+        }
+    }
+}
+.header-landing {
+    background: $color-white;
+    text-align: center;
+    padding: 1rem 0;
+}

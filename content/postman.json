@@ -1,0 +1,117 @@
+{
+    "view": "layout.shortcut",
+    "slug": "postman",
+    "title": "Postman",
+    "meta_title": "Keyboard shortcuts for Postman",
+    "meta_description": "A visual cheat-sheet for the 23 keyboard shortcuts found in Postman",
+    "reference_link": "http://blog.getpostman.com/2017/05/03/speeding-up-workflows-with-keyboard-shortcuts/",
+    "sections": [
+        {
+            "name": "Navigational Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Focus Sidebar",
+                    "keys": ["Ctrl", "Alt", "1"]
+                },
+                {
+                    "description": "Focus Builder",
+                    "keys": ["Ctrl", "Alt", "2"]
+                },
+                {
+                    "description": "Focus on #th tab",
+                    "keys": ["Ctrl", "#"]
+                },
+                {
+                    "description": "Switch between tabs",
+                    "keys": ["Ctrl", "Shift", "/"]
+                },
+                {
+                    "description": "Move to next item",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Move to previous item",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Expand collection/folder",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Collapse collection/folder",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Select current AND next item",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Select current AND previous item",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Search sidebar",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Open request in a tab",
+                    "keys": ["Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Manipulation Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Delete"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Edit/Rename",
+                    "keys": ["Ctrl", "E"]
+                }
+            ]
+        },
+        {
+            "name": "Global Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Save",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Save As",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Send Request",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Toggle Sidebar",
+                    "keys": ["Ctrl", "\\"]
+                },
+                {
+                    "description": "Jump to URL",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Open Console",
+                    "keys": ["Ctrl", "Alt", "C"]
+                }
+            ]
+        }
+    ]
+}
