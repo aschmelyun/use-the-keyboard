@@ -16,7 +16,7 @@
     <meta property="og:site_name" content="UseTheKeyboard" />
     <meta property="og:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes.png" />
 
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="<?php echo e($meta_description ?? ''); ?>" />
     <meta name="twitter:title" content="<?php echo e($meta_title ?? 'Keyboard shortcuts for Mac apps, Windows programs, and websites'); ?>" />
     <meta name="twitter:site" content="@aschmelyun" />
