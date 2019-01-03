@@ -16,7 +16,7 @@
                 <div class="col-md-7 intro-wrapper">
                     <div class="intro-text">
                         <h1 class="title-primary">Use The Keyboard</h1>
-                        <p class="subtitle">A collection of keyboard shortcuts for Mac and Windows programs.</p>
+                        <p class="subtitle">A collection of keyboard shortcuts for Mac apps, Windows programs, and websites.</p>
                         <input type="text" class="search-input" id="searchInput" placeholder="Search..." v-model="searchInput">
                     </div>
                 </div>
