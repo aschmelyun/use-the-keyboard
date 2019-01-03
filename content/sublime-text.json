@@ -1,0 +1,241 @@
+{
+    "view": "layout.shortcut",
+    "slug": "sublime-text",
+    "title": "Sublime Text",
+    "meta_title": "Keyboard shortcuts for Sublime Text",
+    "meta_description": "A visual cheat-sheet for the 49 keyboard shortcuts found in Sublime Text",
+    "reference_link": "http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html",
+    "sections": [
+        {
+            "name": "Editing",
+            "shortcuts": [
+                {
+                    "description": "Cut line",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Insert line after",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Insert line before",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Move line/selection up",
+                    "keys": ["Ctrl", "Shift", "Up"]
+                },
+                {
+                    "description": "Move line/selection down",
+                    "keys": ["Ctrl", "Shift", "Down"]
+                },
+                {
+                    "description": "Select line - Repeat to select next lines",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Select word - Repeat selects other occurrences",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Jump to closing parentheses - Repeat to jump to opening parentheses",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Select all contents of the current parentheses",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Delete line",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Delete from cursor to end of line",
+                    "keys": ["Ctrl", "K, K"]
+                },
+                {
+                    "description": "Delete from cursor to start of line",
+                    "keys": ["Ctrl", "K", "Backspace"]
+                },
+                {
+                    "description": "Indent current line(s)",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Un-indent current line(s)",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Duplicate line(s)",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Join line below to the end of the current line",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Comment/un-comment current line",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Block comment current selection",
+                    "keys": ["Ctrl", "Shift", "/"]
+                },
+                {
+                    "description": "Redo, or repeat last keyboard shortcut command",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Paste and indent correctly",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Select next auto-complete suggestion",
+                    "keys": ["Ctrl", "Space"]
+                },
+                {
+                    "description": "Soft undo; jumps to your last change before undoing, change when repeated",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Wrap selection in HTML tag",
+                    "keys": ["Alt", "Shift", "W"]
+                },
+                {
+                    "description": "Close current HTML tag",
+                    "keys": ["Alt", "."]
+                },
+                {
+                    "description": "Hard wrap line to ruler column setting",
+                    "keys": ["Alt", "Q"]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Quick-open files by name",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Goto symbol",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Goto word in current file",
+                    "keys": ["Ctrl", ";"]
+                },
+                {
+                    "description": "Goto line in current file",
+                    "keys": ["Ctrl", "G"]
+                }
+            ]
+        },
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Command prompt",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Toggle sidebar",
+                    "keys": ["Ctrl", "K, B"]
+                },
+                {
+                    "description": "Show scope in status bar",
+                    "keys": ["Ctrl", "Shift", "Alt", "P"]
+                }
+            ]
+        },
+        {
+            "name": "Find/Replace",
+            "shortcuts": [
+                {
+                    "description": "Find",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Replace",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Find in files",
+                    "keys": ["Ctrl", "Shift", "F"]
+                }
+            ]
+        },
+        {
+            "name": "Split window",
+            "shortcuts": [
+                {
+                    "description": "Revert view to single column",
+                    "keys": ["Alt", "Shift", "1"]
+                },
+                {
+                    "description": "Split view into two columns",
+                    "keys": ["Alt", "Shift", "2"]
+                },
+                {
+                    "description": "Split view into three columns",
+                    "keys": ["Alt", "Shift", "3"]
+                },
+                {
+                    "description": "Split view into four columns",
+                    "keys": ["Alt", "Shift", "4"]
+                },
+                {
+                    "description": "Set view to grid (4 groups)",
+                    "keys": ["Alt", "Shift", "5"]
+                },
+                {
+                    "description": "Split view into two rows",
+                    "keys": ["Alt", "Shift", "8"]
+                },
+                {
+                    "description": "Jump to group where number is 1-4",
+                    "keys": ["Ctrl", "1-4"]
+                },
+                {
+                    "description": "Move file to specified group where number is 1-4",
+                    "keys": ["Ctrl", "Shift", "1-4"]
+                }
+            ]
+        },
+        {
+            "name": "Bookmarks",
+            "shortcuts": [
+                {
+                    "description": "Toggle bookmark",
+                    "keys": ["Ctrl", "F2"]
+                },
+                {
+                    "description": "Next bookmark",
+                    "keys": ["F2"]
+                },
+                {
+                    "description": "Previous bookmark",
+                    "keys": ["Shift", "F2"]
+                },
+                {
+                    "description": "Clear bookmarks",
+                    "keys": ["Ctrl", "Shift", "F2"]
+                }
+            ]
+        },
+        {
+            "name": "Text manipulation",
+            "shortcuts": [
+                {
+                    "description": "Transform to uppercase",
+                    "keys": ["Ctrl", "K, U"]
+                },
+                {
+                    "description": "Transform to lowercase",
+                    "keys": ["Ctrl", "K, L"]
+                }
+            ]
+        }
+    ]
+}

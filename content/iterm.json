@@ -1,0 +1,119 @@
+{
+    "view": "layout.shortcut",
+    "slug": "iterm",
+    "title": "iTerm",
+    "meta_title": "Keyboard shortcuts for iTerm terminal",
+    "meta_description": "A visual cheat-sheet for the 22 keyboard shortcuts found in iTerm. This application is MacOS-only.",
+    "reference_link": "http://www.ifdattic.com/iterm-shortcut-keys/",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Multiple terminals",
+            "shortcuts": [
+                {
+                    "description": "New tab",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "Previous tab",
+                    "keys": ["Cmd", "Left"]
+                },
+                {
+                    "description": "Next tab",
+                    "keys": ["Cmd", "Right"]
+                },
+                {
+                    "description": "Close tab",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Move tab right",
+                    "keys": ["Shift", "Cmd", "Right"]
+                },
+                {
+                    "description": "Move tab left",
+                    "keys": ["Shift", "Cmd", "Left"]
+                }
+            ]
+        },
+        {
+            "name": "Splitting terminals",
+            "shortcuts": [
+                {
+                    "description": "Split vertically with current profile",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Split horizontally with current profile",
+                    "keys": ["Cmd", "Shift", "D"]
+                },
+                {
+                    "description": "Move to the next pane",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Move to the previous pane",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Select pane above",
+                    "keys": ["Opt", "Cmd", "Up"]
+                },
+                {
+                    "description": "Select pane below",
+                    "keys": ["Opt", "Cmd", "Down"]
+                },
+                {
+                    "description": "Select pane to the left",
+                    "keys": ["Opt", "Cmd", "Left"]
+                },
+                {
+                    "description": "Select pane to the right",
+                    "keys": ["Opt", "Cmd", "Right"]
+                }
+            ]
+        },
+        {
+            "name": "Interacting with the terminal",
+            "shortcuts": [
+                {
+                    "description": "Clear window",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Clear buffer",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Scroll up",
+                    "keys": ["Shift", "PgUp"]
+                },
+                {
+                    "description": "Scroll down",
+                    "keys": ["Shift", "PgDown"]
+                },
+                {
+                    "description": "Find",
+                    "keys": ["Cmd", "F"]
+                }
+            ]
+        },
+        {
+            "name": "Changing font size",
+            "shortcuts": [
+                {
+                    "description": "Make text bigger",
+                    "keys": ["Cmd", "+"]
+                },
+                {
+                    "description": "Make text smaller",
+                    "keys": ["Cmd", "-"]
+                },
+                {
+                    "description": "Make text normal size",
+                    "keys": ["Cmd", "0"]
+                }
+            ]
+        }
+    ]
+}

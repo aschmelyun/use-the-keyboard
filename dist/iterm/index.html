@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keyboard shortcuts for iTerm terminal &rarr; UseTheKeyboard</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/app.css?id=4ded680dc44816cc96da">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
+    <meta name="description" content="A visual cheat-sheet for the 22 keyboard shortcuts found in iTerm. This application is MacOS-only.">
+</head><body class="">
+    <div class="wrapper" id="app">
+        <aside class="header">
+            <div class="logo">
+                <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" width="106" height="32"></a>
+                <a class="switcher" @click.prevent="toggleOperatingSystem" :class="{'is-right': operatingSystem === 'mac' || isMacOnly}"><span class="toggle"></span></a>
+            </div>
+            <div class="header-wrapper">
+                <h1 class="title-primary">Keyboard shortcuts for iTerm terminal</h1>
+                <p class="subtitle">A visual cheat-sheet for the 22 keyboard shortcuts found in iTerm. This application is MacOS-only.</p>
+                <a href="http://www.ifdattic.com/iterm-shortcut-keys/" target="_blank" class="btn btn-primary">Original Reference</a>
+                <a href="https://github.com/aschmelyun/use-the-keyboard/issues" target="_blank" class="ml-2 btn btn-secondary">Report Issue</a>
+            </div>
+        </aside>
+        <main class="content">
+            <div class="content-wrapper">
+                                    <section class="shortcut-section" id="Multipleterminals">
+                        <h3 class="title-section"><span>Multiple terminals</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">New tab</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">T</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Previous tab</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Left</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Next tab</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Right</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Close tab</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">W</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Move tab right</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Right</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Move tab left</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Left</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="Splittingterminals">
+                        <h3 class="title-section"><span>Splitting terminals</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Split vertically with current profile</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Split horizontally with current profile</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Move to the next pane</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">]</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Move to the previous pane</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">[</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select pane above</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Up</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select pane below</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Down</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select pane to the left</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Left</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select pane to the right</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Right</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="Interactingwiththeterminal">
+                        <h3 class="title-section"><span>Interacting with the terminal</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Clear window</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">L</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Clear buffer</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">K</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Scroll up</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">PgUp</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Scroll down</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">PgDown</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Find</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">F</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="Changingfontsize">
+                        <h3 class="title-section"><span>Changing font size</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Make text bigger</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">+</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Make text smaller</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">-</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Make text normal size</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">0</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                            </div>
+        </main>
+        <footer class="footer">
+            <div class="credit">Built by <a href="https://twitter.com/aschmelyun">&commat;aschmelyun</a></div>
+        </footer>
+    </div>
+    <script type="text/javascript" src="/assets/js/app.js?id=04d8caf3f41ddddb086b"></script>
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            operatingSystem: 'windows',
+            searchInput: '',
+            isMacOnly: true
+        },
+        created() {
+            if(navigator.platform.indexOf('Mac') > -1) {
+                this.operatingSystem = 'mac';
+                this.changeAllKeys('Ctrl', 'Cmd');
+            }
+        },
+        methods: {
+            toggleOperatingSystem() {
+                if(this.isMacOnly) {
+                    return false;
+                }
+                
+                if(this.operatingSystem === 'windows') {
+                    this.operatingSystem = 'mac';
+                    this.changeAllKeys('Ctrl', 'Cmd');
+                } else {
+                    this.operatingSystem = 'windows';
+                    this.changeAllKeys('Cmd', 'Ctrl');
+                }
+            },
+            changeAllKeys(from, to) {
+                let keys = document.getElementsByClassName('key');
+                for(let key of keys) {
+                    if(key.innerHTML === from) {
+                        key.innerHTML = to;
+                    }
+                }
+            },
+            showPotentialResults(search) {
+                let programs = document.getElementsByClassName('data-program');
+                for(let program of programs) {
+                    program.style.display = 'block';
+                    if(!program.dataset.slug.startsWith(search.toLowerCase()) && !program.dataset.title.toLowerCase().startsWith(search.toLowerCase())) {
+                        program.style.display = 'none';
+                    }
+                }
+            }
+        },
+        watch: {
+            searchInput(val) {
+                this.showPotentialResults(val);
+            }
+        }
+    });
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131513064-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131513064-1');
+</script>
+
+</body>
+</html>

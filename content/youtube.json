@@ -1,0 +1,87 @@
+{
+    "view": "layout.shortcut",
+    "slug": "youtube",
+    "title": "YouTube",
+    "meta_title": "Keyboard shortcuts for YouTube",
+    "meta_description": "A visual cheat-sheet for the 18 keyboard shortcuts found on YouTube.com",
+    "reference_link": "https://support.google.com/youtube/answer/7631406?hl=en",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Play/Pause when the seek bar is selected, activate a button if a button has focus",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Play/Pause in player",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Seek backward/forward 5 seconds",
+                    "keys": ["Left/Right"]
+                },
+                {
+                    "description": "Seek backward 10 seconds in player",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Seek forward 10 seconds in player",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Seek to the beginning of the video",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Seek to the last seconds of the video",
+                    "keys": ["End"]
+                },
+                {
+                    "description": "Increase volume 5%",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Decrease volume 5%",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Seek to the 10-90% of the video",
+                    "keys": ["1-9"]
+                },
+                {
+                    "description": "Seek to the beginning of the video",
+                    "keys": ["0"]
+                },
+                {
+                    "description": "Move between H1 headers",
+                    "keys": ["Shift", "1"]
+                },
+                {
+                    "description": "Go to search box",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Activate full screen, press again (or Esc) to exit",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Activate closed captions and subtitles, press again to hide",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Move to the next video",
+                    "keys": ["Shift", "N"]
+                },
+                {
+                    "description": "Move to the previous video",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Launch the Miniplayer",
+                    "keys": ["I"]
+                }
+            ]
+        }
+    ]
+}
