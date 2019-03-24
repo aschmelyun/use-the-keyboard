@@ -9,16 +9,16 @@
         "watch": "npm run local -- --watch"
     },
     "devDependencies": {
-        "bootstrap": "^4.1.3",
+        "bootstrap": "^4.3.1",
         "browser-sync": "^2.23.6",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^3.2.3",
         "jquery": "^3.3.1",
-        "laravel-mix": "^2.0.0",
+        "laravel-mix": "^4.0.15",
         "lodash": "^4.17.11",
         "node-cmd": "^3.0.0",
         "on-build-webpack": "^0.1.0",
-        "vue": "^2.5.21",
+        "vue": "^2.6.10",
         "webpack-watch": "^0.2.0"
     }
 }
