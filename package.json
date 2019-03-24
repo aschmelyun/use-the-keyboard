@@ -12,13 +12,20 @@
         "bootstrap": "^4.3.1",
         "browser-sync": "^2.23.6",
         "browser-sync-webpack-plugin": "^2.0.1",
-        "cross-env": "^3.2.3",
+        "cross-env": "^3.2.4",
+        "false": "^0.0.4",
         "jquery": "^3.3.1",
         "laravel-mix": "^4.0.15",
         "lodash": "^4.17.11",
         "node-cmd": "^3.0.0",
         "on-build-webpack": "^0.1.0",
+        "sass": "^1.17.3",
+        "sass-loader": "7.*",
         "vue": "^2.6.10",
+        "vue-template-compiler": "^2.6.10",
         "webpack-watch": "^0.2.0"
+    },
+    "dependencies": {
+        "cross-spawn": "^6.0.5"
     }
 }
