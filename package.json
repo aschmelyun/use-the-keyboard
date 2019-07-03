@@ -10,7 +10,7 @@
     },
     "devDependencies": {
         "bootstrap": "^4.3.1",
-        "browser-sync": "^2.26.5",
+        "browser-sync": "^2.26.7",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^3.2.4",
         "false": "^0.0.4",
@@ -19,7 +19,7 @@
         "lodash": "^4.17.11",
         "node-cmd": "^3.0.0",
         "on-build-webpack": "^0.1.0",
-        "sass": "^1.21.0",
+        "sass": "^1.22.2",
         "sass-loader": "7.*",
         "vue": "^2.6.10",
         "vue-template-compiler": "^2.6.10",
