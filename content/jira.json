@@ -1,0 +1,201 @@
+{
+    "view": "layout.shortcut",
+    "slug": "jira",
+    "title": "Jira",
+    "meta_title": "Keyboard shortcuts for Atlassian's Jira",
+    "meta_description": "A visual cheat-sheet for the 44 keyboard shortcuts found in Jira",
+    "reference_link": "https://confluence.atlassian.com/agile066/jira-agile-user-s-guide/using-keyboard-shortcuts",
+    "sections": [
+        {
+            "name": "Global Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Go to Dashboard",
+                    "keys": ["G", "D"]
+                },
+                {
+                    "description": "Browse to a Project",
+                    "keys": ["G", "P"]
+                },
+                {
+                    "description": "Go to Agile",
+                    "keys": ["G", "A"]
+                },
+                {
+                    "description": "Go to Issue Navigator",
+                    "keys": ["G", "I"]
+                },
+                {
+                    "description": "Administration Search Dialog Box",
+                    "keys": ["G", "G"]
+                },
+                {
+                    "description": "Quick Search",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Create an Issue",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Open shortcut help",
+                    "keys": ["?"]
+                },
+                {
+                    "description": "Dashboards drop-down menu",
+                    "keys": ["Ctrl", "Alt", "D"]
+                },
+                {
+                    "description": "Projects drop-down menu",
+                    "keys": ["Ctrl", "Alt", "P"]
+                },
+                {
+                    "description": "Issues drop-down menu",
+                    "keys": ["Ctrl", "Alt", "I"]
+                },
+                {
+                    "description": "Agile drop-down menu",
+                    "keys": ["Ctrl", "Alt", "G"]
+                },
+                {
+                    "description": "Form Submit",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Cancel Form",
+                    "keys": ["Ctrl", "Alt", "`"]
+                }
+            ]
+        },
+        {
+            "name": "Agile Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Next Issue",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Previous Issue",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Next Column",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Previous Column",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Expand/Collapse All Swimlanes",
+                    "keys": ["-"]
+                },
+                {
+                    "description": "Hide/Show Detail View",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "View Issue",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Add a New Line",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Submit changes",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Cancel changes",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Assign to Me",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Send to Top",
+                    "keys": ["S", "T"]
+                },
+                {
+                    "description": "Send to Bottom",
+                    "keys": ["S", "B"]
+                },
+                {
+                    "description": "Edit Issue",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Projector Mode",
+                    "keys": ["Z"]
+                }
+            ]
+        },
+        {
+            "name": "Issue Actions and Navigator Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "View selected issue",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Next Issue",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Previous Issue",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Back to the Navigator",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Hide/Show Left Section",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Next Activity",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Previous Activity",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Focus search field",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Escape field",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Edit Issue",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Assign Issue",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Comment on Issue",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Edit Issue Labels",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Share Issue",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Operations dialog box",
+                    "keys": ["."]
+                }
+            ]
+        }
+    ]
+}
