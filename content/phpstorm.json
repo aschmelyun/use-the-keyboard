@@ -1,0 +1,449 @@
+{
+  "view": "layout.shortcut",
+  "slug": "phpstorm",
+  "title": "PhpStorm",
+  "meta_title": "Keyboard shortcuts for PhpStorm",
+  "meta_description": "A visual cheat-sheet for the 96 keyboard shortcuts found in JetBrains PhpStorm",
+  "reference_link": "https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf",
+  "sections": [
+    {
+      "name": "Misc",
+      "shortcuts": [
+        {
+          "description": "Find Action",
+          "keys": ["Ctrl", "Shift", "A"]
+        }
+      ]
+    },
+    {
+      "name": "Editing",
+      "shortcuts": [
+        {
+          "description": "Basic code completion",
+          "keys": ["Ctrl", "Space"]
+        },
+        {
+          "description": "Show intention actions and quick-fixes",
+          "keys": ["Alt", "Enter"]
+        },
+        {
+          "description": "Parameter info (within method call arguments)",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Quick documentation lookup",
+          "keys": ["Ctrl", "Q"]
+        },
+        {
+          "description": "Brief Info",
+          "keys": ["Ctrl", "(mouse over code)"]
+        },
+        {
+          "description": "Generate code... (Getters, Setters, Constructors)",
+          "keys": ["Alt", "Insert"]
+        },
+        {
+          "description": "Override methods",
+          "keys": ["Ctrl", "O"]
+        },
+        {
+          "description": "Implement methods",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Surround with...(if..else, try..catch, for, etc.)",
+          "keys": ["Ctrl", "Alt", "T"]
+        },
+        {
+          "description": "Comment/uncomment with line comment",
+          "keys": ["Ctrl", "/"]
+        },
+        {
+          "description": "Comment/uncomment with block comment",
+          "keys": ["Ctrl", "Shift", "/"]
+        },
+        {
+          "description": "Select successively increasing code blocks",
+          "keys": ["Ctrl", "W"]
+        },
+        {
+          "description": "Decrease current selection to previous state",
+          "keys": ["Ctrl", "Shift", "W"]
+        },
+        {
+          "description": "Reformat code",
+          "keys": ["Ctrl", "Alt", "L"]
+        },
+        {
+          "description": "Auto-indent line(s)",
+          "keys": ["Ctrl", "Alt", "I"]
+        },
+        {
+          "description": "Duplicate current line or selected block",
+          "keys": ["Ctrl", "D"]
+        },
+        {
+          "description": "Delete line at caret",
+          "keys": ["Ctrl", "Y"]
+        },
+        {
+          "description": "Smart line join (HTML and JavaScript only)",
+          "keys": ["Ctrl", "Shift", "J"]
+        },
+        {
+          "description": "Smart line split (HTML and JavaScript only)",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Start a new line",
+          "keys": ["Shift", "Enter"]
+        },
+        {
+          "description": "Toggle case for word at caret or selected block",
+          "keys": ["Ctrl", "Shift", "U"]
+        },
+        {
+          "description": "Select till code block start",
+          "keys": ["Ctrl", "Shift", "["]
+        },
+        {
+          "description": "Select till code block end",
+          "keys": ["Ctrl", "Shift", "]"]
+        },
+        {
+          "description": "Delete to word end",
+          "keys": ["Ctrl", "Delete"]
+        },
+        {
+          "description": "Delete to word start",
+          "keys": ["Ctrl", "Backspace"]
+        },
+        {
+          "description": "Expand/collapse code block",
+          "keys": ["Ctrl", "+/-"]
+        },
+        {
+          "description": "Close active editor tab",
+          "keys": ["Ctrl", "F4"]
+        },
+        {
+          "description": "Paste from history",
+          "keys": ["Ctrl", "Shift", "V"]
+        }
+      ]
+    },
+    {
+      "name": "Debugging",
+      "shortcuts": [
+        {
+          "description": "Step over",
+          "keys": ["F8"]
+        },
+        {
+          "description": "Step into",
+          "keys": ["F7"]
+        },
+        {
+          "description": "Step out",
+          "keys": ["Shift", "F8"]
+        },
+        {
+          "description": "Evaluate expression",
+          "keys": ["Alt", "F8"]
+        },
+        {
+          "description": "Resume program",
+          "keys": ["F9"]
+        },
+        {
+          "description": "Toggle breakpoint",
+          "keys": ["Ctrl", "F8"]
+        },
+        {
+          "description": "View breakpoints",
+          "keys": ["Ctrl", "Shift", "F8"]
+        }
+      ]
+    },
+    {
+      "name": "Running",
+      "shortcuts": [
+        {
+          "description": "Run",
+          "keys": ["Shift", "F10"]
+        },
+        {
+          "description": "Debug",
+          "keys": ["Shift", "F9"]
+        },
+        {
+          "description": "Run context configuration from editor",
+          "keys": ["Ctrl", "Shift", "F10"]
+        },
+        {
+          "description": "Run command line",
+          "keys": ["Ctrl", "Shift", "X"]
+        }
+      ]
+    },
+    {
+      "name": "Search/Replace",
+      "shortcuts": [
+        {
+          "description": "Find/Replace",
+          "keys": ["Ctrl", "F/R"]
+        },
+        {
+          "description": "Find next",
+          "keys": ["F3"]
+        },
+        {
+          "description": "Find previous",
+          "keys": ["Shift", "F3"]
+        },
+        {
+          "description": "Find/Replace in path",
+          "keys": ["Ctrl", "Shift", "F/R"]
+        }
+      ]
+    },
+    {
+      "name": "Usage Search",
+      "shortcuts": [
+        {
+          "description": "Find usages",
+          "keys": ["Alt", "F7"]
+        },
+        {
+          "description": "Find usages in file",
+          "keys": ["Ctrl", "F7"]
+        },
+        {
+          "description": "Highlight usages in file",
+          "keys": ["Ctrl", "Shift", "F7"]
+        },
+        {
+          "description": "Show usages",
+          "keys": ["Ctrl", "Alt", "F7"]
+        }
+      ]
+    },
+    {
+      "name": "Navigation",
+      "shortcuts": [
+        {
+          "description": "Go to class",
+          "keys": ["Ctrl", "N"]
+        },
+        {
+          "description": "Go to file",
+          "keys": ["Ctrl", "Shift", "N"]
+        },
+        {
+          "description": "Go to symbol",
+          "keys": ["Ctrl", "Shift", "Alt", "N"]
+        },
+        {
+          "description": "Go to line",
+          "keys": ["Ctrl", "G"]
+        },
+        {
+          "description": "Go to next/previous editor tab",
+          "keys": ["Alt", "Left/Right"]
+        },
+        {
+          "description": "Go to editor (from tool window)",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Recent files popup",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Navigate back/forward",
+          "keys": ["Ctrl", "Alt", "Left/Right"]
+        },
+        {
+          "description": "Navigate to last edit location",
+          "keys": ["Ctrl", "Shift", "Backspace"]
+        },
+        {
+          "description": "Select current file or symbol in any view",
+          "keys": ["Alt", "F1"]
+        },
+        {
+          "description": "Go to declaration",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Go to implementation(s)",
+          "keys": ["Ctrl", "Alt", "B"]
+        },
+        {
+          "description": "Open quick definition lookup",
+          "keys": ["Ctrl", "Shift", "I"]
+        },
+        {
+          "description": "Go to type declaration",
+          "keys": ["Ctrl", "Shift", "B"]
+        },
+        {
+          "description": "Go to super-method/super-class",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Go to previous/next method",
+          "keys": ["Alt", "Up/Down"]
+        },
+        {
+          "description": "Move to code block end/start",
+          "keys": ["Ctrl", "]/["]
+        },
+        {
+          "description": "Next highlighted error",
+          "keys": ["F2"]
+        },
+        {
+          "description": "Previous highlighted error",
+          "keys": ["Shift", "F2"]
+        },
+        {
+          "description": "Edit/view source",
+          "keys": ["F4"]
+        }
+      ]
+    },
+    {
+      "name": "Refactoring",
+      "shortcuts": [
+        {
+          "description": "Copy/Move",
+          "keys": ["F5/F6"]
+        },
+        {
+          "description": "Safe delete",
+          "keys": ["Alt", "Delete"]
+        },
+        {
+          "description": "Rename",
+          "keys": ["Shift", "F6"]
+        },
+        {
+          "description": "Inline variable",
+          "keys": ["Ctrl", "Alt", "N"]
+        },
+        {
+          "description": "Extract Method/Variable/Field/Constant",
+          "keys": ["Ctrl", "Alt", "M/V/F/C"]
+        },
+        {
+          "description": "Refactor This (shows all available refactorings)",
+          "keys": ["Ctrl", "Alt", "Shift", "T"]
+        }
+      ]
+    },
+    {
+      "name": "VCS/Local History",
+      "shortcuts": [
+        {
+          "description": "VCS quick popup",
+          "keys": ["Alt", "`"]
+        },
+        {
+          "description": "Commit project to VCS",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Update project from VCS",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "View recent changes",
+          "keys": ["Alt", "Shift", "C"]
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Search everywhere",
+          "keys": ["Shift x2"]
+        },
+        {
+          "description": "Find Action",
+          "keys": ["Ctrl", "Shift", "A"]
+        },
+        {
+          "description": "Open corresponding tool window",
+          "keys": ["Alt", "1-9"]
+        },
+        {
+          "description": "Toggle full screen mode",
+          "keys": ["Ctrl", "Alt", "F11"]
+        },
+        {
+          "description": "Toggle maximizing editor",
+          "keys": ["Ctrl", "Shift", "F12"]
+        },
+        {
+          "description": "Add to Favorites",
+          "keys": ["Alt", "Shift", "F"]
+        },
+        {
+          "description": "Inspect current file with current profile",
+          "keys": ["Alt", "Shift", "I"]
+        },
+        {
+          "description": "Open Settings dialog",
+          "keys": ["Ctrl", "Alt", "S"]
+        },
+        {
+          "description": "Switch between tabs and tool window",
+          "keys": ["Ctrl", "Tab"]
+        }
+      ]
+    },
+    {
+      "name": "Live Templates/Snippets",
+      "shortcuts": [
+        {
+          "description": "Insert Live Template",
+          "keys": ["Ctrl", "J"]
+        },
+        {
+          "description": "'echo' statement",
+          "keys": ["eco"]
+        },
+        {
+          "description": "foreach(iterable_expr as $value) {...}",
+          "keys": ["fore"]
+        },
+        {
+          "description": "foreach(iterable_expr as $key => $value) {...}",
+          "keys": ["forek"]
+        },
+        {
+          "description": "'include'/'include_once' statement",
+          "keys": ["inc/inco"]
+        },
+        {
+          "description": "private function",
+          "keys": ["prif"]
+        },
+        {
+          "description": "protected function",
+          "keys": ["prof"]
+        },
+        {
+          "description": "public function",
+          "keys": ["pubf"]
+        },
+        {
+          "description": "'require'/'require_once' statement",
+          "keys": ["rqr/rqro"]
+        }
+      ]
+    }
+  ]
+}
