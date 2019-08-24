@@ -1,0 +1,131 @@
+{
+  "view": "layout.shortcut",
+  "slug": "trello",
+  "title": "Trello",
+  "meta_title": "Keyboard shortcuts for Trello",
+  "meta_description": "A visual cheat-sheet for the 29 keyboard shortcuts found on Trello",
+  "reference_link": "https://trello.com/shortcuts",
+  "sections": [
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Navigate Cards",
+          "keys": ["Up/Down/Left/Right"]
+        },
+        {
+          "description": "Open Header Boards Menu",
+          "keys": ["B"]
+        },
+        {
+          "description": "Focus Search Box",
+          "keys": ["/"]
+        },
+        {
+          "description": "Archive Card",
+          "keys": ["C"]
+        },
+        {
+          "description": "Due Date",
+          "keys": ["D"]
+        },
+        {
+          "description": "Quick Edit Mode",
+          "keys": ["E"]
+        },
+        {
+          "description": "Close Menu/Cancel Editing",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Save Text",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Open Card",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Open Card Filter Menu",
+          "keys": ["F"]
+        },
+        {
+          "description": "Label",
+          "keys": ["L"]
+        },
+        {
+          "description": "Toggle Label Names",
+          "keys": [";"]
+        },
+        {
+          "description": "Add/Remove Members",
+          "keys": ["M"]
+        },
+        {
+          "description": "Insert New Card",
+          "keys": ["N"]
+        },
+        {
+          "description": "Move Card to Adjacent List",
+          "keys": [",/./</>"]
+        },
+        {
+          "description": "My Cards Filter",
+          "keys": ["Q"]
+        },
+        {
+          "description": "Watch",
+          "keys": ["S"]
+        },
+        {
+          "description": "Assign Self",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Edit Title",
+          "keys": ["T"]
+        },
+        {
+          "description": "Vote",
+          "keys": ["V"]
+        },
+        {
+          "description": "Toggle Board Menu",
+          "keys": ["W"]
+        },
+        {
+          "description": "Clear All Filters",
+          "keys": ["X"]
+        },
+        {
+          "description": "Open Shortcuts Page",
+          "keys": ["?"]
+        },
+        {
+          "description": "Autocomplete Members",
+          "keys": ["Shift", "2"]
+        },
+        {
+          "description": "Autocomplete Labels",
+          "keys": ["Shift", "3"]
+        },
+        {
+          "description": "Autocomplete Position",
+          "keys": ["Shift", "6"]
+        },
+        {
+          "description": "Copy Card",
+          "keys": ["Ctrl", "C"]
+        },
+        {
+          "description": "Paste Card",
+          "keys": ["Ctrl", "V"]
+        },
+        {
+          "description": "Move Card",
+          "keys": ["Ctrl", "X"]
+        }
+      ]
+    }
+  ]
+}
