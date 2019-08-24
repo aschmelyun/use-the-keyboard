@@ -1,0 +1,116 @@
+{
+  "view": "layout.shortcut",
+  "slug": "monday",
+  "title": "Monday.com",
+  "meta_title": "Keyboard shortcuts for Monday.com",
+  "meta_description": "A visual cheat-sheet for the 24 keyboard shortcuts found on Monday.com",
+  "reference_link": "https://support.monday.com/hc/en-us/articles/115005339905-The-Spreadsheet-capabilities-shortcuts-",
+  "sections": [
+    {
+      "name": "System",
+      "shortcuts": [
+        {
+          "description": "Bolt Switch (quick switch between boards)",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Close Item Page",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Close Dialogs",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Close Search",
+          "keys": ["Esc"]
+        }
+      ]
+    },
+    {
+      "name": "Board",
+      "shortcuts": [
+        {
+          "description": "Navigate Down",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Navigate Up",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Navigate Left",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Navigate Right",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Navigate to Next Cell",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Navigate to Previous Tab",
+          "keys": ["Shift", "Tab"]
+        },
+        {
+          "description": "Edit Cell Content",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Clear Cell Content",
+          "keys": ["Backspace"]
+        },
+        {
+          "description": "Open Column View",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Search Board",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Copy Cell Content",
+          "keys": ["Ctrl", "C"]
+        },
+        {
+          "description": "Paste Cell Content",
+          "keys": ["Ctrl", "V"]
+        },
+        {
+          "description": "Cut Cell Content",
+          "keys": ["Ctrl", "X"]
+        },
+        {
+          "description": "Select Item",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Select Range of Items",
+          "keys": ["Shift", "Enter"]
+        },
+        {
+          "description": "Create New Group",
+          "keys": ["Ctrl", "Shift", "G"]
+        },
+        {
+          "description": "Create New Column",
+          "keys": ["Ctrl", "Shift", "C"]
+        },
+        {
+          "description": "Open Activity Log",
+          "keys": ["Ctrl", "L"]
+        },
+        {
+          "description": "Sort Another Column",
+          "keys": ["Ctrl", "(click)"]
+        },
+        {
+          "description": "Collapse/Expand All Groups",
+          "keys": ["Ctrl", "G"]
+        }
+      ]
+    }
+  ]
+}
