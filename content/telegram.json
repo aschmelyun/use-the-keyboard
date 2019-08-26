@@ -1,0 +1,193 @@
+{
+  "view": "layout.shortcut",
+  "slug": "telegram",
+  "title": "Telegram Desktop",
+  "meta_title": "Keyboard shortcuts for Telegram Desktop",
+  "meta_description": "A visual cheat-sheet for the 37 keyboard shortcuts found on the Telegram Desktop app",
+  "reference_link": "https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts",
+  "sections": [
+    {
+      "name": "Chats",
+      "shortcuts": [
+        {
+          "description": "In-Chat Navigation",
+          "keys": ["Up/Down"]
+        },
+        {
+          "description": "Suggested Stickers Navigation",
+          "keys": ["Up/Down/Left/Right"]
+        },
+        {
+          "description": "Suggested Emojis Navigation",
+          "keys": ["Left/Right"]
+        },
+        {
+          "description": "Move to the Chat Below",
+          "keys": ["Ctrl", "Tab"]
+        },
+        {
+          "description": "Move to the Chat Above",
+          "keys": ["Ctrl", "Shift", "Tab"]
+        },
+        {
+          "description": "Exit",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Go Back",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Cancel Current Action",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Send File",
+          "keys": ["Ctrl", "O"]
+        }
+      ]
+    },
+    {
+      "name": "Messages",
+      "shortcuts": [
+        {
+          "description": "Reply to a Message",
+          "keys": ["Ctrl", "Up/Down"]
+        },
+        {
+          "description": "Cancel Reply",
+          "keys": ["Ctrl", "Down"]
+        },
+        {
+          "description": "Edit Last Message Sent",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Delete Currently Selected Message",
+          "keys": ["Del"]
+        },
+        {
+          "description": "Edit Media",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Send GIF Directly",
+          "keys": ["Ctrl", "(click gif)"]
+        },
+        {
+          "description": "Open Bot Profile via Inline Message",
+          "keys": ["Ctrl", "(click name)"]
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "shortcuts": [
+        {
+          "description": "Search Selected Chat",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Exit Search",
+          "keys": ["Esc"]
+        }
+      ]
+    },
+    {
+      "name": "QuickShare Panel",
+      "shortcuts": [
+        {
+          "description": "Navigate",
+          "keys": ["Up/Down"]
+        },
+        {
+          "description": "Select Chat",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Remove Chat",
+          "keys": ["Backspace"]
+        },
+        {
+          "description": "Send Message",
+          "keys": ["Ctrl", "Enter"]
+        }
+      ]
+    },
+    {
+      "name": "Jump to",
+      "shortcuts": [
+        {
+          "description": "Bottom of Chat",
+          "keys": ["Alt", "Enter"]
+        },
+        {
+          "description": "Scroll Chat List to Top",
+          "keys": ["Alt", "Enter"]
+        },
+        {
+          "description": "Saved Messages",
+          "keys": ["Ctrl", "0"]
+        },
+        {
+          "description": "Pinned Chats",
+          "keys": ["Ctrl", "1-5"]
+        }
+      ]
+    },
+    {
+      "name": "Window Related",
+      "shortcuts": [
+        {
+          "description": "Minimize to System Tray",
+          "keys": ["Ctrl", "W"]
+        },
+        {
+          "description": "Quit Telegram",
+          "keys": ["Ctrl", "Q"]
+        },
+        {
+          "description": "Lock Telegram",
+          "keys": ["Ctrl", "L"]
+        },
+        {
+          "description": "Minimize Telegram",
+          "keys": ["Ctrl", "M"]
+        }
+      ]
+    },
+    {
+      "name": "Selected Text",
+      "shortcuts": [
+        {
+          "description": "Bold",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Italic",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Create Link",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Underline",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Monospace",
+          "keys": ["Ctrl", "Shift", "M"]
+        },
+        {
+          "description": "Null / Plain Text",
+          "keys": ["Ctrl", "Shift", "N"]
+        },
+        {
+          "description": "Strikethrough",
+          "keys": ["Ctrl", "Shift", "X"]
+        }
+      ]
+    }
+  ]
+}
