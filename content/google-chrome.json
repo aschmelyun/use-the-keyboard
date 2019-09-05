@@ -241,7 +241,7 @@
                     "keys": ["Ctrl", "+"]
                 },
                 {
-                    "description": "Make everything on the page",
+                    "description": "Make everything on the page smaller",
                     "keys": ["Ctrl", "-"]
                 },
                 {
