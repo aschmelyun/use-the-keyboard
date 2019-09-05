@@ -80,6 +80,14 @@
                 {
                     "description": "Launch the Miniplayer",
                     "keys": ["I"]
+                },
+                {
+                    "description": "Move forward a single frame (while paused)",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Move back a single frame (while paused)",
+                    "keys": [","]
                 }
             ]
         }
