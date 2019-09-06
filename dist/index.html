@@ -29,7 +29,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
     <meta name="theme-color" content="#ff4757">
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/app.css?id=a2ec9798187de97e6a3a">
+    <link rel="stylesheet" type="text/css" href="/assets/css/app.css?id=c9580811901f9d91595c">
     <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -55,7 +55,8 @@
                     <div class="intro-text">
                         <h1 class="title-primary">Use The Keyboard</h1>
                         <p class="subtitle">A collection of keyboard shortcuts for Mac apps, Windows programs, and websites.</p>
-                        <input type="text" class="search-input" id="searchInput" placeholder="Search..." v-model="searchInput">
+                        <label for="searchInput" class="sr-only">Search for shortcuts</label>
+                        <input type="text" class="search-input" id="searchInput" name="searchInput" placeholder="Search..." v-model="searchInput">
                     </div>
                 </div>
             </div>
