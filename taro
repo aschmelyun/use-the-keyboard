@@ -61,6 +61,7 @@ class Taro
         $files = $finder->files()
             ->in($this->outputRoot)
             ->ignoreDotFiles(true)
+            ->exclude(['ads.txt'])
             ->depth(0);
 
         foreach($files as $file) {

@@ -34,18 +34,17 @@ body {
 }
 .credit {
     font-size: 12px;
-    color: $color-dark-grey;
+    color: $color-regular-grey;
     font-weight: 400;
-    opacity: 0.5;
     transition: all 0.15s ease-in;
 
     &:hover {
-        opacity: 1;
+        color: $color-dark-grey;
     }
 
     a {
         font-weight: 600;
-        color: $color-dark-grey;
+        color: $color-regular-grey;
         text-decoration: none !important;
         transition: all 0.15s ease-in;
 
