@@ -1,0 +1,325 @@
+{
+    "view": "layout.shortcut",
+    "slug": "sequel-pro",
+    "title": "Sequel Pro",
+    "meta_title": "Keyboard shortcuts for Sequel Pro",
+    "meta_description": "A visual cheat-sheet for the 71 keyboard shortcuts found in Sequel Pro. This application is MacOS-only.",
+    "reference_link": "https://sequelpro.com/docs/get-started/keyboard-shortcuts",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Main Tabs",
+            "shortcuts": [
+                {
+                    "description": "Table Structure",
+                    "keys": ["Cmd", "1"]
+                },
+                {
+                    "description": "Table Content",
+                    "keys": ["Cmd", "2"]
+                },
+                {
+                    "description": "Table Relations",
+                    "keys": ["Cmd", "3"]
+                },
+                {
+                    "description": "Table Info",
+                    "keys": ["Cmd", "4"]
+                },
+                {
+                    "description": "Custom Query",
+                    "keys": ["Cmd", "5"]
+                },
+                {
+                    "description": "Table Triggers",
+                    "keys": ["Cmd", "6"]
+                }
+            ]
+        },
+        {
+            "name": "General Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "New window (connection file)",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "New tab (connection file)",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "Add connection to favorites",
+                    "keys": ["Cmd", "Shift", "A"]
+                },
+                {
+                    "description": "Open (connection file or SQL file)",
+                    "keys": ["Cmd", "O"]
+                },
+                {
+                    "description": "Open current connection file in new window",
+                    "keys": ["Cmd", "Opt", "O"]
+                },
+                {
+                    "description": "Save (connection flie)",
+                    "keys": ["Cmd", "S"]
+                },
+                {
+                    "description": "Save as (connection file)",
+                    "keys": ["Cmd", "Shift", "S"]
+                },
+                {
+                    "description": "Save query",
+                    "keys": ["Cmd", "Ctrl", "S"]
+                },
+                {
+                    "description": "Close (connection file)",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Close all (connection file)",
+                    "keys": ["Cmd", "Opt", "W"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Cmd", "P"]
+                },
+                {
+                    "description": "Import",
+                    "keys": ["Cmd", "Shift", "I"]
+                },
+                {
+                    "description": "Show console window",
+                    "keys": ["Cmd", "Shift", "K"]
+                },
+                {
+                    "description": "Clear console",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Back in history",
+                    "keys": ["Ctrl", "Opt", "Left"]
+                },
+                {
+                    "description": "Forward in history",
+                    "keys": ["Ctrl", "Opt", "Right"]
+                },
+                {
+                    "description": "Select next tab",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Select previous tab",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Insert NULL value",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Copy create table syntax",
+                    "keys": ["Cmd", "Shift", "C"]
+                },
+                {
+                    "description": "Show create table syntax",
+                    "keys": ["Cmd", "Opt", "S"]
+                },
+                {
+                    "description": "Refresh databases",
+                    "keys": ["Cmd", "Shift", "R"]
+                },
+                {
+                    "description": "Choose database",
+                    "keys": ["Cmd", "Shift", "D"]
+                },
+                {
+                    "description": "Show server variables",
+                    "keys": ["Cmd", "Shift", "V"]
+                },
+                {
+                    "description": "Show server processes",
+                    "keys": ["Cmd", "Opt", "P"]
+                },
+                {
+                    "description": "Refresh tables",
+                    "keys": ["Cmd", "Ctrl", "R"]
+                },
+                {
+                    "description": "Flush privileges",
+                    "keys": ["Cmd", "Shift", "F"]
+                },
+                {
+                    "description": "User accounts...",
+                    "keys": ["Cmd", "U"]
+                },
+                {
+                    "description": "Copy selection or selected row(s)",
+                    "keys": ["Cmd", "C"]
+                },
+                {
+                    "description": "Copy selected row(s) with column names",
+                    "keys": ["Cmd", "Opt", "C"]
+                },
+                {
+                    "description": "Copy selected row(s) as SQL INSERT",
+                    "keys": ["Cmd", "Opt", "Ctrl", "C"]
+                },
+                {
+                    "description": "Show/hide toolbar",
+                    "keys": ["Cmd", "Shift", "T"]
+                },
+                {
+                    "description": "Filter table content",
+                    "keys": ["Cmd", "Ctrl", "F"]
+                },
+                {
+                    "description": "Filter tables",
+                    "keys": ["Cmd", "Opt", "Ctrl", "F"]
+                },
+                {
+                    "description": "Bundle editor",
+                    "keys": ["Cmd", "Opt", "Ctrl", "B"]
+                },
+                {
+                    "description": "Navigator",
+                    "keys": ["Cmd", "Opt", "Ctrl", "N"]
+                }
+            ]
+        },
+        {
+            "name": "Select",
+            "shortcuts": [
+                {
+                    "description": "Select current word",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Select current line",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Select enclosing brackets",
+                    "keys": ["Cmd", "Shift", "B"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Cmd", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Table Structure Tab",
+            "shortcuts": [
+                {
+                    "description": "Add a new field",
+                    "keys": ["Cmd", "Opt", "A"]
+                },
+                {
+                    "description": "Delete selected field",
+                    "keys": ["Del"]
+                },
+                {
+                    "description": "Duplicate selected field",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Refresh table structure",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Edit table details",
+                    "keys": ["Cmd", "4"]
+                }
+            ]
+        },
+        {
+            "name": "Table Content Tab",
+            "shortcuts": [
+                {
+                    "description": "Add a new row",
+                    "keys": ["Cmd", "Opt", "A"]
+                },
+                {
+                    "description": "Delete selected row(s)",
+                    "keys": ["Del"]
+                },
+                {
+                    "description": "Duplicate selected row",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Refresh table contents",
+                    "keys": ["Cmd", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Custom Query Tab",
+            "shortcuts": [
+                {
+                    "description": "Run all queries (1.0+) / Run current query or selection (<=0.9.9.1)",
+                    "keys": ["Cmd", "Opt", "R"]
+                },
+                {
+                    "description": "Run current query or selection (1.0+) / Run all queries (<=0.9.9.1)",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Shift line or selection rightwards",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Shift line or selection leftwards",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Toggle comment line or selection",
+                    "keys": ["Cmd", "/"]
+                },
+                {
+                    "description": "Toggle comment current query",
+                    "keys": ["Cmd", "Opt", "/"]
+                },
+                {
+                    "description": "Spell checker completion (narrow-down list)",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "Select current query",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Show MySQL help for current word or selection",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Open query favorites popup menu",
+                    "keys": ["Cmd", "Opt", "F"]
+                },
+                {
+                    "description": "Open query history popup menu",
+                    "keys": ["Cmd", "Opt", "Y"]
+                },
+                {
+                    "description": "Insert previous history item (successively)",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Insert next history item (successively)",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Show all database names as completion list",
+                    "keys": ["Cmd", "Opt", "1"]
+                },
+                {
+                    "description": "Show all table and view names as completion list",
+                    "keys": ["Cmd", "Opt", "2"]
+                },
+                {
+                    "description": "Show all table names from current database as completion list",
+                    "keys": ["Cmd", "Opt", "3"]
+                }
+            ]
+        }
+    ]
+}

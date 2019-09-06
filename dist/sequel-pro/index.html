@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Keyboard shortcuts for Sequel Pro &rarr; UseTheKeyboard</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A visual cheat-sheet for the 71 keyboard shortcuts found in Sequel Pro. This application is MacOS-only.">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Keyboard shortcuts for Sequel Pro" />
+    <meta property="og:description" content="A visual cheat-sheet for the 71 keyboard shortcuts found in Sequel Pro. This application is MacOS-only." />
+    <meta property="og:url" content="https://usethekeyboard.com/sequel-pro" />
+    <meta property="og:site_name" content="UseTheKeyboard" />
+    <meta property="og:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes-square.png" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="A visual cheat-sheet for the 71 keyboard shortcuts found in Sequel Pro. This application is MacOS-only." />
+    <meta name="twitter:title" content="Keyboard shortcuts for Sequel Pro" />
+    <meta name="twitter:site" content="@aschmelyun" />
+    <meta name="twitter:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes-square.png" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+    <meta name="theme-color" content="#ff4757">
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/app.css?id=c9580811901f9d91595c">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-5644982708290077",
+            enable_page_level_ads: true
+        });
+    </script>
+</head><body class="">
+    <div class="wrapper" id="app">
+        <aside class="header">
+            <div class="logo">
+                <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" alt="UseTheKeyboard.com logo" width="106" height="32"></a>
+                <a class="switcher" @click.prevent="toggleOperatingSystem" :class="{'is-right': operatingSystem === 'mac' || isMacOnly}"><span class="toggle"></span></a>
+            </div>
+            <div class="header-wrapper">
+                <h1 class="title-primary">Keyboard shortcuts for Sequel Pro</h1>
+                <p class="subtitle">A visual cheat-sheet for the 71 keyboard shortcuts found in Sequel Pro. This application is MacOS-only.</p>
+                <a href="https://sequelpro.com/docs/get-started/keyboard-shortcuts" target="_blank" rel="noreferrer" class="btn btn-primary">Original Reference</a>
+                <a href="https://github.com/aschmelyun/use-the-keyboard/issues" target="_blank" rel="noreferrer" class="ml-2 btn btn-secondary">Report Issue</a>
+            </div>
+        </aside>
+        <main class="content">
+            <div class="content-wrapper">
+                                    <section class="shortcut-section" id="MainTabs">
+                        <h3 class="title-section"><span>Main Tabs</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Table Structure</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">1</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Table Content</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">2</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Table Relations</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">3</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Table Info</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">4</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Custom Query</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">5</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Table Triggers</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">6</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="GeneralShortcuts">
+                        <h3 class="title-section"><span>General Shortcuts</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">New window (connection file)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">N</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">New tab (connection file)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">T</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Add connection to favorites</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">A</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Open (connection file or SQL file)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">O</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Open current connection file in new window</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">O</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Save (connection flie)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">S</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Save as (connection file)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">S</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Save query</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">S</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Close (connection file)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">W</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Close all (connection file)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">W</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Print</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">P</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Import</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">I</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show console window</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">K</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Clear console</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">K</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Back in history</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Left</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Forward in history</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Right</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select next tab</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Tab</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select previous tab</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Tab</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Insert NULL value</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">N</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Copy create table syntax</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">C</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show create table syntax</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">S</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Refresh databases</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">R</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Choose database</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show server variables</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">V</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show server processes</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">P</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Refresh tables</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">R</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Flush privileges</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">F</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">User accounts...</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">U</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Copy selection or selected row(s)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">C</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Copy selected row(s) with column names</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">C</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Copy selected row(s) as SQL INSERT</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">C</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show/hide toolbar</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">T</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Filter table content</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">F</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Filter tables</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">F</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Bundle editor</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">B</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Navigator</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">N</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="Select">
+                        <h3 class="title-section"><span>Select</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Select current word</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">W</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select current line</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">L</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select enclosing brackets</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Shift</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">B</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select all</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">A</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="TableStructureTab">
+                        <h3 class="title-section"><span>Table Structure Tab</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Add a new field</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">A</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Delete selected field</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Del</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Duplicate selected field</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Refresh table structure</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">R</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Edit table details</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">4</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="TableContentTab">
+                        <h3 class="title-section"><span>Table Content Tab</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Add a new row</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">A</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Delete selected row(s)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Del</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Duplicate selected row</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Refresh table contents</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">R</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="CustomQueryTab">
+                        <h3 class="title-section"><span>Custom Query Tab</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Run all queries (1.0+) / Run current query or selection (&lt;=0.9.9.1)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">R</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Run current query or selection (1.0+) / Run all queries (&lt;=0.9.9.1)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">R</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Shift line or selection rightwards</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">[</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Shift line or selection leftwards</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">]</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Toggle comment line or selection</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">/</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Toggle comment current query</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">/</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Spell checker completion (narrow-down list)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">F5</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Select current query</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Y</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show MySQL help for current word or selection</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">H</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Open query favorites popup menu</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">F</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Open query history popup menu</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Y</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Insert previous history item (successively)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Up</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Insert next history item (successively)</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Down</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show all database names as completion list</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">1</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show all table and view names as completion list</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">2</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Show all table names from current database as completion list</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Cmd</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Opt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">3</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                            </div>
+        </main>
+        <footer class="footer">
+            <div class="credit">Built by <a href="https://twitter.com/aschmelyun">&commat;aschmelyun</a> &mdash; <a href="https://github.com/aschmelyun/use-the-keyboard/issues/new?labels=new%20page">Make a request</a></div>
+        </footer>
+    </div>
+    <script type="text/javascript" src="/assets/js/app.js?id=e16601a310ebef78ac29"></script>
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            operatingSystem: 'windows',
+            searchInput: '',
+            isMacOnly: true
+        },
+        created() {
+            if(navigator.platform.indexOf('Mac') > -1) {
+                this.operatingSystem = 'mac';
+                this.changeAllKeys('Ctrl', 'Cmd');
+            }
+        },
+        methods: {
+            toggleOperatingSystem() {
+                if(this.isMacOnly) {
+                    return false;
+                }
+                
+                if(this.operatingSystem === 'windows') {
+                    this.operatingSystem = 'mac';
+                    this.changeAllKeys('Ctrl', 'Cmd');
+                } else {
+                    this.operatingSystem = 'windows';
+                    this.changeAllKeys('Cmd', 'Ctrl');
+                }
+            },
+            changeAllKeys(from, to) {
+                let keys = document.getElementsByClassName('key');
+                for(let key of keys) {
+                    if(key.innerHTML === from) {
+                        key.innerHTML = to;
+                    }
+                }
+            },
+            showPotentialResults(search) {
+                let programs = document.getElementsByClassName('data-program');
+                for(let program of programs) {
+                    program.style.display = 'block';
+                    if(!program.dataset.slug.startsWith(search.toLowerCase()) && !program.dataset.title.toLowerCase().startsWith(search.toLowerCase())) {
+                        program.style.display = 'none';
+                    }
+                }
+            }
+        },
+        watch: {
+            searchInput(val) {
+                this.showPotentialResults(val);
+            }
+        }
+    });
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131513064-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131513064-1');
+</script>
+
+</body>
+</html>
