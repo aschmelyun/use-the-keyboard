@@ -4,14 +4,14 @@
 <body class="{{ $bodyClasses ?? '' }}">
     <header class="header-landing">
         <div class="logo">
-            <a href="/"><img src="/assets/img/usethekeyboard-logo.svg" width="106" height="32"></a>
+            <a href="/"><img src="/assets/img/usethekeyboard-logo.svg" alt="UseTheKeyboard.com logo" width="106" height="32"></a>
         </div>
     </header>
     <div class="wrapper" id="app">
         <div class="container intro">
             <div class="row">
                 <div class="hidden-sm-down col-md-5">
-                    <img src="/assets/img/undraw_taking_notes.svg">
+                    <img src="/assets/img/undraw_taking_notes.svg" alt="Vector illustration of a person hanging up notes courtesy of Undraw.co">
                 </div>
                 <div class="col-md-7 intro-wrapper">
                     <div class="intro-text">
@@ -32,7 +32,7 @@
                                 @endphp
                                 <div class="col-sm-12 col-md-4 col-lg-3 data-program" data-title="{{ $data->slug }}" data-slug="{{ $data->slug }}">
                                     <a class="program is-popular" href="/{{ $data->slug }}">
-                                        <img src="/assets/img/logo-{{ $data->slug }}.png">
+                                        <img src="/assets/img/logo-{{ $data->slug }}.png" alt="{{ $data->title }} icon">
                                         <span>{{ $data->title }}</span>
                                     </a>
                                 </div>

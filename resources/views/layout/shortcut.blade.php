@@ -5,7 +5,7 @@
     <div class="wrapper" id="app">
         <aside class="header">
             <div class="logo">
-                <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" width="106" height="32"></a>
+                <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" alt="UseTheKeyboard.com logo" width="106" height="32"></a>
                 <a class="switcher" @click.prevent="toggleOperatingSystem" :class="{'is-right': operatingSystem === 'mac' || isMacOnly}"><span class="toggle"></span></a>
             </div>
             <div class="header-wrapper">
