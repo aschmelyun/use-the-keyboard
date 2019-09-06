@@ -1,3 +1,446 @@
-Warning: include(/Users/andrew/Sites/usethekeyboard.com/cache/be72a11573816150b971ed9699b0337c591b2d3a.php): failed to open stream: No such file or directory in /Users/andrew/Sites/usethekeyboard.com/vendor/illuminate/view/Engines/PhpEngine.php on line 43
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Keyboard shortcuts for Atlassian&#039;s Jira &rarr; UseTheKeyboard</title>
 
-Warning: include(): Failed opening '/Users/andrew/Sites/usethekeyboard.com/cache/be72a11573816150b971ed9699b0337c591b2d3a.php' for inclusion (include_path='.:/usr/local/Cellar/php/7.3.5/share/php/pear') in /Users/andrew/Sites/usethekeyboard.com/vendor/illuminate/view/Engines/PhpEngine.php on line 43
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A visual cheat-sheet for the 44 keyboard shortcuts found in Jira">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Keyboard shortcuts for Atlassian&#039;s Jira" />
+    <meta property="og:description" content="A visual cheat-sheet for the 44 keyboard shortcuts found in Jira" />
+    <meta property="og:url" content="https://usethekeyboard.com/jira" />
+    <meta property="og:site_name" content="UseTheKeyboard" />
+    <meta property="og:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes-square.png" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="A visual cheat-sheet for the 44 keyboard shortcuts found in Jira" />
+    <meta name="twitter:title" content="Keyboard shortcuts for Atlassian&#039;s Jira" />
+    <meta name="twitter:site" content="@aschmelyun" />
+    <meta name="twitter:image" content="https://usethekeyboard.com/assets/img/undraw-taking-notes-square.png" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+    <meta name="theme-color" content="#ff4757">
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/app.css?id=a2ec9798187de97e6a3a">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-5644982708290077",
+            enable_page_level_ads: true
+        });
+    </script>
+</head><body class="">
+    <div class="wrapper" id="app">
+        <aside class="header">
+            <div class="logo">
+                <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" width="106" height="32"></a>
+                <a class="switcher" @click.prevent="toggleOperatingSystem" :class="{'is-right': operatingSystem === 'mac' || isMacOnly}"><span class="toggle"></span></a>
+            </div>
+            <div class="header-wrapper">
+                <h1 class="title-primary">Keyboard shortcuts for Atlassian&#039;s Jira</h1>
+                <p class="subtitle">A visual cheat-sheet for the 44 keyboard shortcuts found in Jira</p>
+                <a href="https://confluence.atlassian.com/agile066/jira-agile-user-s-guide/using-keyboard-shortcuts" target="_blank" class="btn btn-primary">Original Reference</a>
+                <a href="https://github.com/aschmelyun/use-the-keyboard/issues" target="_blank" class="ml-2 btn btn-secondary">Report Issue</a>
+            </div>
+        </aside>
+        <main class="content">
+            <div class="content-wrapper">
+                                    <section class="shortcut-section" id="GlobalShortcuts">
+                        <h3 class="title-section"><span>Global Shortcuts</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Go to Dashboard</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">G</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Browse to a Project</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">G</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">P</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Go to Agile</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">G</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">A</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Go to Issue Navigator</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">G</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">I</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Administration Search Dialog Box</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">G</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">G</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Quick Search</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">/</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Create an Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">C</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Open shortcut help</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">?</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Dashboards drop-down menu</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Alt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">D</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Projects drop-down menu</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Alt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">P</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Issues drop-down menu</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Alt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">I</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Agile drop-down menu</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Alt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">G</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Form Submit</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Alt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">S</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Cancel Form</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Ctrl</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">Alt</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">`</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="AgileShortcuts">
+                        <h3 class="title-section"><span>Agile Shortcuts</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">Next Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">J</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Previous Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">K</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Next Column</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">N</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Previous Column</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">P</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Expand/Collapse All Swimlanes</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">-</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Hide/Show Detail View</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">T</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">View Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">O</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Add a New Line</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Enter</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Submit changes</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Enter</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Cancel changes</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Esc</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Assign to Me</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">I</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Send to Top</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">S</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">T</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Send to Bottom</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">S</li>
+                                                                                            <li class="plus"></li>
+                                                                                                                                <li class="key">B</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Edit Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">E</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Projector Mode</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Z</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                                    <section class="shortcut-section" id="IssueActionsandNavigatorShortcuts">
+                        <h3 class="title-section"><span>Issue Actions and Navigator Shortcuts</span></h3>
+                        <div class="shortcuts">
+                                                            <div class="shortcut">
+                                    <p class="description">View selected issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">O</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Next Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">J</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Previous Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">K</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Back to the Navigator</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">U</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Hide/Show Left Section</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">[</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Next Activity</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">N</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Previous Activity</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">P</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Focus search field</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">F</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Escape field</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">Esc</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Edit Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">E</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Assign Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">A</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Comment on Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">M</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Edit Issue Labels</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">L</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Share Issue</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">S</li>
+                                                                                                                        </ul>
+                                </div>
+                                                            <div class="shortcut">
+                                    <p class="description">Operations dialog box</p>
+                                    <ul class="keys">
+                                                                                    <li class="key">.</li>
+                                                                                                                        </ul>
+                                </div>
+                                                    </div>
+                    </section>
+                            </div>
+        </main>
+        <footer class="footer">
+            <div class="credit">Built by <a href="https://twitter.com/aschmelyun">&commat;aschmelyun</a> &mdash; <a href="https://github.com/aschmelyun/use-the-keyboard/issues/new?labels=new%20page">Make a request</a></div>
+        </footer>
+    </div>
+    <script type="text/javascript" src="/assets/js/app.js?id=e16601a310ebef78ac29"></script>
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            operatingSystem: 'windows',
+            searchInput: '',
+            isMacOnly: false
+        },
+        created() {
+            if(navigator.platform.indexOf('Mac') > -1) {
+                this.operatingSystem = 'mac';
+                this.changeAllKeys('Ctrl', 'Cmd');
+            }
+        },
+        methods: {
+            toggleOperatingSystem() {
+                if(this.isMacOnly) {
+                    return false;
+                }
+                
+                if(this.operatingSystem === 'windows') {
+                    this.operatingSystem = 'mac';
+                    this.changeAllKeys('Ctrl', 'Cmd');
+                } else {
+                    this.operatingSystem = 'windows';
+                    this.changeAllKeys('Cmd', 'Ctrl');
+                }
+            },
+            changeAllKeys(from, to) {
+                let keys = document.getElementsByClassName('key');
+                for(let key of keys) {
+                    if(key.innerHTML === from) {
+                        key.innerHTML = to;
+                    }
+                }
+            },
+            showPotentialResults(search) {
+                let programs = document.getElementsByClassName('data-program');
+                for(let program of programs) {
+                    program.style.display = 'block';
+                    if(!program.dataset.slug.startsWith(search.toLowerCase()) && !program.dataset.title.toLowerCase().startsWith(search.toLowerCase())) {
+                        program.style.display = 'none';
+                    }
+                }
+            }
+        },
+        watch: {
+            searchInput(val) {
+                this.showPotentialResults(val);
+            }
+        }
+    });
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131513064-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131513064-1');
+</script>
+
+</body>
+</html>
