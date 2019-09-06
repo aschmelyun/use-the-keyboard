@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 @include('partials.head')
 <body class="{{ $bodyClasses ?? '' }}">
     <div class="wrapper" id="app">
