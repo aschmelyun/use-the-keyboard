@@ -1,0 +1,161 @@
+{
+    "view": "layout.shortcut",
+    "slug": "table-plus",
+    "title": "TablePlus",
+    "meta_title": "Keyboard shortcuts for TablePlus app",
+    "meta_description": "A visual cheat-sheet for the 34 keyboard shortcuts found in TablePlus",
+    "reference_link": "https://tableplus.com/blog/2018/02/shortcut-keys.html",
+    "sections": [
+        {
+            "name": "Global",
+            "shortcuts": [
+                {
+                    "description": "Open a new connection",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Quit app",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Open SQL file",
+                    "keys": ["Ctrl", "Shift", "O"]
+                },
+                {
+                    "description": "Open Preferences",
+                    "keys": ["Ctrl", ","]
+                }
+            ]
+        },
+        {
+            "name": "Workspace",
+            "shortcuts": [
+                {
+                    "description": "Close a tab/window",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Commit the changes",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Open a new tab",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Open plugin manager",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Run custom script",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Reload workspace",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Navigate to left tab",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Navigate to right tab",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Navigate to left Pane",
+                    "keys": ["Ctrl", "Shift", "["]
+                },
+                {
+                    "description": "Navigate to right Pane",
+                    "keys": ["Ctrl", "Shift", "]"]
+                },
+                {
+                    "description": "Split Pane horizontally",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Navigate to number tab",
+                    "keys": ["Ctrl", "1-9"]
+                },
+                {
+                    "description": "Switch database",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Switch connection",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Indent selected SQL Code",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Execute SQL Code",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Open file SQL",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Uglify selected SQL statements",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Comment/Uncomment lines of SQL",
+                    "keys": ["Ctrl", "\\"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Open anything",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Open SQL Query",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Open item in new tab",
+                    "keys": ["Ctrl", "(click)"]
+                },
+                {
+                    "description": "Move focus while editing",
+                    "keys": ["Tab"]
+                }
+            ]
+        },
+        {
+            "name": "Table Data",
+            "shortcuts": [
+                {
+                    "description": "Toggle row detail when row selected",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Copy rows",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste rows",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Insert a new row",
+                    "keys": ["Ctrl", "Alt", "I"]
+                },
+                {
+                    "description": "Move focus while editing",
+                    "keys": ["Tab"]
+                }
+            ]
+        }
+    ]
+}
