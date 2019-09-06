@@ -43,15 +43,15 @@
                 },
                 {
                     "description": "Reply",
-                    "keys": ["Alt", "H", "R, P"]
+                    "keys": ["Ctrl", "R"]
                 },
                 {
                     "description": "Forward",
-                    "keys": ["Alt", "H", "F"]
+                    "keys": ["Ctrl", "F"]
                 },
                 {
                     "description": "Reply all",
-                    "keys": ["Alt", "H", "R, A"]
+                    "keys": ["Ctrl", "Shift", "R"]
                 },
                 {
                     "description": "Copy",
