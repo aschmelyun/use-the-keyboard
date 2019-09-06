@@ -24,7 +24,7 @@
     }
     &.btn-secondary {
         background: $color-light-grey;
-        color: rgba($color-dark-grey, 0.5);
+        color: $color-regular-grey;
         transition: all 0.15s ease-in;
 
         &:hover {
