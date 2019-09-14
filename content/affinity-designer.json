@@ -1,0 +1,462 @@
+{
+    "view": "layout.shortcut",
+    "slug": "affinity-designer",
+    "title": "Affinity Designer",
+    "meta_title": "Keyboard shortcuts for Affinity Designer",
+    "meta_description": "A visual cheat-sheet for the 108 keyboard shortcuts found in Affinity Designer",
+    "reference_link": "https://affinityspotlight.com/article/downloadable-affinity-keyboard-shortcut-cheat-sheets/",
+    "sections": [
+        {
+            "name": "Designer Persona",
+            "shortcuts": [
+                {
+                    "description": "Cancel operation",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Help",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Change opacity",
+                    "keys": ["0-9"]
+                },
+                {
+                    "description": "Toggle UI",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Cycle text tools",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Transparency tool",
+                    "keys": ["Y"]
+                },
+                {
+                    "description": "Color picker tool",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Pen tool",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Decrease brush size",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Increase brush size",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Node tool",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Point transform tool",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Fill tool",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "View tool",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Toggle snapping",
+                    "keys": [";"]
+                },
+                {
+                    "description": "Clip to canvas",
+                    "keys": ["\\"]
+                },
+                {
+                    "description": "Zoom tool",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Toggle active selector",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Corner tool",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Move tool",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Vector brush tool",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Pencil tool",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Cycle shape tool",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Cycle split view",
+                    "keys": [","]
+                },
+                {
+                    "description": "Reset selection box",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Set fill or stroke to none",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Zoom to 100%",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Zoom to 200%",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Zoom to 400%",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Zoom to 800%",
+                    "keys": ["Ctrl", "4"]
+                },
+                {
+                    "description": "Zoom to actual size",
+                    "keys": ["Ctrl", "8"]
+                },
+                {
+                    "description": "Zoom to pixel size",
+                    "keys": ["Ctrl", "9"]
+                },
+                {
+                    "description": "Zoom to fit",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["Ctrl", "="]
+                },
+                {
+                    "description": "Switch view",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Close",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Rulers",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Character",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Open",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Back one",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Forward one",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Convert to curves",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Save",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Group",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Lock",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Show guides",
+                    "keys": ["Ctrl", ";"]
+                },
+                {
+                    "description": "Show grid",
+                    "keys": ["Ctrl", "'"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "New",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Curves",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Preferences",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Hold for view tool",
+                    "keys": ["Space"]
+                }
+            ]
+        },
+        {
+            "name": "Pixel Persona",
+            "shortcuts": [
+                {
+                    "description": "Selection brush",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Erase brush",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Color picker tool",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Cycle dodge or burn brushes",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Decrease brush size",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Increase brush size",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Flood fill tool",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "Freehand selection tool",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Toggle active selector",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Move tool",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Cycle brush or pixel tools",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Cycle marquees",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Cycle split view",
+                    "keys": [","]
+                },
+                {
+                    "description": "Reset selection box",
+                    "keys": ["."]
+                }
+            ]
+        },
+        {
+            "name": "Advanced Text",
+            "shortcuts": [
+                {
+                    "description": "Character panel",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Typography dialog",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Bold",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Align left",
+                    "keys": ["Ctrl", "Alt", "L"]
+                },
+                {
+                    "description": "Align center",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Align right",
+                    "keys": ["Ctrl", "Alt", "R"]
+                },
+                {
+                    "description": "Tighten spacing more",
+                    "keys": ["Alt", "Shift", "Left"]
+                },
+                {
+                    "description": "Loosen spacing more",
+                    "keys": ["Alt", "Shift", "Right"]
+                },
+                {
+                    "description": "Precise raise baseline",
+                    "keys": ["Ctrl", "Alt", "Shift", "Up"]
+                },
+                {
+                    "description": "Precise lower baseline",
+                    "keys": ["Ctrl", "Alt", "Shift", "Down"]
+                },
+                {
+                    "description": "Precise increase leading",
+                    "keys": ["Ctrl", "Alt", "Down"]
+                },
+                {
+                    "description": "Precise decrease leading",
+                    "keys": ["Ctrl", "Alt", "Up"]
+                }
+            ]
+        },
+        {
+            "name": "Modifiers and Layer Control",
+            "shortcuts": [
+                {
+                    "description": "Drawing and painting - temporarily switches to the color picker tool",
+                    "keys": ["Alt"]
+                },
+                {
+                    "description": "Freehand selection tools - connects clicked points with straight lines",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Reverses aspect ratio constraint on scaling",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Scales from the center of selection",
+                    "keys": ["Ctrl"]
+                },
+                {
+                    "description": "Ignores snapping during an operation",
+                    "keys": ["Alt"]
+                },
+                {
+                    "description": "Geometric shapes - moves red handles symmetrically",
+                    "keys": ["Ctrl"]
+                },
+                {
+                    "description": "Path text - maintains distance between red handles",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Path text - moves red handles symmetrically",
+                    "keys": ["Ctrl"]
+                },
+                {
+                    "description": "Pixel brush painting - draws straight line connecting two strokes",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Pixel selections - constrains marquee to square or circle",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Pixel selection - moves underlying layer rather than selection",
+                    "keys": ["Ctrl"]
+                },
+                {
+                    "description": "Pixel selection - removes from selection",
+                    "keys": ["Alt"]
+                },
+                {
+                    "description": "Pixel tool - erases from current layer or projects",
+                    "keys": ["Ctrl"]
+                },
+                {
+                    "description": "Rotating - constrains rotations to 15 degree intervals",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Selecting - scales multiple objects and layers",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Selecting - selects object or layer behind current selection",
+                    "keys": ["Alt"]
+                },
+                {
+                    "description": "Shearing - mirrors shear around center of object",
+                    "keys": ["Ctrl"]
+                },
+                {
+                    "description": "Vector drawing tools - constrains handle angles to 15 degrees",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Vector drawing tools - sets node to sharp for creating cusps",
+                    "keys": ["Alt"]
+                },
+                {
+                    "description": "Vector drawing tools - temporarily switches to node editing from pen",
+                    "keys": ["Ctrl"]
+                }
+            ]
+        }
+    ]
+}
