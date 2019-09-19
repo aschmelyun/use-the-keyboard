@@ -1,0 +1,179 @@
+{
+    "view": "layout.shortcut",
+    "slug": "airtable",
+    "title": "Airtable",
+    "meta_title": "Keyboard shortcuts for Airtable",
+    "meta_description": "A visual cheat-sheet for the 36 keyboard shortcuts found in Airtable",
+    "reference_link": "https://support.airtable.com/hc/en-us/articles/204143385-Airtable-keyboard-shortcuts",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Undo action",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo action",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Print the current table view or current expanded record (if inside an expanded record)",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Opens the table switcher in the current base",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Opens the quick base switcher if on the home screen or inside a base",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Opens the view switcher in the current base",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Opens the filter menu in the current view, press enter to create a new filter",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Opens the grouped records menu in the current view, press enter to collapse or expand all groups",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Opens the sort menu in the current view, press enter to re-apply the most recent sort",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Toggles blocks",
+                    "keys": ["Ctrl", "Shift", "\\"]
+                },
+                {
+                    "description": "Opens the find bar, use esc to close it",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Sets the selected date/datetime field to now",
+                    "keys": ["Ctrl", ";"]
+                }
+            ]
+        },
+        {
+            "name": "Grid View",
+            "shortcuts": [
+                {
+                    "description": "Copy a cell or range of cells",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Cut a cell or range of cells",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Paste a cell (if you select a range of cells, you can paste the same value into multiple cells at once)",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Expand the active record, use esc to return to the table",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Expand the active cell, you can then use arrow keys to move to different cells",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Scrolls one screen up",
+                    "keys": ["PgUp"]
+                },
+                {
+                    "description": "Scrolls one screen down",
+                    "keys": ["PgDn"]
+                },
+                {
+                    "description": "Scrolls one screen left",
+                    "keys": ["Alt", "PgUp"]
+                },
+                {
+                    "description": "Scrolls one screen right",
+                    "keys": ["Alt", "PgDn"]
+                },
+                {
+                    "description": "Jump to the edge of the table",
+                    "keys": ["Ctrl", "(arrows)"]
+                },
+                {
+                    "description": "Jump to the edge of table and select cells",
+                    "keys": ["Ctrl", "Shift", "(arrows)"]
+                },
+                {
+                    "description": "Select range of cells, you can also click while holding shift to select cells",
+                    "keys": ["Shift", "(arrows)"]
+                },
+                {
+                    "description": "Insert a record below the selected cell",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Edit the selected cell",
+                    "keys": ["Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Gallery View",
+            "shortcuts": [
+                {
+                    "description": "Scroll to edge of gallery",
+                    "keys": ["Ctrl", "Up/Down"]
+                }
+            ]
+        },
+        {
+            "name": "Kanban View",
+            "shortcuts": [
+                {
+                    "description": "Scroll kanban board to the left by one stack",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Scroll kanban board to the right by one stack",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Scroll kanban board to the left edge",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Scroll kanban board to the right edge",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Scroll all stacks to the top",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Scroll all stacks to the bottom",
+                    "keys": ["Ctrl", "Down"]
+                }
+            ]
+        },
+        {
+            "name": "Expanded Record",
+            "shortcuts": [
+                {
+                    "description": "Move to the previous record while viewing an expanded record",
+                    "keys": ["Ctrl", "Shift", "<"]
+                },
+                {
+                    "description": "Move to the next record while viewing an expanded record",
+                    "keys": ["Ctrl", "Shift", ">"]
+                },
+                {
+                    "description": "Close expanded record",
+                    "keys": ["Esc"]
+                }
+            ]
+        }
+    ]
+}

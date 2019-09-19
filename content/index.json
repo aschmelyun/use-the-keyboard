@@ -2,7 +2,7 @@
     "view": "layout.default",
     "slug": "/",
     "title": "Use The Keyboard",
-    "meta_title": "Welcome",
+    "meta_title": "A collection of keyboard shortcuts for Mac apps, Windows programs, and websites",
     "meta_description": "A collection of keyboard shortcuts for Mac apps, Windows programs, and a variety of websites.",
     "popular": ["notion", "slack", "vs-code", "evernote"]
 }
