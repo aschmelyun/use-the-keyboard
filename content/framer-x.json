@@ -1,0 +1,230 @@
+{
+    "view": "layout.shortcut",
+    "slug": "framer-x",
+    "title": "Framer X",
+    "meta_title": "Keyboard shortcuts for Framer X",
+    "meta_description": "A visual cheat-sheet for the 45 keyboard shortcuts found in Framer X. This application is MacOS-only.",
+    "reference_link": "https://www.framer.com/support/using-framer-x/shortcuts/",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Tools",
+            "shortcuts": [
+                {
+                    "description": "Frame",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Round",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Text",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Stack",
+                    "keys": ["S"]
+                },{
+                    "description": "Link",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Pan Canvas",
+                    "keys": ["Space"]
+                }
+            ]
+        },
+        {
+            "name": "Graphics",
+            "shortcuts": [
+                {
+                    "description": "Graphic",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "Path",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Rectangle",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Oval",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Vector",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Group",
+                    "keys": ["Cmd", "G"]
+                },
+                {
+                    "description": "Ungroup",
+                    "keys": ["Cmd", "Shift", "G"]
+                }
+            ]
+        },
+        {
+            "name": "Layout",
+            "shortcuts": [
+                {
+                    "description": "Add Frame",
+                    "keys": ["Cmd", "Enter"]
+                },
+                {
+                    "description": "Add Stack",
+                    "keys": ["Cmd", "Opt", "Enter"]
+                },
+                {
+                    "description": "Remove Wrapper",
+                    "keys": ["Cmd", "Del"]
+                },
+                {
+                    "description": "Move Forward",
+                    "keys": ["Cmd", "Opt", "Up"]
+                },
+                {
+                    "description": "Move Backward",
+                    "keys": ["Cmd", "Opt", "Down"]
+                }
+            ]
+        },
+        {
+            "name": "Components",
+            "shortcuts": [
+                {
+                    "description": "Create from Design",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Create from Code",
+                    "keys": ["Cmd", "Shift", "K"]
+                }
+            ]
+        },
+        {
+            "name": "Text",
+            "shortcuts": [
+                {
+                    "description": "Bold",
+                    "keys": ["Cmd", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Cmd", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Cmd", "U"]
+                },
+                {
+                    "description": "Select Typeface",
+                    "keys": ["Cmd", "T"]
+                }
+            ]
+        },
+        {
+            "name": "Editing",
+            "shortcuts": [
+                {
+                    "description": "Object Size",
+                    "keys": ["Cmd", "(arrows)"]
+                },
+                {
+                    "description": "Object Size by 10px",
+                    "keys": ["Cmd", "Shift", "(arrows)"]
+                },
+                {
+                    "description": "Opacity",
+                    "keys": ["0-9"]
+                },
+                {
+                    "description": "Show Distance",
+                    "keys": ["Opt"]
+                },
+                {
+                    "description": "Duplicate in Place",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Copy Style",
+                    "keys": ["Cmd", "Opt", "C"]
+                },
+                {
+                    "description": "Paste Style",
+                    "keys": ["Cmd", "Opt", "V"]
+                },
+                {
+                    "description": "Color Picker",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Select All Layers",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "Select All Siblings",
+                    "keys": ["Cmd", "Shift", "A"]
+                },
+                {
+                    "description": "Select All Children",
+                    "keys": ["Cmd", "Opt", "A"]
+                }
+            ]
+        },
+        {
+            "name": "View",
+            "shortcuts": [
+                {
+                    "description": "Zoom",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Zoom In",
+                    "keys": ["Cmd", "+"]
+                },
+                {
+                    "description": "Zoom Out",
+                    "keys": ["Cmd", "-"]
+                },
+                {
+                    "description": "Zoom to Fit",
+                    "keys": ["Cmd", "1"]
+                },
+                {
+                    "description": "Zoom to Fit Selection",
+                    "keys": ["Cmd", "2"]
+                },
+                {
+                    "description": "Zoom to 100%",
+                    "keys": ["Cmd", "0"]
+                },
+                {
+                    "description": "Show Rulers",
+                    "keys": ["Ctrl", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Window",
+            "shortcuts": [
+                {
+                    "description": "Minimize",
+                    "keys": ["Cmd", "M"]
+                },
+                {
+                    "description": "Welcome",
+                    "keys": ["Cmd", "Shift", "1"]
+                },
+                {
+                    "description": "Preview",
+                    "keys": ["Cmd", "P"]
+                }
+            ]
+        }
+    ]
+}
