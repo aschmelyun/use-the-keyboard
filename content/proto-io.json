@@ -1,0 +1,242 @@
+{
+    "view": "layout.shortcut",
+    "slug": "proto-io",
+    "title": "Proto.io",
+    "meta_title": "Keyboard shortcuts for Proto.io",
+    "meta_description": "A visual cheat-sheet for the 48 keyboard shortcuts found in Proto.io",
+    "reference_link": "https://support.proto.io/hc/en-us/articles/115001423511-Keyboard-shortcuts",
+    "sections": [
+        {
+            "name": "Main",
+            "shortcuts": [
+                {
+                    "description": "Find",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Show keyboard shortcuts",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Save",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Close modal windows",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Preview",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Save and Preview",
+                    "keys": ["Ctrl", "Shift", "S"]
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Go to previous canvas",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Go to next canvas",
+                    "keys": ["Ctrl", "]"]
+                }
+            ]
+        },
+        {
+            "name": "Edit",
+            "shortcuts": [
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Backspace"]
+                }
+            ]
+        },
+        {
+            "name": "Grid",
+            "shortcuts": [
+                {
+                    "description": "Toggle grid",
+                    "keys": ["Ctrl", "'"]
+                },
+                {
+                    "description": "Toggle grid system",
+                    "keys": ["Ctrl", "\\"]
+                },
+                {
+                    "description": "Toggle custom guides",
+                    "keys": ["Ctrl", ";"]
+                },
+                {
+                    "description": "Toggle smart guides",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Toggle snap to grid on drag or resize",
+                    "keys": ["Alt"]
+                }
+            ]
+        },
+        {
+            "name": "View",
+            "shortcuts": [
+                {
+                    "description": "Zoom in",
+                    "keys": ["Ctrl", "+"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Zoom to 100%",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Fit to screen",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Zoom to selected layers, or fit all layers if none selected",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Center selected layer(s) in the canvas, or center on screen if none selected",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Toggle right pane",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Toggle left pane",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Pan canvas while keydown",
+                    "keys": ["Space"]
+                }
+            ]
+        },
+        {
+            "name": "Item",
+            "shortcuts": [
+                {
+                    "description": "Bring to front",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Send to back",
+                    "keys": ["Ctrl", "Down"]
+                },
+                {
+                    "description": "Bring forward",
+                    "keys": ["Ctrl", "Shift", "Up"]
+                },
+                {
+                    "description": "Send backwards",
+                    "keys": ["Ctrl", "Shift", "Down"]
+                },
+                {
+                    "description": "Move item",
+                    "keys": ["(arrows)"]
+                },
+                {
+                    "description": "Snap item",
+                    "keys": ["Shift", "(arrows)"]
+                },
+                {
+                    "description": "Lock drag direction (hold while dragging)",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Insert rectangle",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Insert oval",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Insert line",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Insert text",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Insert interaction area",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Enter selected container",
+                    "keys": ["Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Group",
+            "shortcuts": [
+                {
+                    "description": "Group selected",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Ungroup selected",
+                    "keys": ["Ctrl", "Shift", "G"]
+                }
+            ]
+        },
+        {
+            "name": "States Preview",
+            "shortcuts": [
+                {
+                    "description": "Play or pause state transition",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Forward state transition",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Rewind state transition",
+                    "keys": [","]
+                }
+            ]
+        }
+    ]
+}
