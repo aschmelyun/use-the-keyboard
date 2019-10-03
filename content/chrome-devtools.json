@@ -1,0 +1,274 @@
+{
+    "view": "layout.shortcut",
+    "slug": "chrome-devtools",
+    "title": "Chrome Developer Tools",
+    "meta_title": "Keyboard shortcuts for Chrome DevTools",
+    "meta_description": "A visual cheat-sheet for the 56 keyboard shortcuts found in Chrome's Developer Tools",
+    "reference_link": "https://developers.google.com/web/tools/chrome-devtools/shortcuts",
+    "sections": [
+        {
+            "name": "Opening DevTools",
+            "shortcuts": [
+                {
+                    "description": "Open whatever panel you used last",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Open the Console panel",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Open the Elements panel",
+                    "keys": ["Ctrl", "Shift", "C"]
+                }
+            ]
+        },
+        {
+            "name": "Global Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Show Settings",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Focus the next panel",
+                    "keys": ["Ctrl", "]"]
+                },
+                {
+                    "description": "Focus the previous panel",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Switch back to whatever docking position you last used",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Toggle Device Mode",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Toggle Inspect Element Mode",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Open the Command Menu",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Toggle the Drawer",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Normal reload",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Hard reload",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Search for text within the current panel",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Opens the Search tab in the Drawer",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Open a file in the Sources panel",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["Ctrl", "Shift", "+"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Restore default zoom level",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Run snippet",
+                    "keys": ["Ctrl", "O", "!"]
+                }
+            ]
+        },
+        {
+            "name": "Elements Panel",
+            "shortcuts": [
+                {
+                    "description": "Undo change",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo change",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Select the element above or below the currently-selected element",
+                    "keys": ["Up/Down"]
+                },
+                {
+                    "description": "Expand the currently-selected node",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Collapse the currently-selected node",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Toggle Edit Attributes mode on the currently-selected element",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Select the next attribute after entering Edit Attributes mode",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Select the previous attribute after entering Edit Attributes mode",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Hide the currently-selected element",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Toggle Edit as HTML mode on the currently-selected element",
+                    "keys": ["F2"]
+                }
+            ]
+        },
+        {
+            "name": "Sources Panel",
+            "shortcuts": [
+                {
+                    "description": "Pause script execution (if running), or resume (if paused)",
+                    "keys": ["Ctrl", "\\"]
+                },
+                {
+                    "description": "Step over next function call",
+                    "keys": ["Ctrl", "'"]
+                },
+                {
+                    "description": "Step into next function call",
+                    "keys": ["Ctrl", ";"]
+                },
+                {
+                    "description": "Step out of current function",
+                    "keys": ["Ctrl", "Shift", ";"]
+                },
+                {
+                    "description": "Select the call frame below or above the currently-selected frame",
+                    "keys": ["Ctrl", "./,"]
+                },
+                {
+                    "description": "Save changes to local modifications",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Save all changes",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Go to line",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Close the active tab",
+                    "keys": ["Alt", "W"]
+                }
+            ]
+        },
+        {
+            "name": "Code Editor",
+            "shortcuts": [
+                {
+                    "description": "Delete all characters in the last word, up to the cursor",
+                    "keys": ["Ctrl", "Del"]
+                },
+                {
+                    "description": "Go to matching bracket",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Toggle single-line comment",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Select the next occurrence of whatever word the cursor is on",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Deselect the next occurrence of whatever word the cursor is on",
+                    "keys": ["Ctrl", "U"]
+                }
+            ]
+        },
+        {
+            "name": "Performance Panel",
+            "shortcuts": [
+                {
+                    "description": "Start or stop recording",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Save recording",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Load recording",
+                    "keys": ["Ctrl", "O"]
+                }
+            ]
+        },
+        {
+            "name": "Memory Panel",
+            "shortcuts": [
+                {
+                    "description": "Start or stop recording",
+                    "keys": ["Ctrl", "E"]
+                }
+            ]
+        },
+        {
+            "name": "Console Panel",
+            "shortcuts": [
+                {
+                    "description": "Accept autocomplete suggestion",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Reject autocomplete suggestion",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Get previous statement",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Get next statement",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Focus the Console",
+                    "keys": ["Ctrl", "`"]
+                },
+                {
+                    "description": "Clear the console",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Force a multi-line entry",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Execute",
+                    "keys": ["Enter"]
+                }
+            ]
+        }
+    ]
+}
