@@ -1,0 +1,238 @@
+{
+    "view": "layout.shortcut",
+    "slug": "quip",
+    "title": "Quip.com",
+    "meta_title": "Keyboard shortcuts for Quip",
+    "meta_description": "A visual cheat-sheet for the 52 keyboard shortcuts found in Quip",
+    "reference_link": "https://www.quipsupport.com/hc/en-us/articles/210436306-What-are-Quip-s-keyboard-shortcuts-",
+    "sections": [
+        {
+            "name": "Anywhere",
+            "shortcuts": [
+                {
+                    "description": "Toggle styles between different types of headings and lists",
+                    "keys": ["`"]
+                },
+                {
+                    "description": "Indent a list item",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "De-indent a list item",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Add a single space between lines",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Stop editing",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "List all keyboard shortcuts",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Create a new ...",
+                    "keys": ["Ctrl", "Alt", "Shift", "N"]
+                },
+                {
+                    "description": "Create a new document",
+                    "keys": ["Ctrl", "Alt", "N"]
+                },
+                {
+                    "description": "Create a new message",
+                    "keys": ["Ctrl", "Alt", "M"]
+                },
+                {
+                    "description": "Go to the desktop",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Search for a document, folder, or conversation",
+                    "keys": ["Ctrl", "Alt", "O"]
+                },
+                {
+                    "description": "Move between tabs in the desktop app",
+                    "keys": ["Ctrl", "Alt", "Left/Right"]
+                }
+            ]
+        },
+        {
+            "name": "Style Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Bold the selected text",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Italicize the selected text",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Underline the selected text",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Strikethrough the selected text",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Monospace (code style) the selected text",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Paragraph (normal text style)",
+                    "keys": ["Ctrl", "Alt", "0"]
+                },
+                {
+                    "description": "Large heading style",
+                    "keys": ["Ctrl", "Alt", "1"]
+                },
+                {
+                    "description": "Medium heading style",
+                    "keys": ["Ctrl", "Alt", "2"]
+                },
+                {
+                    "description": "Small heading style",
+                    "keys": ["Ctrl", "Alt", "3"]
+                },
+                {
+                    "description": "Bulleted list style",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Code block style",
+                    "keys": ["Ctrl", "Alt", "K"]
+                }
+            ]
+        },
+        {
+            "name": "Editing Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Move a list item up one line",
+                    "keys": ["Ctrl", "Alt", "Up"]
+                },
+                {
+                    "description": "Move a list item down one line",
+                    "keys": ["Ctrl", "Alt", "Down"]
+                },
+                {
+                    "description": "Check a list item",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Print document",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Insert link",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Next line",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Previous line",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Hide or show conversation",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Add a comment",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Finish edit session",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Create an anchor link",
+                    "keys": ["Ctrl", "Shift", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Spreadsheets",
+            "shortcuts": [
+                {
+                    "description": "Move to the edge of dat or the next non-empty cell",
+                    "keys": ["Ctrl", "(arrows)"]
+                },
+                {
+                    "description": "Expand select to the edge of data or the next non-empty cell",
+                    "keys": ["Ctrl", "Shift", "(arrows)"]
+                },
+                {
+                    "description": "Select row",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Select column",
+                    "keys": ["Ctrl", "Space"]
+                },
+                {
+                    "description": "Fill selection with entered text",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Fill down in selection",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Fill right in selection",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Scroll focused cell into view",
+                    "keys": ["Ctrl", "Backspace"]
+                },
+                {
+                    "description": "Insert above or in front of selected rows or columns",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Remove selected rows or columns",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Insert current time",
+                    "keys": ["Ctrl", ";"]
+                },
+                {
+                    "description": "Insert today's date",
+                    "keys": ["Ctrl", ":"]
+                },
+                {
+                    "description": "Hard return within a cell",
+                    "keys": ["Alt", "Enter"]
+                }
+            ]
+        }
+    ]
+}
