@@ -1,0 +1,666 @@
+{
+    "view": "layout.shortcut",
+    "slug": "sketch",
+    "title": "Sketch",
+    "meta_title": "Keyboard shortcuts for Sketch",
+    "meta_description": "A visual cheat-sheet for the 149 keyboard shortcuts found in Sketch. This application is MacOS-only.",
+    "reference_link": "https://www.sketch.com/docs/shortcuts/",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Copy",
+                    "keys": ["Cmd", "C"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Cmd", "X"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Cmd", "V"]
+                },
+                {
+                    "description": "Paste over selection",
+                    "keys": ["Cmd", "Shift", "V"]
+                },
+                {
+                    "description": "Pan Canvas",
+                    "keys": ["Space", "(drag)"]
+                },
+                {
+                    "description": "New page",
+                    "keys": ["Cmd", "Shift", "N"]
+                },
+                {
+                    "description": "Previous page",
+                    "keys": ["Fn", "Up"]
+                },
+                {
+                    "description": "Next page",
+                    "keys": ["Fn", "Down"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["Cmd", "+"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Cmd", "-"]
+                },
+                {
+                    "description": "Toggle rulers",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Toggle pixels",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Toggle pixel grid",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Toggle grid",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Toggle layout",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Toggle slices",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Toggle prototyping",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Filter in Layer List",
+                    "keys": ["Cmd", "F"]
+                },
+                {
+                    "description": "Run custom plugin",
+                    "keys": ["Cmd", "Ctrl", "K"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Cmd", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Cmd", "Shift", "Z"]
+                },
+                {
+                    "description": "New document",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "New Cloud document",
+                    "keys": ["Cmd", "Shift", "N"]
+                },
+                {
+                    "description": "Open document",
+                    "keys": ["Cmd", "O"]
+                },
+                {
+                    "description": "Open Cloud document",
+                    "keys": ["Cmd", "Shift", "O"]
+                },
+                {
+                    "description": "Close window",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Save document",
+                    "keys": ["Cmd", "S"]
+                },
+                {
+                    "description": "Duplicate document",
+                    "keys": ["Cmd", "Shift", "S"]
+                },
+                {
+                    "description": "Save document as...",
+                    "keys": ["Cmd", "Shift", "Opt", "S"]
+                },
+                {
+                    "description": "Page setup",
+                    "keys": ["Cmd", "Shift", "P"]
+                },
+                {
+                    "description": "Open Preferences window",
+                    "keys": ["Cmd", ","]
+                },
+                {
+                    "description": "Hide Sketch",
+                    "keys": ["Cmd", "H"]
+                },
+                {
+                    "description": "Quit Sketch",
+                    "keys": ["Cmd", "Q"]
+                },
+                {
+                    "description": "Open the Help menu",
+                    "keys": ["Cmd", "Shift", "?"]
+                },
+                {
+                    "description": "Open Preview window",
+                    "keys": ["Cmd", "P"]
+                }
+            ]
+        },
+        {
+            "name": "Inserting Layers",
+            "shortcuts": [
+                {
+                    "description": "Rectangle",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Oval",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Line",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Rounded rectangle",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Vector tool",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Pencil tool",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Text tool",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Artboard tool",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Slice tool",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Hotspot tool",
+                    "keys": ["H"]
+                }
+            ]
+        },
+        {
+            "name": "Selecting Layers",
+            "shortcuts": [
+                {
+                    "description": "Select all",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "Select all Artboards",
+                    "keys": ["Cmd", "Shift", "A"]
+                },
+                {
+                    "description": "Select next Artboard",
+                    "keys": ["Fn", "Right"]
+                },
+                {
+                    "description": "Select previous Artboard",
+                    "keys": ["Fn", "Left"]
+                },
+                {
+                    "description": "Reveal selection in Layer List",
+                    "keys": ["Cmd", "Shift", "J"]
+                }
+            ]
+        },
+        {
+            "name": "Moving and Resizing Layers",
+            "shortcuts": [
+                {
+                    "description": "Display distance between other layers (while hovering)",
+                    "keys": ["Opt"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Nudge layer any direction by 1px",
+                    "keys": ["(arrows)"]
+                },
+                {
+                    "description": "Nudge layer any direction by 10px",
+                    "keys": ["Shift", "(arrows)"]
+                },
+                {
+                    "description": "Scale layer",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Expand by 1px",
+                    "keys": ["Cmd", "Right/Down"]
+                },
+                {
+                    "description": "Contract by 1px",
+                    "keys": ["Cmd", "Left/Up"]
+                },
+                {
+                    "description": "Expand by 10px",
+                    "keys": ["Cmd", "Shift", "Right/Down"]
+                },
+                {
+                    "description": "Contract by 10px",
+                    "keys": ["Cmd", "Shift", "Left/Up"]
+                },
+                {
+                    "description": "Show distance to baseline or cap height on text layers (while hovering)",
+                    "keys": ["Ctrl", "Opt"]
+                }
+            ]
+        },
+        {
+            "name": "Editing Layers",
+            "shortcuts": [
+                {
+                    "description": "Edit layer",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Finish editing",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Focus X position input field in the Inspector",
+                    "keys": ["Opt", "Tab"]
+                },
+                {
+                    "description": "Delete layer",
+                    "keys": ["Del"]
+                },
+                {
+                    "description": "Copy style",
+                    "keys": ["Cmd", "Opt", "C"]
+                },
+                {
+                    "description": "Paste style",
+                    "keys": ["Cmd", "Opt", "V"]
+                },
+                {
+                    "description": "Sync shared style",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Reset shared style",
+                    "keys": ["Opt", "Ctrl", "S"]
+                },
+                {
+                    "description": "Add link to Artboard",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Toggle fill",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Toggle border",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Pick color",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Edit layer opacity",
+                    "keys": ["0-9"]
+                },
+                {
+                    "description": "Transform shape",
+                    "keys": ["Cmd", "Shift", "T"]
+                },
+                {
+                    "description": "Rotate layer",
+                    "keys": ["Cmd", "Shift", "R"]
+                },
+                {
+                    "description": "Use as mask",
+                    "keys": ["Cmd", "Ctrl", "M"]
+                },
+                {
+                    "description": "Return to instance",
+                    "keys": ["Cmd", "Esc"]
+                },
+                {
+                    "description": "Union multiple layers",
+                    "keys": ["Cmd", "Opt", "U"]
+                },
+                {
+                    "description": "Subtract multiple layers",
+                    "keys": ["Cmd", "Opt", "S"]
+                },
+                {
+                    "description": "Intersect multiple layers",
+                    "keys": ["Cmd", "Opt", "I"]
+                },
+                {
+                    "description": "Difference multiple layers",
+                    "keys": ["Cmd", "Opt", "X"]
+                }
+            ]
+        },
+        {
+            "name": "Vector Editing",
+            "shortcuts": [
+                {
+                    "description": "Open or close path",
+                    "keys": ["Cmd", "Opt", "O"]
+                },
+                {
+                    "description": "Selects next point",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Show all handle control points",
+                    "keys": ["Opt"]
+                },
+                {
+                    "description": "Straight point type",
+                    "keys": ["1"]
+                },
+                {
+                    "description": "Mirrored point type",
+                    "keys": ["2"]
+                },
+                {
+                    "description": "Disconnected point type",
+                    "keys": ["3"]
+                },
+                {
+                    "description": "Asymmetric point type",
+                    "keys": ["4"]
+                }
+            ]
+        },
+        {
+            "name": "Text Editing",
+            "shortcuts": [
+                {
+                    "description": "Paste as rich text",
+                    "keys": ["Cmd", "Shift", "Opt", "V"]
+                },
+                {
+                    "description": "Change typeface",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "Bold",
+                    "keys": ["Cmd", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Cmd", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Cmd", "U"]
+                },
+                {
+                    "description": "Increase font size",
+                    "keys": ["Cmd", "Opt", "+"]
+                },
+                {
+                    "description": "Decrease font size",
+                    "keys": ["Cmd", "Opt", "-"]
+                },
+                {
+                    "description": "Increase character spacing",
+                    "keys": ["Ctrl", "Opt", "L"]
+                },
+                {
+                    "description": "Decrease character spacing",
+                    "keys": ["Ctrl", "Opt", "T"]
+                },
+                {
+                    "description": "Align left",
+                    "keys": ["Cmd", "Shift", "["]
+                },
+                {
+                    "description": "Align center",
+                    "keys": ["Cmd", "Shift", "\\"]
+                },
+                {
+                    "description": "Align right",
+                    "keys": ["Cmd", "Shift", "]"]
+                },
+                {
+                    "description": "Emoji and symbols",
+                    "keys": ["Cmd", "Opt", "Space"]
+                },
+                {
+                    "description": "Convert to outlines",
+                    "keys": ["Cmd", "Opt", "O"]
+                },
+                {
+                    "description": "Insert a line break",
+                    "keys": ["Shift", "Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Arranging Layers",
+            "shortcuts": [
+                {
+                    "description": "Group",
+                    "keys": ["Cmd", "G"]
+                },
+                {
+                    "description": "Ungroup",
+                    "keys": ["Cmd", "Shift", "G"]
+                },
+                {
+                    "description": "Rename layer",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Select next layer in group",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Select previous layer in group",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Selects layer inside group",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Selects parent group",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Bring forward",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Bring to front",
+                    "keys": ["Cmd", "Opt", "]"]
+                },
+                {
+                    "description": "Send backward",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Send to back",
+                    "keys": ["Cmd", "Opt", "["]
+                },
+                {
+                    "description": "Move up, out of group or Artboard",
+                    "keys": ["Cmd", "Shift", "Opt", "Up"]
+                },
+                {
+                    "description": "Distribute horizontally",
+                    "keys": ["Cmd", "Ctrl", "H"]
+                },
+                {
+                    "description": "Distribute vertically",
+                    "keys": ["Cmd", "Ctrl", "V"]
+                },
+                {
+                    "description": "Hide or show layer",
+                    "keys": ["Cmd", "Shift", "H"]
+                },
+                {
+                    "description": "Lock or unlock layer",
+                    "keys": ["Cmd", "Shift", "L"]
+                }
+            ]
+        },
+        {
+            "name": "Exporting Layers",
+            "shortcuts": [
+                {
+                    "description": "Export",
+                    "keys": ["Cmd", "Shift", "E"]
+                },
+                {
+                    "description": "Export selected layer(s)",
+                    "keys": ["Cmd", "E"]
+                }
+            ]
+        },
+        {
+            "name": "Zoom and Focus",
+            "shortcuts": [
+                {
+                    "description": "Zoom to 100%",
+                    "keys": ["Cmd", "0"]
+                },
+                {
+                    "description": "Zoom to all elements on Canvas",
+                    "keys": ["Cmd", "1"]
+                },
+                {
+                    "description": "Zoom to selected layer(s)",
+                    "keys": ["Cmd", "2"]
+                },
+                {
+                    "description": "Center selected layer(s) in Canvas",
+                    "keys": ["Cmd", "3"]
+                },
+                {
+                    "description": "Temporarily zoom out to 100%",
+                    "keys": ["Shift", "`"]
+                },
+                {
+                    "description": "Toggle full screen",
+                    "keys": ["Cmd", "Ctrl", "F"]
+                },
+                {
+                    "description": "Show or hide Layer list",
+                    "keys": ["Cmd", "Opt", "1"]
+                },
+                {
+                    "description": "Show or hide Inspector",
+                    "keys": ["Cmd", "Opt", "2"]
+                },
+                {
+                    "description": "Enter presentation mode",
+                    "keys": ["Cmd", "."]
+                },
+                {
+                    "description": "Show or hide Toolbar",
+                    "keys": ["Cmd", "Opt", "T"]
+                }
+            ]
+        },
+        {
+            "name": "Text Fields",
+            "shortcuts": [
+                {
+                    "description": "Focus Inspector",
+                    "keys": ["Opt", "Tab"]
+                },
+                {
+                    "description": "Select next field",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Select previous field",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Confirm change",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Clear change",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Increase value by 1",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Decrease value by 1",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Increase value by 10",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Decrease value by 10",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Increase value by 0.1",
+                    "keys": ["Opt", "Up"]
+                },
+                {
+                    "description": "Decrease value by 0.1",
+                    "keys": ["Opt", "Down"]
+                }
+            ]
+        },
+        {
+            "name": "Miscellaneous",
+            "shortcuts": [
+                {
+                    "description": "Launch Sketch with all plugins disabled (hold on startup)",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Detach from Symbol",
+                    "keys": ["Cmd", "Ctrl", "D"]
+                },
+                {
+                    "description": "Detach all contents from Symbol",
+                    "keys": ["Cmd", "Ctrl", "Opt", "D"]
+                },
+                {
+                    "description": "Refresh Data",
+                    "keys": ["Cmd", "Shift", "D"]
+                },
+                {
+                    "description": "Run last-used plugin again",
+                    "keys": ["Cmd", "Ctrl", "R"]
+                },
+                {
+                    "description": "With a gradient stop selected, position it between 0% and 100%",
+                    "keys": ["0-9"]
+                },
+                {
+                    "description": "Position selected gradient stop directly between two existing stops",
+                    "keys": ["="]
+                }
+            ]
+        }
+    ]
+}
