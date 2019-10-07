@@ -1,0 +1,155 @@
+{
+    "view": "layout.shortcut",
+    "slug": "principle",
+    "title": "Principle",
+    "meta_title": "Keyboard shortcuts for Principle",
+    "meta_description": "A visual cheat-sheet for the 30 keyboard shortcuts found in Principle. This application is MacOS-only.",
+    "reference_link": "https://principleformac.com/docs.html#shortcuts",
+    "sections": [
+        {
+            "name": "Layers",
+            "shortcuts": [
+                {
+                    "description": "Add rectangle",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Add rectangle as a child",
+                    "keys": ["Opt", "R"]
+                },
+                {
+                    "description": "Add text",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Add text as a child",
+                    "keys": ["Opt", "T"]
+                },
+                {
+                    "description": "Add artboard",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Group",
+                    "keys": ["Cmd", "G"]
+                },
+                {
+                    "description": "Ungroup",
+                    "keys": ["Cmd", "Shift", "G"]
+                },
+                {
+                    "description": "Bring forward",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Bring to front",
+                    "keys": ["Cmd", "Shift", "]"]
+                },
+                {
+                    "description": "Send backward",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Send to back",
+                    "keys": ["Cmd", "Shift", "["]
+                }
+            ]
+        },
+        {
+            "name": "Editing",
+            "shortcuts": [
+                {
+                    "description": "Nudge",
+                    "keys": ["(arrows)"]
+                },
+                {
+                    "description": "Large nudge",
+                    "keys": ["Shift", "(arrows)"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Rename layer",
+                    "keys": ["Cmd", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Canvas Navigation",
+            "shortcuts": [
+                {
+                    "description": "Pan",
+                    "keys": ["Space", "(drag)"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["Cmd", "="]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Cmd", "-"]
+                },
+                {
+                    "description": "Zoom all",
+                    "keys": ["Cmd", "1"]
+                },
+                {
+                    "description": "Zoom selection",
+                    "keys": ["Cmd", "2"]
+                },
+                {
+                    "description": "Center selection",
+                    "keys": ["Cmd", "3"]
+                },
+                {
+                    "description": "Zoom to actual size",
+                    "keys": ["Cmd", "0"]
+                }
+            ]
+        },
+        {
+            "name": "Selection",
+            "shortcuts": [
+                {
+                    "description": "Select parent",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Select child",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Select next sibling",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Select previous sibling",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Select all siblings",
+                    "keys": ["Cmd", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Preview",
+            "shortcuts": [
+                {
+                    "description": "Rewind prototype",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Start recording video",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Start recording video without cursor",
+                    "keys": ["Ctrl", "Opt", "V"]
+                }
+            ]
+        }
+    ]
+}
