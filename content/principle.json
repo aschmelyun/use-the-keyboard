@@ -5,6 +5,7 @@
     "meta_title": "Keyboard shortcuts for Principle",
     "meta_description": "A visual cheat-sheet for the 30 keyboard shortcuts found in Principle. This application is MacOS-only.",
     "reference_link": "https://principleformac.com/docs.html#shortcuts",
+    "mac_only": true,
     "sections": [
         {
             "name": "Layers",

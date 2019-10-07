@@ -5,6 +5,7 @@
     "meta_title": "Keyboard shortcuts for Sketch",
     "meta_description": "A visual cheat-sheet for the 149 keyboard shortcuts found in Sketch. This application is MacOS-only.",
     "reference_link": "https://www.sketch.com/docs/shortcuts/",
+    "mac_only": true,
     "sections": [
         {
             "name": "General",
