@@ -25,7 +25,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
-    <meta name="theme-color" content="#ff4757">
+    <meta name="theme-color" content="#b53471">
 
     <link rel="stylesheet" type="text/css" href="{{ $mix['/assets/css/app.css']  }}">
     <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
