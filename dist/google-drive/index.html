@@ -515,10 +515,12 @@
                 }
             },
             changeAllKeys(from, to) {
-                let keys = document.getElementsByClassName('key');
-                for(let key of keys) {
-                    if(key.innerHTML === from) {
-                        key.innerHTML = to;
+                if(!this.isMacOnly) {
+                    let keys = document.getElementsByClassName('key');
+                    for (let key of keys) {
+                        if (key.innerHTML === from) {
+                            key.innerHTML = to;
+                        }
                     }
                 }
             },
