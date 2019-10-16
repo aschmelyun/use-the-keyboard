@@ -1,0 +1,443 @@
+{
+    "view": "layout.shortcut",
+    "slug": "gimp",
+    "title": "GIMP",
+    "meta_title": "Keyboard shortcuts for GIMP",
+    "meta_description": "A visual cheat-sheet for the 97 keyboard shortcuts found in GIMP",
+    "reference_link": "https://www.gimpusers.com/gimp/hotkeys",
+    "sections": [
+        {
+            "name": "Help",
+            "shortcuts": [
+                {
+                    "description": "Help",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Context help",
+                    "keys": ["Shift", "F1"]
+                }
+            ]
+        },
+        {
+            "name": "Toolbox",
+            "shortcuts": [
+                {
+                    "description": "Rectangle select",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Ellipse select",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Free select",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Fuzzy select",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Select by color",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "Scissors",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Paths",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Color picker",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Move",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Crop and resize",
+                    "keys": ["Shift", "C"]
+                },
+                {
+                    "description": "Rotate",
+                    "keys": ["Shift", "R"]
+                },
+                {
+                    "description": "Scale",
+                    "keys": ["Shift", "T"]
+                },
+                {
+                    "description": "Shear",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Perspective",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Flip",
+                    "keys": ["Shift", "F"]
+                },
+                {
+                    "description": "Text",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Bucket fill",
+                    "keys": ["Shift", "B"]
+                },
+                {
+                    "description": "Blend",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Pencil",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Paintbrush",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Eraser",
+                    "keys": ["Shift", "E"]
+                },
+                {
+                    "description": "Airbrush",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Ink",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Clone",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Convolve",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Smudge",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Dodge or burn",
+                    "keys": ["Shift", "D"]
+                },
+                {
+                    "description": "Swap colors",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Default colors",
+                    "keys": ["D"]
+                }
+            ]
+        },
+        {
+            "name": "File",
+            "shortcuts": [
+                {
+                    "description": "New image",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Open image",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Open image as new layer",
+                    "keys": ["Ctrl", "Alt", "N"]
+                },
+                {
+                    "description": "Duplicate image",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Open recent image 1-10",
+                    "keys": ["Ctrl", "1-0"]
+                },
+                {
+                    "description": "Save image",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Save image under a new name",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Quit",
+                    "keys": ["Ctrl", "Q"]
+                }
+            ]
+        },
+        {
+            "name": "Dialogs",
+            "shortcuts": [
+                {
+                    "description": "Layers",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Brushes",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Patterns",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Gradients",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Tool options",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Palettes",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Info window",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Navigation window",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Jump to next widget",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Jump to previous widget",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Set the new value",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Activate the current button or list",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "In a multi-tab dialog, switch tabs",
+                    "keys": ["Ctrl", "Alt", "PgUp"]
+                },
+                {
+                    "description": "Open location",
+                    "keys": ["Shift", "L"]
+                },
+                {
+                    "description": "Up folder",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "Down folder",
+                    "keys": ["Alt", "Down"]
+                },
+                {
+                    "description": "Home folder",
+                    "keys": ["Alt", "Home"]
+                },
+                {
+                    "description": "Close dialog",
+                    "keys": ["Esc"]
+                }
+            ]
+        },
+        {
+            "name": "View",
+            "shortcuts": [
+                {
+                    "description": "Main menu",
+                    "keys": ["F10"]
+                },
+                {
+                    "description": "Drop-down menu",
+                    "keys": ["Shift", "F10"]
+                },
+                {
+                    "description": "Toggle fullscreen",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Toggle quickmask",
+                    "keys": ["Shift", "Q"]
+                },
+                {
+                    "description": "Close document window",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["+"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["-"]
+                },
+                {
+                    "description": "Zoom 1:1",
+                    "keys": ["1"]
+                },
+                {
+                    "description": "Shrink wrap",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Fit image in window",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Toggle rulers",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Toggle guides",
+                    "keys": ["Ctrl", "Shift", "T"]
+                }
+            ]
+        },
+        {
+            "name": "Edit",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Copy selection",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Cut selection",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy visible",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Paste as new image",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Paste clipboard",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Clears selection",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Named copy selection",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Named cut selection",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Named paste clipboard",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Fill with foreground color",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Fill with background color",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Fill with pattern",
+                    "keys": ["Ctrl", ";"]
+                }
+            ]
+        },
+        {
+            "name": "Layers",
+            "shortcuts": [
+                {
+                    "description": "Select the layer above",
+                    "keys": ["PgUp"]
+                },
+                {
+                    "description": "Select the layer below",
+                    "keys": ["PgDn"]
+                },
+                {
+                    "description": "Select the first layer",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Select the last layer",
+                    "keys": ["End"]
+                },
+                {
+                    "description": "Merge visible layers",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Anchor layer",
+                    "keys": ["Ctrl", "H"]
+                }
+            ]
+        },
+        {
+            "name": "Selections",
+            "shortcuts": [
+                {
+                    "description": "Toggle selections",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Select none",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Invert selection",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Float selection",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Path to selection",
+                    "keys": ["Shift", "V"]
+                }
+            ]
+        },
+        {
+            "name": "Plug-Ins",
+            "shortcuts": [
+                {
+                    "description": "Repeat last plug-in",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Reshow last plug-in",
+                    "keys": ["Ctrl", "Shift", "F"]
+                }
+            ]
+        }
+    ]
+}
