@@ -1,0 +1,286 @@
+{
+    "view": "layout.shortcut",
+    "slug": "brave",
+    "title": "Brave Browser",
+    "meta_title": "Keyboard shortcuts for Brave",
+    "meta_description": "A visual cheat-sheet for the 64 keyboard shortcuts found in the Brave browser",
+    "reference_link": "https://support.brave.com/hc/en-us/articles/360032272171-What-keyboard-shortcuts-can-I-use-in-Brave-",
+    "sections": [
+        {
+            "name": "Tabs and Windows",
+            "shortcuts": [
+                {
+                    "description": "Open a new window",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Open a new window in Private mode",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Open a new tab, and jump to it",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Reopen the last closed tab, and jump to it",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Jump to the next open tab",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Jump to the previous open tab",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Jump to a specific tab",
+                    "keys": ["Ctrl", "1-8"]
+                },
+                {
+                    "description": "Jump to the last tab",
+                    "keys": ["Ctrl", "9"]
+                },
+                {
+                    "description": "Open your home page in the current tab",
+                    "keys": ["Alt", "Home"]
+                },
+                {
+                    "description": "Open the previous page from your browsing history in the current tab",
+                    "keys": ["Alt", "Left"]
+                },
+                {
+                    "description": "Open the next page from your browsing history in the current tab",
+                    "keys": ["Alt", "Right"]
+                },
+                {
+                    "description": "Close the current tab",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Close the current window",
+                    "keys": ["Ctrl", "Shift", "W"]
+                },
+                {
+                    "description": "Minimize the current window",
+                    "keys": ["Alt", "Space", "N"]
+                },
+                {
+                    "description": "Maximize the current window",
+                    "keys": ["Alt", "Space", "X"]
+                },
+                {
+                    "description": "Close the current window",
+                    "keys": ["Alt", "F4"]
+                },
+                {
+                    "description": "Quit Brave",
+                    "keys": ["Ctrl", "Shift", "Q"]
+                }
+            ]
+        },
+        {
+            "name": "Browser",
+            "shortcuts": [
+                {
+                    "description": "Open the main menu",
+                    "keys": ["Alt", "F"]
+                },
+                {
+                    "description": "Show or hide the bookmarks bar",
+                    "keys": ["Ctrl", "Shift","B"]
+                },
+                {
+                    "description": "Open the history page in a new tab",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Open the downloads page in a new tab",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Open the Brave task manager",
+                    "keys": ["Shift", "Esc"]
+                },
+                {
+                    "description": "Set focus on the first item in the toolbar",
+                    "keys": ["Shift", "Alt", "T"]
+                },
+                {
+                    "description": "Set focus on the last item in the toolbar",
+                    "keys": ["F10"]
+                },
+                {
+                    "description": "Switch focus to unfocused dialog, if showing",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Open the find bar to search the current page",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Jump to the next match in your find bar search",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Jump to the previous match in your find bar search",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Open developer tools",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Open the clear browser data options",
+                    "keys": ["Ctrl", "Shift", "Delete"]
+                },
+                {
+                    "description": "Open the Brave help center in a new tab",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Open profile menu",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "",
+                    "keys": [""]
+                }
+            ]
+        },
+        {
+            "name": "Address Bar",
+            "shortcuts": [
+                {
+                    "description": "Search with your default search engine (after typing)",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Search using a different search engine (after typing)",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Add www. and .com to a site name, and open it in the current tab (after typing)",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Open a new tab and perform a search (after typing)",
+                    "keys": ["Alt", "Enter"]
+                },
+                {
+                    "description": "Jump to the address bar",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Search from anywhere on the page",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Remove predictions from your address bar (after highlighting them)",
+                    "keys": ["Shift", "Delete"]
+                }
+            ]
+        },
+        {
+            "name": "Webpage",
+            "shortcuts": [
+                {
+                    "description": "Open options to print the current page",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Open options to save the current page",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Reload the current page",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Reload the current page, ignoring cached content",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Stop the page loading",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Browse clickable items moving forward",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Browse clickable items moving backwards",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Open a file from your computer in Brave",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Display non-editable HTML source code for the current page",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Save your current webpage as a bookmark",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Save all open tabs as bookmarks in a new folder",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Turn full-screen mode on or off",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Make everything on the page bigger",
+                    "keys": ["Ctrl", "+"]
+                },
+                {
+                    "description": "Make everything on the page smaller",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Return everything on the page to default size",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Scroll down a webpage, a screen at a time",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Scroll up a webpage, a screen at a time",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Go to the top of the page",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Go to the bottom of the page",
+                    "keys": ["End"]
+                },
+                {
+                    "description": "Scroll horizontally on the page",
+                    "keys": ["Shift", "(scroll)"]
+                },
+                {
+                    "description": "Move your cursor to the front of the previous word in a text field",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Move your cursor to the back of the next word in a text field",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Delete the previous word in a text field",
+                    "keys": ["Ctrl", "Back"]
+                },
+                {
+                    "description": "Open the home page in the current tab",
+                    "keys": ["Alt", "Home"]
+                }
+            ]
+        }
+    ]
+}
