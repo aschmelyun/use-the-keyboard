@@ -1,0 +1,306 @@
+{
+    "view": "layout.shortcut",
+    "slug": "vivaldi",
+    "title": "Vivaldi Browser",
+    "meta_title": "Keyboard shortcuts for Vivaldi",
+    "meta_description": "A visual cheat-sheet for the 69 default keyboard shortcuts found in the Vivaldi browser",
+    "reference_link": "https://help.vivaldi.com/article/keyboard-shortcuts/",
+    "sections": [
+        {
+            "name": "Window",
+            "shortcuts": [
+                {
+                    "description": "New window",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "New private window",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Close window",
+                    "keys": ["Ctrl", "Shift", "W"]
+                },
+                {
+                    "description": "Quick commands",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Settings",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Extensions",
+                    "keys": ["Ctrl", "Alt", "E"]
+                },
+                {
+                    "description": "History",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Bookmarks",
+                    "keys": ["Ctrl", "Alt", "B"]
+                },
+                {
+                    "description": "Delete browsing data",
+                    "keys": ["Ctrl", "Shift", "Delete"]
+                },
+                {
+                    "description": "Quit Vivaldi",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Help",
+                    "keys": ["Ctrl", "Shift", "?"]
+                },
+                {
+                    "description": "Keyboard cheat sheet",
+                    "keys": ["Ctrl", "F1"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "View page source",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Developer tools",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Developer tools console",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Paste and go",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Minimize",
+                    "keys": ["Ctrl", "M"]
+                }
+            ]
+        },
+        {
+            "name": "View",
+            "shortcuts": [
+                {
+                    "description": "Fullscreen mode",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Bookmarks bar",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Status bar",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Toggle UI",
+                    "keys": ["Ctrl", "F10"]
+                },
+                {
+                    "description": "Page zoom in",
+                    "keys": ["Ctrl", "+"]
+                },
+                {
+                    "description": "Page zoom out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Page zoom reset",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Panel",
+                    "keys": ["Ctrl", "Alt", "P"]
+                },
+                {
+                    "description": "Focus panel",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Open next panel",
+                    "keys": ["Ctrl", "Alt", "Down"]
+                },
+                {
+                    "description": "Open previous panel",
+                    "keys": ["Ctrl", "Alt", "Up"]
+                },
+                {
+                    "description": "Bookmarks panel",
+                    "keys": ["Ctrl", "Alt", "B"]
+                },
+                {
+                    "description": "Downloads panel",
+                    "keys": ["Ctrl", "Alt", "L"]
+                },
+                {
+                    "description": "Notes panel",
+                    "keys": ["Ctrl", "Alt", "N"]
+                },
+                {
+                    "description": "History panel",
+                    "keys": ["Ctrl", "Alt", "Y"]
+                }
+            ]
+        },
+        {
+            "name": "Tab",
+            "shortcuts": [
+                {
+                    "description": "New tab",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Close tab",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Tab cycler back",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Tab cycler forward",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Previous tab (by order)",
+                    "keys": ["Ctrl", "Shift", "["]
+                },
+                {
+                    "description": "Next tab (by order)",
+                    "keys": ["Ctrl", "Shift", "]"]
+                },
+                {
+                    "description": "Move active tab backward",
+                    "keys": ["Ctrl", "Shift", "Up"]
+                },
+                {
+                    "description": "Move active tab forward",
+                    "keys": ["Ctrl", "Shift", "Down"]
+                },
+                {
+                    "description": "Switch to tab 1-8",
+                    "keys": ["Ctrl", "1-8"]
+                },
+                {
+                    "description": "Switch to the last tab",
+                    "keys": ["Ctrl", "9"]
+                },
+                {
+                    "description": "Reopen last tab",
+                    "keys": ["Ctrl", "Shift", "T"]
+                },
+                {
+                    "description": "Tile vertically",
+                    "keys": ["Ctrl", "F9"]
+                },
+                {
+                    "description": "Tile horizontally",
+                    "keys": ["Ctrl", "F8"]
+                },
+                {
+                    "description": "Tile to grid",
+                    "keys": ["Ctrl", "F7"]
+                },
+                {
+                    "description": "Untile tabs",
+                    "keys": ["Ctrl", "F6"]
+                },
+                {
+                    "description": "Load images",
+                    "keys": ["Ctrl", "Alt", "I"]
+                }
+            ]
+        },
+        {
+            "name": "Page",
+            "shortcuts": [
+                {
+                    "description": "Create bookmark",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Focus address field",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Reload page",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Force reload page",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Focus page",
+                    "keys": ["F9"]
+                },
+                {
+                    "description": "Focus search field",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Find in page",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Find next in page",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Find previous in page",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "History back",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "History forward",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Stop loading",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Open file",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Save page as",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Home",
+                    "keys": ["Ctrl", "Shift", "H"]
+                },
+                {
+                    "description": "Copy selected text to note",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Spatial navigation left",
+                    "keys": ["Shift", "Left"]
+                },
+                {
+                    "description": "Spatial navigation up",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Spatial navigation right",
+                    "keys": ["Shift", "Right"]
+                },
+                {
+                    "description": "Spatial navigation down",
+                    "keys": ["Shift", "Down"]
+                }
+            ]
+        }
+    ]
+}
