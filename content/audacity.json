@@ -1,0 +1,590 @@
+{
+    "view": "layout.shortcut",
+    "slug": "audacity",
+    "title": "Audacity",
+    "meta_title": "Keyboard shortcuts for Audacity",
+    "meta_description": "A visual cheat-sheet for the 135 default keyboard shortcuts found in Audacity",
+    "reference_link": "https://manual.audacityteam.org/man/keyboard_shortcut_reference.html",
+    "sections": [
+        {
+            "name": "File Menu",
+            "shortcuts": [
+                {
+                    "description": "New",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Open",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Close",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Exit",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Save project",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Export audio",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Export multiple",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Import audio",
+                    "keys": ["Ctrl", "Shift", "I"]
+                }
+            ]
+        },
+        {
+            "name": "Edit Menu",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Preferences",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Split cut",
+                    "keys": ["Ctrl", "Alt", "X"]
+                },
+                {
+                    "description": "Split delete",
+                    "keys": ["Ctrl", "Alt", "K"]
+                },
+                {
+                    "description": "Silence audio",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Trim audio",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Split new",
+                    "keys": ["Ctrl", "Alt", "I"]
+                },
+                {
+                    "description": "Join",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Detach at silences",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Add label at selection",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Add label at playback position",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Paste text to new label",
+                    "keys": ["Ctrl", "Alt", "V"]
+                },
+                {
+                    "description": "Cut labeled audio",
+                    "keys": ["Alt", "X"]
+                },
+                {
+                    "description": "Delete labeled audio",
+                    "keys": ["Alt", "K"]
+                },
+                {
+                    "description": "Split cut labeled audio",
+                    "keys": ["Alt", "Shift", "X"]
+                },
+                {
+                    "description": "Split delete labeled audio",
+                    "keys": ["Alt", "Shift", "K"]
+                },
+                {
+                    "description": "Silence labeled audio",
+                    "keys": ["Alt", "L"]
+                },
+                {
+                    "description": "Copy labeled audio",
+                    "keys": ["Alt", "Shift", "C"]
+                },
+                {
+                    "description": "Split labeled audio",
+                    "keys": ["Alt", "I"]
+                },
+                {
+                    "description": "Join labeled audio",
+                    "keys": ["Alt", "J"]
+                },
+                {
+                    "description": "Detach labeled audio at silences",
+                    "keys": ["Alt", "Shift", "J"]
+                }
+            ]
+        },
+        {
+            "name": "Select Menu",
+            "shortcuts": [
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Select none",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Select at zero crossings",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Select in all tracks",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Select in all sync-locked tracks",
+                    "keys": ["Ctrl", "Shift", "Y"]
+                },
+                {
+                    "description": "Left at playback position",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Right at playback position",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Track start to cursor",
+                    "keys": ["Shift", "J"]
+                },
+                {
+                    "description": "Cursor to track end",
+                    "keys": ["Shift", "K"]
+                },
+                {
+                    "description": "Toggle spectral selection",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Previous clip",
+                    "keys": ["Ctrl", "Alt", "P"]
+                },
+                {
+                    "description": "Next clip",
+                    "keys": ["Ctrl", "Alt", "N"]
+                }
+            ]
+        },
+        {
+            "name": "View Menu",
+            "shortcuts": [
+                {
+                    "description": "Zoom in",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Zoom normal",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Zoom to selection",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Zoom toggle",
+                    "keys": ["Shift", "Z"]
+                },
+                {
+                    "description": "Fit to width",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Fit to height",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Collapse all tracks",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Expand collapsed tracks",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Skip to selection start",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Skip to selection end",
+                    "keys": ["Ctrl", "]"]
+                }
+            ]
+        },
+        {
+            "name": "Transport Menu",
+            "shortcuts": [
+                {
+                    "description": "Play or stop",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Play or stop and set cursor",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Loop play",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Pause",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Record",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Record new track",
+                    "keys": ["Shift", "R"]
+                },
+                {
+                    "description": "Timer record...",
+                    "keys": ["Shift", "T"]
+                },
+                {
+                    "description": "Punch and roll record",
+                    "keys": ["Shift", "D"]
+                },
+                {
+                    "description": "Pause",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Cursor to track start",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Cursor to track end",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Cursor to project start",
+                    "keys": ["Home"]
+                },
+                {
+                    "description": "Cursor to project end",
+                    "keys": ["End"]
+                }
+            ]
+        },
+        {
+            "name": "Tracks Menu",
+            "shortcuts": [
+                {
+                    "description": "Add new mono track",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Mix and render to new track",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Mute all tracks",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Unmute all tracks",
+                    "keys": ["Ctrl", "Shift", "U"]
+                }
+            ]
+        },
+        {
+            "name": "Effect Menu",
+            "shortcuts": [
+                {
+                    "description": "Repeat last effect",
+                    "keys": ["Ctrl", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Extra Menu",
+            "shortcuts": [
+                {
+                    "description": "Toggle full screen",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Play one second",
+                    "keys": ["1"]
+                },
+                {
+                    "description": "Play to selection",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Play before selection start",
+                    "keys": ["Shift", "F5"]
+                },
+                {
+                    "description": "Play after selection start",
+                    "keys": ["Shift", "F6"]
+                },
+                {
+                    "description": "Play before selection end",
+                    "keys": ["Shift", "F7"]
+                },
+                {
+                    "description": "Play after selection end",
+                    "keys": ["Shift", "F8"]
+                },
+                {
+                    "description": "Play before and after selection start",
+                    "keys": ["Ctrl", "Shift", "F5"]
+                },
+                {
+                    "description": "Play before and after selection end",
+                    "keys": ["Ctrl", "Shift", "F7"]
+                },
+                {
+                    "description": "Play cut preview",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Selection tool",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Envelope tool",
+                    "keys": ["F2"]
+                },
+                {
+                    "description": "Draw tool",
+                    "keys": ["F3"]
+                },
+                {
+                    "description": "Zoom tool",
+                    "keys": ["F4"]
+                },
+                {
+                    "description": "Time shift tool",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "Multi tool",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Previous tool",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Next tool",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Backspace"]
+                },
+                {
+                    "description": "Move to previous label",
+                    "keys": ["Alt", "Left"]
+                },
+                {
+                    "description": "Move to next label",
+                    "keys": ["Alt", "Right"]
+                },
+                {
+                    "description": "Short seek left during playback",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Short seek right during playback",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Long seek left during playback",
+                    "keys": ["Shift", "Left"]
+                },
+                {
+                    "description": "Long seek right during playback",
+                    "keys": ["Shift", "Right"]
+                },
+                {
+                    "description": "Change recording device",
+                    "keys": ["Shift", "I"]
+                },
+                {
+                    "description": "Change playback device",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "Change audio host",
+                    "keys": ["Shift", "H"]
+                },
+                {
+                    "description": "Change recording channels",
+                    "keys": ["Shift", "N"]
+                },
+                {
+                    "description": "Selection to start",
+                    "keys": ["Shift", "Home"]
+                },
+                {
+                    "description": "Selection to end",
+                    "keys": ["Shift", "End"]
+                },
+                {
+                    "description": "Selection extend left",
+                    "keys": ["Shift", "Left"]
+                },
+                {
+                    "description": "Selection extend right",
+                    "keys": ["Shift", "Right"]
+                },
+                {
+                    "description": "Selection contract left",
+                    "keys": ["Ctrl", "Shift", "Right"]
+                },
+                {
+                    "description": "Selection contract right",
+                    "keys": ["Ctrl", "Shift", "Left"]
+                },
+                {
+                    "description": "Move backwards from toolbars to tracks",
+                    "keys": ["Ctrl", "Shift", "F6"]
+                },
+                {
+                    "description": "Move forward from toolbars to tracks",
+                    "keys": ["Ctrl", "F6"]
+                },
+                {
+                    "description": "Move focus to previous track",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Move focus to next track",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Move focus to first track",
+                    "keys": ["Ctrl", "Home"]
+                },
+                {
+                    "description": "Move focus to last track",
+                    "keys": ["Ctrl", "End"]
+                },
+                {
+                    "description": "Move focus to previous and select",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Move focus to next and select",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Toggle focused track",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Cursor left",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Cursor right",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Cursor short jump left",
+                    "keys": [","]
+                },
+                {
+                    "description": "Cursor short jump right",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Cursor long jump left",
+                    "keys": ["Shift", ","]
+                },
+                {
+                    "description": "Cursor long jump right",
+                    "keys": ["Shift", "."]
+                },
+                {
+                    "description": "Change pan on focused track",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Pan left on focused track",
+                    "keys": ["Alt", "Shift", "Left"]
+                },
+                {
+                    "description": "Pan right on focused track",
+                    "keys": ["Alt", "Shift", "Right"]
+                },
+                {
+                    "description": "Change gain on focused track",
+                    "keys": ["Shift", "G"]
+                },
+                {
+                    "description": "Increase gain on focused track",
+                    "keys": ["Alt", "Shift", "Up"]
+                },
+                {
+                    "description": "Decrease gain on focused track",
+                    "keys": ["Alt", "Shift", "Down"]
+                },
+                {
+                    "description": "Mute or unmute focused track",
+                    "keys": ["Shift", "U"]
+                },
+                {
+                    "description": "Solo or unsolo focused track",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Close focused track",
+                    "keys": ["Shift", "C"]
+                }
+            ]
+        }
+    ]
+}
