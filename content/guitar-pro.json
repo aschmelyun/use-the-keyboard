@@ -1,0 +1,616 @@
+{
+    "view": "layout.shortcut",
+    "slug": "guitar-pro",
+    "title": "Guitar Pro",
+    "meta_title": "Keyboard shortcuts for Guitar Pro",
+    "meta_description": "A visual cheat-sheet for the 129 keyboard shortcuts found in Guitar Pro",
+    "reference_link": "https://shredaddict.com/guitar-pro-shortcuts/",
+    "sections": [
+        {
+            "name": "Track",
+            "shortcuts": [
+                {
+                    "description": "Add",
+                    "keys": ["Ctrl", "Shift", "Insert"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Ctrl", "Shift", "Delete"]
+                },
+                {
+                    "description": "Move up",
+                    "keys": ["Ctrl", "Alt", "Up"]
+                },
+                {
+                    "description": "Move down",
+                    "keys": ["Ctrl", "Alt", "Down"]
+                },
+                {
+                    "description": "Properties",
+                    "keys": ["F6"]
+                }
+            ]
+        },
+        {
+            "name": "Bar - General",
+            "shortcuts": [
+                {
+                    "description": "Insert bar",
+                    "keys": ["Ctrl", "Insert"]
+                },
+                {
+                    "description": "Delete bar",
+                    "keys": ["Ctrl", "Delete"]
+                },
+                {
+                    "description": "Clef",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Key signature",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Time signature",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
+                    "description": "Triplet feel",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Free time",
+                    "keys": ["|"]
+                },
+                {
+                    "description": "Repeat open",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Repeat close",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Directions",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Multi rest",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Force line break",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Prevent line break",
+                    "keys": ["Shift", "7"]
+                }
+            ]
+        },
+        {
+            "name": "Bar - Section",
+            "shortcuts": [
+                {
+                    "description": "Insert or remove",
+                    "keys": ["Shift", "Insert"]
+                },
+                {
+                    "description": "Previous section",
+                    "keys": ["Alt", "Left"]
+                },
+                {
+                    "description": "Next section",
+                    "keys": ["Alt", "Right"]
+                }
+            ]
+        },
+        {
+            "name": "Bar - Simile Mark",
+            "shortcuts": [
+                {
+                    "description": "Repeat one bar",
+                    "keys": ["Shift", "5"]
+                },
+                {
+                    "description": "Repeat two bars",
+                    "keys": ["Ctrl", "Shift", "5"]
+                }
+            ]
+        },
+        {
+            "name": "Note - General",
+            "shortcuts": [
+                {
+                    "description": "Insert a beat",
+                    "keys": ["Insert"]
+                },
+                {
+                    "description": "Delete the beats",
+                    "keys": ["Shift", "Delete"]
+                },
+                {
+                    "description": "Copy the beats at the end",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Tie note",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Tie the beat",
+                    "keys": ["Shift", "L"]
+                },
+                {
+                    "description": "Fermata",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Rest",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Brush downstroke",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Brush upstroke",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Arpeggio down",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Arpeggio up",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Rasgueado",
+                    "keys": ["Shift", "R"]
+                },
+                {
+                    "description": "PickStroke down",
+                    "keys": ["Shift", "D"]
+                },
+                {
+                    "description": "PickStroke up",
+                    "keys": ["Shift", "U"]
+                },
+                {
+                    "description": "One semi-town down",
+                    "keys": ["Shift", "-"]
+                },
+                {
+                    "description": "One semi-tone up",
+                    "keys": ["Shift", "+"]
+                },
+                {
+                    "description": "Shift down",
+                    "keys": ["Alt", "Down"]
+                },
+                {
+                    "description": "Shift up",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "Chord",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Barre",
+                    "keys": ["Shift", "I"]
+                },
+                {
+                    "description": "Timer",
+                    "keys": ["Shift", "2"]
+                },
+                {
+                    "description": "Text",
+                    "keys": ["T"]
+                }
+            ]
+        },
+        {
+            "name": "Note - Duration",
+            "shortcuts": [
+                {
+                    "description": "Increase or decrease (whole note, half note, etc)",
+                    "keys": ["+/-"]
+                },
+                {
+                    "description": "Dotting",
+                    "keys": ["Shift", "5"]
+                },
+                {
+                    "description": "Double dotting",
+                    "keys": ["Ctrl", "Shift", "5"]
+                },
+                {
+                    "description": "Triplet",
+                    "keys": ["/"]
+                }
+            ]
+        },
+        {
+            "name": "Note - Accidentals",
+            "shortcuts": [
+                {
+                    "description": "Double flat",
+                    "keys": ["Ctrl", "Alt", "7"]
+                },
+                {
+                    "description": "Flat",
+                    "keys": ["Ctrl", "7"]
+                },
+                {
+                    "description": "Natural",
+                    "keys": ["Ctrl", "8"]
+                },
+                {
+                    "description": "Sharp",
+                    "keys": ["Ctrl", "9"]
+                },
+                {
+                    "description": "Double sharp",
+                    "keys": ["Ctrl", "Alt", "9"]
+                },
+                {
+                    "description": "Change the accidental",
+                    "keys": ["Ctrl", "Alt", "8"]
+                }
+            ]
+        },
+        {
+            "name": "Effects - General",
+            "shortcuts": [
+                {
+                    "description": "Dead note",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Ghost note",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Accented note",
+                    "keys": [";"]
+                },
+                {
+                    "description": "Heavily accented note",
+                    "keys": ["Shift", ";"]
+                },
+                {
+                    "description": "Staccato",
+                    "keys": ["Shift", "1"]
+                },
+                {
+                    "description": "Tenuto",
+                    "keys": ["Shift", "-"]
+                },
+                {
+                    "description": "Legato",
+                    "keys": ["Shift", "H"]
+                },
+                {
+                    "description": "Let ring",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Palm mute note",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Palm-mute on beat",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Natural harmonic",
+                    "keys": ["Y"]
+                },
+                {
+                    "description": "Artificial harmonic",
+                    "keys": ["Alt", "Y"]
+                },
+                {
+                    "description": "Bend",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Tremolo bar",
+                    "keys": ["Shift", "W"]
+                },
+                {
+                    "description": "Hammer on or pull-off",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Left-hand tapping",
+                    "keys": ["Shift", "9"]
+                },
+                {
+                    "description": "Tapping",
+                    "keys": ["Shift", "0"]
+                },
+                {
+                    "description": "Slap",
+                    "keys": ["Shift", "4"]
+                },
+                {
+                    "description": "Pop",
+                    "keys": ["Ctrl", "Shift", "4"]
+                },
+                {
+                    "description": "Trill",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Fade in",
+                    "keys": ["Shift", ","]
+                },
+                {
+                    "description": "Fade out",
+                    "keys": ["Shift", "."]
+                },
+                {
+                    "description": "Volume swell",
+                    "keys": ["Ctrl", "Shift", "./,"]
+                },
+                {
+                    "description": "Wah open",
+                    "keys": ["Alt", "O"]
+                },
+                {
+                    "description": "Wah close",
+                    "keys": ["Alt", "C"]
+                }
+            ]
+        },
+        {
+            "name": "Effects - Grace Note",
+            "shortcuts": [
+                {
+                    "description": "Before the beat",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "On the beat",
+                    "keys": ["Alt", "G"]
+                }
+            ]
+        },
+        {
+            "name": "Effects - Vibrato",
+            "shortcuts": [
+                {
+                    "description": "Left-hand vibrato (slight)",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Left-hand vibrato (wide)",
+                    "keys": ["Alt", "V"]
+                }
+            ]
+        },
+        {
+            "name": "Effects - Vibrato with Trem. Bar",
+            "shortcuts": [
+                {
+                    "description": "Vibrato with trem. bar (slight)",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Vibrato with trem. bar (wide)",
+                    "keys": ["Alt", "W"]
+                }
+            ]
+        },
+        {
+            "name": "Effects - Slide",
+            "shortcuts": [
+                {
+                    "description": "Legato slide",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Shift slide",
+                    "keys": ["Alt", "S"]
+                }
+            ]
+        },
+        {
+            "name": "Effects - Tremolo",
+            "shortcuts": [
+                {
+                    "description": "Thirty-second note",
+                    "keys": ["Shift", "'"]
+                }
+            ]
+        },
+        {
+            "name": "Tools",
+            "shortcuts": [
+                {
+                    "description": "Check the bars' duration",
+                    "keys": ["F4"]
+                },
+                {
+                    "description": "Move or swap voices",
+                    "keys": ["Ctrl", "Shift", "M"]
+                }
+            ]
+        },
+        {
+            "name": "Sound",
+            "shortcuts": [
+                {
+                    "description": "Play",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Play from the beginning",
+                    "keys": ["Ctrl", "Space"]
+                },
+                {
+                    "description": "First bar",
+                    "keys": ["Ctrl", "Home"]
+                },
+                {
+                    "description": "Rewind",
+                    "keys": ["Ctrl", "Left"]
+                },
+                {
+                    "description": "Fast forward",
+                    "keys": ["Ctrl", "Right"]
+                },
+                {
+                    "description": "Last bar",
+                    "keys": ["Ctrl", "End"]
+                },
+                {
+                    "description": "Play in loops (speed trainer)",
+                    "keys": ["F9"]
+                },
+                {
+                    "description": "RSI (Realistic Sound Engine)",
+                    "keys": ["F2"]
+                }
+            ]
+        },
+        {
+            "name": "View",
+            "shortcuts": [
+                {
+                    "description": "Design mode",
+                    "keys": ["Ctrl", "Alt", "D"]
+                },
+                {
+                    "description": "Multitrack",
+                    "keys": ["F3"]
+                },
+                {
+                    "description": "Enable browser",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Fretboard",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Keyboard",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Drums",
+                    "keys": ["F6"]
+                },
+                {
+                    "description": "Full screen",
+                    "keys": ["F11"]
+                }
+            ]
+        },
+        {
+            "name": "Edit",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Multitrack cut",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Multitrack copy",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Special paste",
+                    "keys": ["Ctrl", "Shift", "V"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Go to",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Edit automations",
+                    "keys": ["F10"]
+                },
+                {
+                    "description": "Voices",
+                    "keys": ["Ctrl", "1-4"]
+                }
+            ]
+        },
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "New steel guitar",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Open",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Close",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Save",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Save As",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Score information",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "Stylesheet",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Print preview",
+                    "keys": ["F8"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Preferences",
+                    "keys": ["F12"]
+                },
+                {
+                    "description": "Quit",
+                    "keys": ["Ctrl", "Q"]
+                }
+            ]
+        }
+    ]
+}
