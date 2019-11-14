@@ -1,0 +1,183 @@
+{
+    "view": "layout.shortcut",
+    "slug": "sketchup",
+    "title": "SketchUp Pro",
+    "meta_title": "Keyboard shortcuts for SketchUp",
+    "meta_description": "A visual cheat-sheet for the 135 default keyboard shortcuts found in SketchUp Pro",
+    "reference_link": "https://help.sketchup.com/en/sketchup/getting-started-sketchup#qrc",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "2 point arc tool",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Circle tool",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Circle tool - lock current inferences",
+                    "keys": ["Shift", "C"]
+                },
+                {
+                    "description": "Eraser tool",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Eraser tool - soften or smooth (use on edges to make adjacent faces appear curved)",
+                    "keys": ["Alt", "E"]
+                },
+                {
+                    "description": "Eraser tool - hide",
+                    "keys": ["Shift", "E"]
+                },
+                {
+                    "description": "Eraser tool - unsoften or unsmooth",
+                    "keys": ["Alt", "Shift", "E"]
+                },
+                {
+                    "description": "Line tool",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Line tool - lock in current inference direction",
+                    "keys": ["Shift", "L"]
+                },
+                {
+                    "description": "Line tool - lock direction",
+                    "keys": ["(arrows)", "L"]
+                },
+                {
+                    "description": "Move tool",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Move tool - move a copy",
+                    "keys": ["Alt", "M"]
+                },
+                {
+                    "description": "Move tool - hold down to lock in current inference direction",
+                    "keys": ["Shift", "M"]
+                },
+                {
+                    "description": "Move tool - auto-fold (allow move even if it means adding extra edges and faces)",
+                    "keys": ["Ctrl", "M"]
+                },
+                {
+                    "description": "Move tool - lock direction",
+                    "keys": ["(arrows)", "M"]
+                },
+                {
+                    "description": "Offset tool",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Orbit tool",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Orbit tool - disable 'gravity-weighted' orbiting",
+                    "keys": ["Alt", "O"]
+                },
+                {
+                    "description": "Orbit tool - activate pan tool",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "Paint bucket tool",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Paint bucket tool - fill material, paint all matching adjacent faces",
+                    "keys": ["Alt", "B"]
+                },
+                {
+                    "description": "Paint bucket tool - replace material, paint all matching faces in the model",
+                    "keys": ["Shift", "B"]
+                },
+                {
+                    "description": "Paint bucket tool - replace material on object, paint all matching faces on the same object",
+                    "keys": ["Alt", "Shift", "B"]
+                },
+                {
+                    "description": "Paint bucket tool - sample material",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Push and pull tool",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Push and pull tool - push or pull a copy of the face, leaving original in place",
+                    "keys": ["Alt", "P"]
+                },
+                {
+                    "description": "Rectangle tool",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Rectangle tool - start drawing from center",
+                    "keys": ["Alt", "R"]
+                },
+                {
+                    "description": "Rotate tool",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Rotate tool - rotate a copy",
+                    "keys": ["Alt", "Q"]
+                },
+                {
+                    "description": "Scale tool",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Scale tool - scale about center",
+                    "keys": ["Alt", "S"]
+                },
+                {
+                    "description": "Scale tool - scale uniformly, don't distort",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Select tool",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Select tool - add to selection",
+                    "keys": ["Alt", "Space"]
+                },
+                {
+                    "description": "Select tool - add or subtract from selection",
+                    "keys": ["Shift"]
+                },
+                {
+                    "description": "Select tool - subtract from selection",
+                    "keys": ["Alt", "Shift", "Space"]
+                },
+                {
+                    "description": "Tape measure tool",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Tape measure tool - toggle create guide or measure only",
+                    "keys": ["Alt", "T"]
+                },
+                {
+                    "description": "Tape measure tool - lock direction",
+                    "keys": ["(arrows)", "T"]
+                },
+                {
+                    "description": "Zoom tool",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Zoom tool - combine with click-drag mouse to change field of view",
+                    "keys": ["Shift", "Z"]
+                }
+            ]
+        }
+    ]
+}
