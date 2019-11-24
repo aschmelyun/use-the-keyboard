@@ -1,0 +1,133 @@
+{
+    "view": "layout.shortcut",
+    "slug": "apex-legends",
+    "title": "Apex Legends",
+    "meta_title": "Keyboard shortcuts for Apex Legends",
+    "meta_description": "A visual cheat-sheet for the 27 default keyboard shortcuts found in Apex Legends",
+    "reference_link": "https://www.metabomb.net/off-meta/gameplay-guides/apex-legends-controls-pc-playstation-4xbox-one",
+    "sections": [
+        {
+            "name": "Movement",
+            "shortcuts": [
+                {
+                    "description": "Move forward",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Move back",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Move left",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Move right",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Sprint",
+                    "keys": ["Left Shift"]
+                },
+                {
+                    "description": "Jump",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Toggle crouch",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Hold to crouch",
+                    "keys": ["Left Ctrl"]
+                }
+            ]
+        },
+        {
+            "name": "Weapons and Abilities",
+            "shortcuts": [
+                {
+                    "description": "Tactical ability",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Ultimate ability",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Interact or pickup",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Alternate interact",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Toggle inventory",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Toggle map",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Toggle fire mode",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Melee",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Reload",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Equip first weapon",
+                    "keys": ["1"]
+                },
+                {
+                    "description": "Equip second weapon",
+                    "keys": ["2"]
+                },
+                {
+                    "description": "Holster weapons",
+                    "keys": ["3"]
+                },
+                {
+                    "description": "Equip grenade",
+                    "keys": ["G"]
+                },
+                {
+                    "description": "Use selected health item",
+                    "keys": ["4"]
+                },
+                {
+                    "description": "Toggle Gibraltar's shield",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Inspect weapon",
+                    "keys": ["N"]
+                }
+            ]
+        },
+        {
+            "name": "Communication",
+            "shortcuts": [
+                {
+                    "description": "Ping enemy here",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Hold to use push to talk",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Message team",
+                    "keys": ["Enter"]
+                }
+            ]
+        }
+    ]
+}
