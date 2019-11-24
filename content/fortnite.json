@@ -1,0 +1,129 @@
+{
+    "view": "layout.shortcut",
+    "slug": "fortnite",
+    "title": "Fortnite",
+    "meta_title": "Keyboard shortcuts for Fortnite",
+    "meta_description": "A visual cheat-sheet for the 26 default keyboard shortcuts found in Fortnite",
+    "reference_link": "https://fortnite.gamepedia.com/Controls",
+    "sections": [
+        {
+            "name": "Main Controls",
+            "shortcuts": [
+                {
+                    "description": "Reload",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Switch between combat mode and build mode",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Jump",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Crouch",
+                    "keys": ["Left Ctrl"]
+                },
+                {
+                    "description": "Sprint",
+                    "keys": ["Left Shift"]
+                },
+                {
+                    "description": "Auto run",
+                    "keys": ["="]
+                },
+                {
+                    "description": "Move forward",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Move backwards",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Move left",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Move right",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Toggle map",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Toggle inventory",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Use or interact with object",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Select pickaxe",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Select weapon slot 1-5",
+                    "keys": ["1-5"]
+                }
+            ]
+        },
+        {
+            "name": "Building",
+            "shortcuts": [
+                {
+                    "description": "Rotate building piece",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Wall mode",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Floor mode",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Stair mode",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Pyramid mode",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Trap mode",
+                    "keys": ["Y"]
+                },
+                {
+                    "description": "Select trap",
+                    "keys": ["F3"]
+                },
+                {
+                    "description": "Upgrade building piece of repair damaged building piece",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Edit building piece",
+                    "keys": ["G"]
+                }
+            ]
+        },
+        {
+            "name": "Communication",
+            "shortcuts": [
+                {
+                    "description": "Chat",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Emote",
+                    "keys": ["B"]
+                }
+            ]
+        }
+    ]
+}
