@@ -1,0 +1,486 @@
+{
+    "view": "layout.shortcut",
+    "slug": "superhuman",
+    "title": "Superhuman",
+    "meta_title": "Keyboard shortcuts for Superhuman",
+    "meta_description": "A visual cheat-sheet for the 149 keyboard shortcuts found in Superhuman. This application is MacOS-only.",
+    "reference_link": "https://download.superhuman.com/Superhuman%20Keyboard%20Shortcuts.pdf",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Actions",
+            "shortcuts": [
+                {
+                    "description": "Superhuman command",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Search",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Shortcuts",
+                    "keys": ["?"]
+                },
+                {
+                    "description": "Select conversation",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Add to selection",
+                    "keys": ["Shift", "J/K"]
+                }
+            ]
+        },
+        {
+            "name": "Filters",
+            "shortcuts": [
+                {
+                    "description": "Unread",
+                    "keys": ["Shift", "U"]
+                },
+                {
+                    "description": "Starred",
+                    "keys": ["Shift", "S"]
+                },
+                {
+                    "description": "Important",
+                    "keys": ["Shift", "I"]
+                },
+                {
+                    "description": "No reply",
+                    "keys": ["Shift", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Messages",
+            "shortcuts": [
+                {
+                    "description": "Compose",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Reply all",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Reply",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Open links and attachments",
+                    "keys": ["Cmd", "O"]
+                },
+                {
+                    "description": "Cycle through links and dates",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Expand message",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Expand all messages",
+                    "keys": ["Shift", "O"]
+                }
+            ]
+        },
+        {
+            "name": "Conversations",
+            "shortcuts": [
+                {
+                    "description": "Mark done (archive)",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Mark as not done",
+                    "keys": ["Shift", "E"]
+                },
+                {
+                    "description": "Remind me (snooze)",
+                    "keys": ["H"]
+                },
+                {
+                    "description": "Star",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Mark as read or unread",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Trash",
+                    "keys": ["Shift", "3"]
+                },
+                {
+                    "description": "Mark as spam",
+                    "keys": ["Shift", "1"]
+                },
+                {
+                    "description": "Mute",
+                    "keys": ["Shift", "M"]
+                },
+                {
+                    "description": "Unsubscribe",
+                    "keys": ["Cmd", "U"]
+                }
+            ]
+        },
+        {
+            "name": "Folders (Press keys separately)",
+            "shortcuts": [
+                {
+                    "description": "Go to inbox or important",
+                    "keys": ["G", "I"]
+                },
+                {
+                    "description": "Go to other",
+                    "keys": ["G", "O"]
+                },
+                {
+                    "description": "Go to starred",
+                    "keys": ["G", "S"]
+                },
+                {
+                    "description": "Go to drafts",
+                    "keys": ["G", "D"]
+                },
+                {
+                    "description": "Go to sent mail",
+                    "keys": ["G", "T"]
+                },
+                {
+                    "description": "Go to done",
+                    "keys": ["G", "E"]
+                },
+                {
+                    "description": "Go to reminders",
+                    "keys": ["G", "H"]
+                },
+                {
+                    "description": "Go to muted",
+                    "keys": ["G", "M"]
+                },
+                {
+                    "description": "Go to snippets",
+                    "keys": ["G", ";"]
+                },
+                {
+                    "description": "Go to spam",
+                    "keys": ["G", "!"]
+                },
+                {
+                    "description": "Go to trash",
+                    "keys": ["G", "#"]
+                },
+                {
+                    "description": "Go to all mail",
+                    "keys": ["G", "A"]
+                },
+                {
+                    "description": "Go to label",
+                    "keys": ["G", "L"]
+                }
+            ]
+        },
+        {
+            "name": "Format",
+            "shortcuts": [
+                {
+                    "description": "Bold",
+                    "keys": ["Cmd", "B"]
+                },
+                {
+                    "description": "Italics",
+                    "keys": ["Cmd", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Cmd", "U"]
+                },
+                {
+                    "description": "Hyperlink",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Color",
+                    "keys": ["Cmd", "O"]
+                },
+                {
+                    "description": "Strikethrough",
+                    "keys": ["Cmd", "Shift", "X"]
+                },
+                {
+                    "description": "Numbers",
+                    "keys": ["Cmd", "Shift", "7"]
+                },
+                {
+                    "description": "Bullets",
+                    "keys": ["Cmd", "Shift", "8"]
+                },
+                {
+                    "description": "Quote",
+                    "keys": ["Cmd", "Shift", "9"]
+                },
+                {
+                    "description": "Indent list",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Outdent list",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Increase indent",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Decrease indent",
+                    "keys": ["Cmd", "["]
+                }
+            ]
+        },
+        {
+            "name": "Labels",
+            "shortcuts": [
+                {
+                    "description": "Add or remove a label",
+                    "keys": ["L"]
+                },
+                {
+                    "description": "Remove label",
+                    "keys": ["Y"]
+                },
+                {
+                    "description": "Remove label, next",
+                    "keys": ["["]
+                },
+                {
+                    "description": "Remove label, previous",
+                    "keys": ["]"]
+                },
+                {
+                    "description": "Remove all labels",
+                    "keys": ["Shift", "Y"]
+                },
+                {
+                    "description": "Move",
+                    "keys": ["V"]
+                }
+            ]
+        },
+        {
+            "name": "Calendar",
+            "shortcuts": [
+                {
+                    "description": "Toggle calendar",
+                    "keys": ["0"]
+                },
+                {
+                    "description": "Previous day",
+                    "keys": ["-"]
+                },
+                {
+                    "description": "Next day",
+                    "keys": ["="]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Superhuman focus",
+                    "keys": ["Up/Down/Left/Right"]
+                },
+                {
+                    "description": "Next split",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Previous split",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Open conversation",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Next or previous conversation",
+                    "keys": ["J/K"]
+                },
+                {
+                    "description": "Next or previous message",
+                    "keys": ["N/P"]
+                },
+                {
+                    "description": "Scroll down",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Scroll up",
+                    "keys": ["Shift", "Space"]
+                },
+                {
+                    "description": "Jump to the top or bottom",
+                    "keys": ["Cmd", "Up/Down"]
+                },
+                {
+                    "description": "New window",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "New tab",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "Next tab",
+                    "keys": ["Cmd", "Shift", "]"]
+                },
+                {
+                    "description": "Previous tab",
+                    "keys": ["Cmd", "Shift", "["]
+                },
+                {
+                    "description": "Switch tabs",
+                    "keys": ["Cmd", "1/2/3"]
+                },
+                {
+                    "description": "Close tab",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Switch accounts",
+                    "keys": ["Ctrl", "1/2/3"]
+                },
+                {
+                    "description": "Increase font size",
+                    "keys": ["Cmd", "="]
+                },
+                {
+                    "description": "Decrease font size",
+                    "keys": ["Cmd", "-"]
+                },
+                {
+                    "description": "Reset font size",
+                    "keys": ["Cmd", "0"]
+                },
+                {
+                    "description": "Copy page link",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Back",
+                    "keys": ["Esc"]
+                }
+            ]
+        },
+        {
+            "name": "Compose",
+            "shortcuts": [
+                {
+                    "description": "To",
+                    "keys": ["Cmd", "Shift", "O"]
+                },
+                {
+                    "description": "CC",
+                    "keys": ["Cmd", "Shift", "C"]
+                },
+                {
+                    "description": "BCC",
+                    "keys": ["Cmd", "Shift", "B"]
+                },
+                {
+                    "description": "From",
+                    "keys": ["Cmd", "Shift", "F"]
+                },
+                {
+                    "description": "Edit subject",
+                    "keys": ["Cmd", "Shift", "S"]
+                },
+                {
+                    "description": "Edit message",
+                    "keys": ["Cmd", "Shift", "M"]
+                },
+                {
+                    "description": "Attach",
+                    "keys": ["Cmd", "Shift", "A"]
+                },
+                {
+                    "description": "Discard draft",
+                    "keys": ["Cmd", "Shift", ","]
+                },
+                {
+                    "description": "Move contacts to BCC",
+                    "keys": ["Cmd", "Shift", "I"]
+                },
+                {
+                    "description": "Remind me",
+                    "keys": ["Cmd", "Shift", "H"]
+                },
+                {
+                    "description": "Send later",
+                    "keys": ["Cmd", "Shift", "L"]
+                },
+                {
+                    "description": "Use snippet",
+                    "keys": ["Cmd", ";"]
+                },
+                {
+                    "description": "Send",
+                    "keys": ["Cmd", "Enter"]
+                },
+                {
+                    "description": "Send and mark done",
+                    "keys": ["Cmd", "Shift", "Enter"]
+                },
+                {
+                    "description": "Instant send",
+                    "keys": ["Cmd", "Shift", "Z"]
+                }
+            ]
+        },
+        {
+            "name": "Pop Out Compose",
+            "shortcuts": [
+                {
+                    "description": "Pop draft in or out",
+                    "keys": ["Cmd", "Shift", "P"]
+                },
+                {
+                    "description": "Pop out reply",
+                    "keys": ["Shift", "R"]
+                },
+                {
+                    "description": "Pop out reply-all",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Pop out new message",
+                    "keys": ["Shift", "C"]
+                },
+                {
+                    "description": "Pop out forward",
+                    "keys": ["Shift", "F"]
+                },
+                {
+                    "description": "Pop out a draft and search",
+                    "keys": ["Cmd", "/"]
+                },
+                {
+                    "description": "Switch to or from a draft",
+                    "keys": ["Cmd", "D"]
+                }
+            ]
+        }
+    ]
+}
