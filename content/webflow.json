@@ -1,0 +1,223 @@
+{
+    "view": "layout.shortcut",
+    "slug": "webflow",
+    "title": "Webflow",
+    "meta_title": "Keyboard shortcuts for Webflow",
+    "meta_description": "A visual cheat-sheet for the 41 keyboard shortcuts found in Webflow",
+    "reference_link": "https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Show shortcut cheatsheet",
+                    "keys": ["Shift", "/"]
+                },
+                {
+                    "description": "Save as a snapshot",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Deselect or abort",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Delete element",
+                    "keys": ["Del"]
+                },
+                {
+                    "description": "Show publish dialog",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Show export code dialog",
+                    "keys": ["Shift", "E"]
+                },
+                {
+                    "description": "Edit element",
+                    "keys": ["Enter"]
+                }
+            ]
+        },
+        {
+            "name": "View",
+            "shortcuts": [
+                {
+                    "description": "Preview mode",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Guide overlay",
+                    "keys": ["Ctrl", "Shift", "G"]
+                },
+                {
+                    "description": "Show element edges",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "X-ray mode",
+                    "keys": ["Ctrl", "Shift", "X"]
+                }
+            ]
+        },
+        {
+            "name": "Left-hand Toolbar",
+            "shortcuts": [
+                {
+                    "description": "Show add panel",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Show navigator tab",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Show pages panel",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Show symbols panel",
+                    "keys": ["Shift", "A"]
+                },
+                {
+                    "description": "Make selected element a symbol",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Show asset manager",
+                    "keys": ["J"]
+                }
+            ]
+        },
+        {
+            "name": "Right-hand Tabs",
+            "shortcuts": [
+                {
+                    "description": "Show style tab",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Show settings tab",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Show style manager tab",
+                    "keys": ["G"]
+                },{
+                    "description": "Show interactions tab",
+                    "keys": ["H"]
+                }
+            ]
+        },
+        {
+            "name": "Copy/Paste",
+            "shortcuts": [
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Alt", "(drag)"]
+                }
+            ]
+        },
+        {
+            "name": "Undo/Redo",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                }
+            ]
+        },
+        {
+            "name": "Device View",
+            "shortcuts": [
+                {
+                    "description": "Desktop",
+                    "keys": ["1"]
+                },
+                {
+                    "description": "Tablet",
+                    "keys": ["2"]
+                },
+                {
+                    "description": "Phone (landscape)",
+                    "keys": ["3"]
+                },
+                {
+                    "description": "Phone (portrait)",
+                    "keys": ["4"]
+                }
+            ]
+        },
+        {
+            "name": "Style Panel",
+            "shortcuts": [
+                {
+                    "description": "Margin or padding (on all sides)",
+                    "keys": ["Shift", "(drag)"]
+                },
+                {
+                    "description": "Margin or padding (top and bottom, or left and right)",
+                    "keys": ["Alt", "(drag)"]
+                },
+                {
+                    "description": "Add class to selected element",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Rename last class on selected element",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                }
+            ]
+        },
+        {
+            "name": "Find",
+            "shortcuts": [
+                {
+                    "description": "Quick find",
+                    "keys": ["Ctrl", "K"]
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "shortcuts": [
+                {
+                    "description": "Expand or collapse panel sections",
+                    "keys": ["Alt", "(click)"]
+                },
+                {
+                    "description": "Select parent or child element",
+                    "keys": ["Up/Down"]
+                },
+                {
+                    "description": "Select sibling element",
+                    "keys": ["Left/Right"]
+                },
+                {
+                    "description": "Select next or previous element",
+                    "keys": ["Alt", "Left/Right"]
+                },
+                {
+                    "description": "Toggle collaborators on selected element",
+                    "keys": ["Ctrl", "Shift", "L"]
+                }
+            ]
+        }
+    ]
+}
