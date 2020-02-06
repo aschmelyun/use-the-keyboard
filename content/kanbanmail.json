@@ -1,0 +1,151 @@
+{
+    "view": "layout.shortcut",
+    "slug": "kanbanmail",
+    "title": "KanbanMail",
+    "meta_title": "Keyboard shortcuts for KanbanMail",
+    "meta_description": "A visual cheat-sheet for the 29 keyboard shortcuts found in KanbanMail",
+    "reference_link": "https://guides.kanbanmail.app/keyboard-shortcuts",
+    "sections": [
+        {
+            "name": "Global",
+            "shortcuts": [
+                {
+                    "description": "Toggle split view",
+                    "keys": ["Ctrl", "\\"]
+                }
+            ]
+        },
+        {
+            "name": "Board",
+            "shortcuts": [
+                {
+                    "description": "Open composer",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "New note in the to-do column",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Focus the search bar",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Clear search, if it's on",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Select the first thread in column <number>",
+                    "keys": ["1-5"]
+                }
+            ]
+        },
+        {
+            "name": "Email",
+            "shortcuts": [
+                {
+                    "description": "Star or unstar",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Mark as important or not important",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Mark as read or unread",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Pin",
+                    "keys": ["Shift", "P"]
+                },
+                {
+                    "description": "Reply",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Reply all",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Move to archived",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Move to column <number>",
+                    "keys": ["1-5"]
+                },
+                {
+                    "description": "Move to trash",
+                    "keys": ["Shift", "3"]
+                },
+                {
+                    "description": "Go to the previous message in the thread",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Go to the next message in the thread",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Unsubscribe",
+                    "keys": ["Shift", "U"]
+                },
+                {
+                    "description": "Open selected thread",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Close thread viewer, if open",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Clear selected threads",
+                    "keys": ["Esc"]
+                }
+            ]
+        },
+        {
+            "name": "Composer",
+            "shortcuts": [
+                {
+                    "description": "Send email",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Save as draft",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Close composer",
+                    "keys": ["Esc"]
+                }
+            ]
+        },
+        {
+            "name": "Editor",
+            "shortcuts": [
+                {
+                    "description": "Bold",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Add hyperlink",
+                    "keys": ["Ctrl", "K"]
+                }
+            ]
+        }
+    ]
+}
