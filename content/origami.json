@@ -1,0 +1,325 @@
+{
+    "view": "layout.shortcut",
+    "slug": "origami",
+    "title": "Origami Studio",
+    "meta_title": "Keyboard shortcuts for Origami Studio",
+    "meta_description": "A visual cheat-sheet for the 71 keyboard shortcuts found in Origami Studio. This application is MacOS-only.",
+    "reference_link": "https://origami.design/documentation/workflow/KeyboardShortcuts.html",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Insert patch",
+                    "keys": ["Opt", "Enter"]
+                },
+                {
+                    "description": "Insert layer",
+                    "keys": ["Cmd", "Enter"]
+                },
+                {
+                    "description": "Documentation",
+                    "keys": ["Cmd", "/"]
+                }
+            ]
+        },
+        {
+            "name": "Patches",
+            "shortcuts": [
+                {
+                    "description": "Interaction",
+                    "keys": ["I"]
+                },
+                {
+                    "description": "Switch",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Pop animation",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Classic animation",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Transition",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Keyboard",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Delay",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Option switch",
+                    "keys": ["Shift", "I"]
+                },
+                {
+                    "description": "Option picker",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Splitter",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Wireless broadcaster",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Wireless receiver",
+                    "keys": ["Shift", "W"]
+                },
+                {
+                    "description": "Pulse",
+                    "keys": ["U"]
+                },
+                {
+                    "description": "Add",
+                    "keys": ["+"]
+                },
+                {
+                    "description": "Minus",
+                    "keys": ["-"]
+                },
+                {
+                    "description": "Multiply",
+                    "keys": ["*"]
+                },
+                {
+                    "description": "Divide",
+                    "keys": ["/"]
+                },
+                {
+                    "description": "Modulus or remainder",
+                    "keys": ["%"]
+                },
+                {
+                    "description": "AND logic",
+                    "keys": ["Shift", "A"]
+                },
+                {
+                    "description": "OR logic",
+                    "keys": ["Shift", "O"]
+                },
+                {
+                    "description": "NOT logic",
+                    "keys": ["Shift", "N"]
+                },
+                {
+                    "description": "Equals",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Greater than",
+                    "keys": [">"]
+                },
+                {
+                    "description": "Less than",
+                    "keys": ["<"]
+                },
+                {
+                    "description": "Progress",
+                    "keys": ["Shift", "R"]
+                },
+                {
+                    "description": "Reverse progress",
+                    "keys": ["R"]
+                }
+            ]
+        },
+        {
+            "name": "Organizing Patches",
+            "shortcuts": [
+                {
+                    "description": "Rename patch",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Align patches left",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Align patches right",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Align patches top",
+                    "keys": ["Cmd", "Shift", "["]
+                },
+                {
+                    "description": "Align patches bottom",
+                    "keys": ["Cmd", "Shift", "]"]
+                },
+                {
+                    "description": "Insert comment around patches",
+                    "keys": ["Opt", "Ctrl", "C"]
+                },
+                {
+                    "description": "Create patch component",
+                    "keys": ["Cmd", "Ctrl", "G"]
+                },
+                {
+                    "description": "Publish input or output port",
+                    "keys": ["Opt", "P"]
+                },
+                {
+                    "description": "Enter patch component",
+                    "keys": ["Opt", "Down"]
+                },
+                {
+                    "description": "Exit patch component",
+                    "keys": ["Opt", "Up"]
+                },
+                {
+                    "description": "Patch info",
+                    "keys": ["Cmd", "Shift", "I"]
+                },
+                {
+                    "description": "Add patch component to user library",
+                    "keys": ["Cmd", "Opt", "L"]
+                },
+                {
+                    "description": "Add patch component to other library",
+                    "keys": ["Cmd", "Opt", "Shift", "L"]
+                }
+            ]
+        },
+        {
+            "name": "Layers",
+            "shortcuts": [
+                {
+                    "description": "Rename layer",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Hide or show layer",
+                    "keys": ["Cmd", "Shift", "H"]
+                },
+                {
+                    "description": "Lock or unlock layer",
+                    "keys": ["Cmd", "Shift", "L"]
+                },
+                {
+                    "description": "Bring forward",
+                    "keys": ["Cmd", "Opt", "Up"]
+                },
+                {
+                    "description": "Send backwards",
+                    "keys": ["Cmd", "Opt", "Down"]
+                },
+                {
+                    "description": "Bring to front",
+                    "keys": ["Cmd", "Opt", "Shift", "Up"]
+                },
+                {
+                    "description": "Send to back",
+                    "keys": ["Cmd", "Opt", "Shift", "Down"]
+                },
+                {
+                    "description": "Mask layer",
+                    "keys": ["Cmd", "Opt", "M"]
+                },
+                {
+                    "description": "Add to mask",
+                    "keys": ["Cmd", "Opt", "Shift", "M"]
+                },
+                {
+                    "description": "Group layers",
+                    "keys": ["Cmd", "G"]
+                },
+                {
+                    "description": "Ungroup layers",
+                    "keys": ["Cmd", "Shift", "G"]
+                },
+                {
+                    "description": "Create layer component",
+                    "keys": ["Cmd", "Ctrl", "G"]
+                },
+                {
+                    "description": "Enter component",
+                    "keys": ["Opt", "Down"]
+                },
+                {
+                    "description": "Exit component",
+                    "keys": ["Opt", "Up"]
+                },
+                {
+                    "description": "Layer info",
+                    "keys": ["Cmd", "Shift", "I"]
+                },
+                {
+                    "description": "Add layer to user library",
+                    "keys": ["Cmd", "Opt", "L"]
+                },
+                {
+                    "description": "Add layer to other library",
+                    "keys": ["Cmd", "Opt", "Shift", "L"]
+                }
+            ]
+        },
+        {
+            "name": "Viewer",
+            "shortcuts": [
+                {
+                    "description": "Restart prototype",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Toggle device",
+                    "keys": ["Opt", "D"]
+                },
+                {
+                    "description": "Toggle hand",
+                    "keys": ["Opt", "H"]
+                },
+                {
+                    "description": "Mini viewer",
+                    "keys": ["Cmd", "Opt", "F"]
+                },
+                {
+                    "description": "Fullscreen viewer",
+                    "keys": ["Cmd", "Shift", "F"]
+                },
+                {
+                    "description": "1:1 viewer",
+                    "keys": ["Cmd", "Opt", "0"]
+                }
+            ]
+        },
+        {
+            "name": "Number Inputs",
+            "shortcuts": [
+                {
+                    "description": "Increase number by one",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "Decrease number by one",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Increase number by 10",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Decrease number by 10",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Increase number by 0.1",
+                    "keys": ["Opt", "Up"]
+                },
+                {
+                    "description": "Decrease number by 0.1",
+                    "keys": ["Opt", "Down"]
+                }
+            ]
+        }
+    ]
+}
