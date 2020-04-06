@@ -1,0 +1,225 @@
+{
+  "view": "layout.shortcut",
+  "slug": "shopify",
+  "title": "Shopify",
+  "meta_title": "Keyboard shortcuts for Shopify",
+  "meta_description": "A visual cheat-sheet for the 50 keyboard shortcuts found on the Shopify website",
+  "reference_link": "https://help.shopify.com/en/manual/productivity-tools/keyboard-shortcuts",
+  "sections": [
+    {
+      "name": "General Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Keyboard help",
+          "keys": ["?"]
+        },
+        {
+          "description": "Focus search bar",
+          "keys": ["S"]
+        },
+        {
+          "description": "Focus filter bar",
+          "keys": ["F"]
+        },
+        {
+          "description": "Log out",
+          "keys": ["B", "Y", "E"]
+        },
+        {
+          "description": "Your profile",
+          "keys": ["M", "E"]
+        },
+        {
+          "description": "Open the store switcher",
+          "keys": ["O", "S"]
+        }
+      ]
+    },
+    {
+      "name": "Adding Items",
+      "shortcuts": [
+        {
+          "description": "Add product",
+          "keys": ["A", "P"]
+        },
+        {
+          "description": "Add collection",
+          "keys": ["A", "C"]
+        },
+        {
+          "description": "Add discount",
+          "keys": ["A", "D"]
+        },
+        {
+          "description": "Add order",
+          "keys": ["A", "O"]
+        },
+        {
+          "description": "Add customer",
+          "keys": ["A", "U"]
+        },
+        {
+          "description": "Add blog post",
+          "keys": ["A", "B"]
+        },
+        {
+          "description": "Add blog",
+          "keys": ["A", "L"]
+        },
+        {
+          "description": "Add page",
+          "keys": ["A", "G"]
+        }
+      ]
+    },
+    {
+      "name": "Navigating Admin Panel",
+      "shortcuts": [
+        {
+          "description": "Go to home",
+          "keys": ["G", "H"]
+        },
+        {
+          "description": "Go to products",
+          "keys": ["G", "P", "P"]
+        },
+        {
+          "description": "Go to analytics",
+          "keys": ["G", "N"]
+        },
+        {
+          "description": "Go to discounts",
+          "keys": ["G", "D"]
+        },
+        {
+          "description": "Go to apps",
+          "keys": ["G", "A"]
+        },
+        {
+          "description": "Go to abandoned checkouts",
+          "keys": ["G", "B", "C"]
+        },
+        {
+          "description": "Go to products, inventory",
+          "keys": ["G", "P", "I"]
+        },
+        {
+          "description": "Go to products, gift cards",
+          "keys": ["G", "P", "G"]
+        },
+        {
+          "description": "Go to online store, blog posts",
+          "keys": ["G", "W", "B"]
+        },
+        {
+          "description": "Go to online store, themes",
+          "keys": ["G", "W", "T"]
+        },
+        {
+          "description": "Go to online store, domains",
+          "keys": ["G", "W", "D"]
+        },
+        {
+          "description": "Go to settings, locations",
+          "keys": ["G", "T", "L"]
+        },
+        {
+          "description": "Go to settings, payments",
+          "keys": ["G", "S", "P"]
+        },
+        {
+          "description": "Go to settings, shipping",
+          "keys": ["G", "S", "S"]
+        },
+        {
+          "description": "Go to settings, notifications",
+          "keys": ["G", "S", "N"]
+        },
+        {
+          "description": "Go to settings, files",
+          "keys": ["G", "S", "F"]
+        },
+        {
+          "description": "Go to settings, online store",
+          "keys": ["G", "S", "W"]
+        },
+        {
+          "description": "Go to settings, sales channels",
+          "keys": ["G", "S", "L"]
+        },
+        {
+          "description": "Go to orders",
+          "keys": ["G", "O"]
+        },
+        {
+          "description": "Go to customers",
+          "keys": ["G", "C"]
+        },
+        {
+          "description": "Go to marketing",
+          "keys": ["G", "M"]
+        },
+        {
+          "description": "Go to sales channels",
+          "keys": ["G", "L"]
+        },
+        {
+          "description": "Go to settings",
+          "keys": ["G", "S"]
+        },
+        {
+          "description": "Go to products, transfers",
+          "keys": ["G", "P", "T"]
+        },
+        {
+          "description": "Go to products, collections",
+          "keys": ["G", "P", "C"]
+        },
+        {
+          "description": "Go to online store, overview",
+          "keys": ["G", "W", "O"]
+        },
+        {
+          "description": "Go to online store, pages",
+          "keys": ["G", "W", "P"]
+        },
+        {
+          "description": "Go to line store, navigation",
+          "keys": ["G", "W", "N"]
+        },
+        {
+          "description": "Go to point of sale, overview",
+          "keys": ["G", "T", "O"]
+        },
+        {
+          "description": "Go to settings, general",
+          "keys": ["G", "S", "G"]
+        },
+        {
+          "description": "Go to settings, checkout",
+          "keys": ["G", "S", "C"]
+        },
+        {
+          "description": "Go to settings, taxes",
+          "keys": ["G", "S", "X"]
+        },
+        {
+          "description": "Go to settings, gift cards",
+          "keys": ["G", "S", "I"]
+        },
+        {
+          "description": "Go to settings, account",
+          "keys": ["G", "S", "A"]
+        },
+        {
+          "description": "Go to settings, point of sale",
+          "keys": ["G", "S", "T"]
+        },
+        {
+          "description": "Go to settings, billing",
+          "keys": ["G", "S", "B"]
+        }
+      ]
+    }
+  ]
+}
