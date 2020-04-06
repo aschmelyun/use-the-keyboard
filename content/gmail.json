@@ -1,0 +1,410 @@
+{
+  "view": "layout.shortcut",
+  "slug": "gmail",
+  "title": "Gmail",
+  "meta_title": "Keyboard shortcuts for Gmail",
+  "meta_description": "A visual cheat-sheet for the 90 keyboard shortcuts found on Gmail",
+  "reference_link": "https://support.google.com/mail/answer/6594?hl=en",
+  "sections": [
+    {
+      "name": "Compose and Chat",
+      "shortcuts": [
+        {
+          "description": "Previous message in an open conversation",
+          "keys": ["P"]
+        },
+        {
+          "description": "Next message in an open conversation",
+          "keys": ["N"]
+        },
+        {
+          "description": "Focus main window",
+          "keys": ["Shift", "Esc"]
+        },
+        {
+          "description": "Focus latest chat or compose",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Advance to the next chat or compose",
+          "keys": ["Ctrl", "."]
+        },
+        {
+          "description": "Advance to the previous chat or compose",
+          "keys": ["Ctrl", ","]
+        },
+        {
+          "description": "Send",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Add cc recipients",
+          "keys": ["Ctrl", "Shift", "C"]
+        },
+        {
+          "description": "Add bcc recipients",
+          "keys": ["Ctrl", "Shift", "B"]
+        },
+        {
+          "description": "Access custom from",
+          "keys": ["Ctrl", "Shift", "F"]
+        },
+        {
+          "description": "Insert a link",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Go to next misspelled word (Mac only)",
+          "keys": ["Cmd", ";"]
+        },
+        {
+          "description": "Open spelling suggestions",
+          "keys": ["Ctrl", "M"]
+        }
+      ]
+    },
+    {
+      "name": "Formatting Text",
+      "shortcuts": [
+        {
+          "description": "Previous font",
+          "keys": ["Ctrl", "Shift", "5"]
+        },
+        {
+          "description": "Next font",
+          "keys": ["Ctrl", "Shift", "6"]
+        },
+        {
+          "description": "Decrease font size",
+          "keys": ["Ctrl", "Shift", "-"]
+        },
+        {
+          "description": "Increase font size",
+          "keys": ["Ctrl", "Shift", "+"]
+        },
+        {
+          "description": "Bold",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Italics",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Underline",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Numbered list",
+          "keys": ["Ctrl", "Shift", "7"]
+        },
+        {
+          "description": "Bulleted list",
+          "keys": ["Ctrl", "Shift", "8"]
+        },
+        {
+          "description": "Quote",
+          "keys": ["Ctrl", "Shift", "9"]
+        },
+        {
+          "description": "Indent less",
+          "keys": ["Ctrl", "["]
+        },
+        {
+          "description": "Indent more",
+          "keys": ["Ctrl", "]"]
+        },
+        {
+          "description": "Align left",
+          "keys": ["Ctrl", "Shift", "L"]
+        },
+        {
+          "description": "Align center",
+          "keys": ["Ctrl", "Shift", "E"]
+        },
+        {
+          "description": "Align right",
+          "keys": ["Ctrl", "Shift", "R"]
+        },
+        {
+          "description": "Remove formatting",
+          "keys": ["Ctrl", "\\"]
+        }
+      ]
+    },
+    {
+      "name": "Actions",
+      "shortcuts": [
+        {
+          "description": "Move focus to toolbar",
+          "keys": [","]
+        },
+        {
+          "description": "Select conversation",
+          "keys": ["X"]
+        },
+        {
+          "description": "Toggle star or rotate among superstars",
+          "keys": ["S"]
+        },
+        {
+          "description": "Archive",
+          "keys": ["E"]
+        },
+        {
+          "description": "Mute conversation",
+          "keys": ["M"]
+        },
+        {
+          "description": "Report as spam",
+          "keys": ["Shift", "1"]
+        },
+        {
+          "description": "Delete",
+          "keys": ["Shift", "3"]
+        },
+        {
+          "description": "Reply",
+          "keys": ["R"]
+        },
+        {
+          "description": "Reply in a new window",
+          "keys": ["Shift", "R"]
+        },
+        {
+          "description": "Reply all",
+          "keys": ["A"]
+        },
+        {
+          "description": "Reply all in a new window",
+          "keys": ["Shift", "A"]
+        },
+        {
+          "description": "Forward",
+          "keys": ["F"]
+        },
+        {
+          "description": "Forward in a new window",
+          "keys": ["Shift", "F"]
+        },
+        {
+          "description": "Update conversation",
+          "keys": ["Shift", "N"]
+        },
+        {
+          "description": "Archive conversation and go to previous or next",
+          "keys": ["]/["]
+        },
+        {
+          "description": "Undo last action",
+          "keys": ["Z"]
+        },
+        {
+          "description": "Mark as read",
+          "keys": ["Shift", "I"]
+        },
+        {
+          "description": "Mark as unread",
+          "keys": ["Shift", "U"]
+        },
+        {
+          "description": "Mark unread from the selected message",
+          "keys": ["Shift", "-"]
+        },
+        {
+          "description": "Mark as important",
+          "keys": ["="]
+        },
+        {
+          "description": "Mark as not important",
+          "keys": ["-"]
+        },
+        {
+          "description": "Snooze",
+          "keys": ["B"]
+        },
+        {
+          "description": "Expand entire conversation",
+          "keys": [";"]
+        },
+        {
+          "description": "Collapse entire conversation",
+          "keys": ["Shift", ";"]
+        },
+        {
+          "description": "Add conversation to tasks",
+          "keys": ["Shift", "T"]
+        }
+      ]
+    },
+    {
+      "name": "Hangouts",
+      "shortcuts": [
+        {
+          "description": "Show menu",
+          "keys": ["H", "M"]
+        },
+        {
+          "description": "Show archived hangouts",
+          "keys": ["H", "A"]
+        },
+        {
+          "description": "Show hangout requests",
+          "keys": ["H", "I"]
+        },
+        {
+          "description": "Focus on the conversation list",
+          "keys": ["H", "C"]
+        },
+        {
+          "description": "Open phone",
+          "keys": ["H", "P"]
+        }
+      ]
+    },
+    {
+      "name": "Jumping",
+      "shortcuts": [
+        {
+          "description": "Go to inbox",
+          "keys": ["G", "I"]
+        },
+        {
+          "description": "Go to starred conversations",
+          "keys": ["G", "S"]
+        },
+        {
+          "description": "Go to snoozed conversations",
+          "keys": ["G", "B"]
+        },
+        {
+          "description": "Go to sent messages",
+          "keys": ["G", "T"]
+        },
+        {
+          "description": "Go to drafts",
+          "keys": ["S", "D"]
+        },
+        {
+          "description": "Go to all mail",
+          "keys": ["G", "A"]
+        },
+        {
+          "description": "Switch between the calendar, keep, and tasks sidebar and your inbox",
+          "keys": ["Ctrl", "Alt", ",/."]
+        },
+        {
+          "description": "Go to tasks",
+          "keys": ["G", "K"]
+        },
+        {
+          "description": "Go to label",
+          "keys": ["G", "L"]
+        }
+      ]
+    },
+    {
+      "name": "Threadlist Selection",
+      "shortcuts": [
+        {
+          "description": "Select all conversations",
+          "keys": ["Shift", "8", "A"]
+        },
+        {
+          "description": "Deselect all conversations",
+          "keys": ["Shift", "8", "N"]
+        },
+        {
+          "description": "Select read conversations",
+          "keys": ["Shift", "8", "R"]
+        },
+        {
+          "description": "Select unread conversations",
+          "keys": ["Shift", "8", "U"]
+        },
+        {
+          "description": "Select starred conversations",
+          "keys": ["Shift", "8", "S"]
+        },
+        {
+          "description": "Select unstarred conversations",
+          "keys": ["Shift", "8", "T"]
+        }
+      ]
+    },
+    {
+      "name": "Navigation",
+      "shortcuts": [
+        {
+          "description": "Go to next page",
+          "keys": ["G", "N"]
+        },
+        {
+          "description": "Go to previous page",
+          "keys": ["G", "P"]
+        },
+        {
+          "description": "Back to threadlist",
+          "keys": ["U"]
+        },
+        {
+          "description": "Newer conversation",
+          "keys": ["K"]
+        },
+        {
+          "description": "Older conversation",
+          "keys": ["J"]
+        },
+        {
+          "description": "Open conversation",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Go to next inbox section",
+          "keys": ["`"]
+        },
+        {
+          "description": "Go to previous inbox section",
+          "keys": ["Shift", "`"]
+        }
+      ]
+    },
+    {
+      "name": "Application",
+      "shortcuts": [
+        {
+          "description": "Compose",
+          "keys": ["C"]
+        },
+        {
+          "description": "Compose in a new tab",
+          "keys": ["D"]
+        },
+        {
+          "description": "Search mail",
+          "keys": ["/"]
+        },
+        {
+          "description": "Search chat contacts",
+          "keys": ["G"]
+        },
+        {
+          "description": "Open more actions menu",
+          "keys": ["."]
+        },
+        {
+          "description": "Open move to menu",
+          "keys": ["V"]
+        },
+        {
+          "description": "Open label as menu",
+          "keys": ["L"]
+        },
+        {
+          "description": "Open keyboard shortcut help",
+          "keys": ["?"]
+        }
+      ]
+    }
+  ]
+}
