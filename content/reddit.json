@@ -1,0 +1,88 @@
+{
+  "view": "layout.shortcut",
+  "slug": "reddit",
+  "title": "Reddit",
+  "meta_title": "Keyboard shortcuts for Reddit",
+  "meta_description": "A visual cheat-sheet for the 17 keyboard shortcuts found on Reddit.com",
+  "reference_link": "https://i.imgur.com/7644kEy.png",
+  "sections": [
+    {
+      "name": "Navigation",
+      "shortcuts": [
+        {
+          "description": "Show shortcuts",
+          "keys": ["Shift", "?"]
+        },
+        {
+          "description": "Next post or comment",
+          "keys": ["J"]
+        },
+        {
+          "description": "Previous post or comment",
+          "keys": ["K"]
+        },
+        {
+          "description": "Next post in lightbox",
+          "keys": ["N"]
+        },
+        {
+          "description": "Previous post in lightbox",
+          "keys": ["P"]
+        },
+        {
+          "description": "Open post",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Open or close expando",
+          "keys": ["X"]
+        },
+        {
+          "description": "Go to post link",
+          "keys": ["L"]
+        }
+      ]
+    },
+    {
+      "name": "Action",
+      "shortcuts": [
+        {
+          "description": "Upvote",
+          "keys": ["A"]
+        },
+        {
+          "description": "Downvote",
+          "keys": ["Z"]
+        },
+        {
+          "description": "New post",
+          "keys": ["C"]
+        },
+        {
+          "description": "Reply to comments",
+          "keys": ["R"]
+        },
+        {
+          "description": "Submit comment or post",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Save",
+          "keys": ["S"]
+        },
+        {
+          "description": "Hide",
+          "keys": ["H"]
+        },
+        {
+          "description": "Open navigation",
+          "keys": ["Q"]
+        },
+        {
+          "description": "Collapse or expand comment",
+          "keys": ["Enter"]
+        }
+      ]
+    }
+  ]
+}
