@@ -1,0 +1,92 @@
+{
+  "view": "layout.shortcut",
+  "slug": "dropbox",
+  "title": "Dropbox",
+  "meta_title": "Keyboard shortcuts for Dropbox",
+  "meta_description": "A visual cheat-sheet for the 9 keyboard shortcuts found on Dropbox",
+  "reference_link": "https://help.dropbox.com/installs-integrations/desktop/keyboard-shortcuts",
+  "sections": [
+    {
+      "name": "Dropbox Website",
+      "shortcuts": [
+        {
+          "description": "Move between files or folders",
+          "keys": ["Up/Down"]
+        },
+        {
+          "description": "Open a file or folder",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Search through files and folders",
+          "keys": ["/"]
+        }
+      ]
+    },
+    {
+      "name": "Dropbox Desktop App",
+      "shortcuts": [
+        {
+          "description": "Bold",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Italic",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Strikethrough",
+          "keys": ["Ctrl", "Alt", "S"]
+        },
+        {
+          "description": "Create a link",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Create a to-do list",
+          "keys": ["-", "Space"]
+        },
+        {
+          "description": "Create a bulleted list",
+          "keys": ["-", "-", "Space"]
+        },
+        {
+          "description": "Create a numbered list",
+          "keys": ["1", "Space"]
+        },
+        {
+          "description": "Mentioned someone",
+          "keys": ["@"]
+        },
+        {
+          "description": "Move between files and folders in the expanded preview",
+          "keys": ["Left/Right"]
+        },
+        {
+          "description": "Move to the next or previous page within a PDF or PPT file in the expanded preview",
+          "keys": ["Up/Down"]
+        },
+        {
+          "description": "Move to next or previous page within a PDF or PPT file in the expanded preview",
+          "keys": ["PgUp/PgDown"]
+        },
+        {
+          "description": "Move to first or last page within a PDF or PPT file in the expanded preview",
+          "keys": ["Home/End"]
+        },
+        {
+          "description": "Zoom in while in the expanded preview",
+          "keys": ["Ctrl", "+"]
+        },
+        {
+          "description": "Zoom out in the expanded preview",
+          "keys": ["Ctrl", "-"]
+        },
+        {
+          "description": "Zoom back to 100% in the expanded preview",
+          "keys": ["Ctrl", "0"]
+        }
+      ]
+    }
+  ]
+}
