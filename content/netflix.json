@@ -1,0 +1,51 @@
+{
+  "view": "layout.shortcut",
+  "slug": "netflix",
+  "title": "Netflix",
+  "meta_title": "Keyboard shortcuts for Netflix",
+  "meta_description": "A visual cheat-sheet for the 9 keyboard shortcuts found on Netflix",
+  "reference_link": "https://help.netflix.com/en/node/24855",
+  "sections": [
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Toggle play or pause",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Toggle play or pause",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Full-screen",
+          "keys": ["F"]
+        },
+        {
+          "description": "Exit full-screen",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Rewind ten (10) seconds",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Fast-forward ten (10) seconds",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Volume up",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Volume down",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Toggle mute",
+          "keys": ["M"]
+        }
+      ]
+    }
+  ]
+}
