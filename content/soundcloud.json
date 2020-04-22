@@ -1,0 +1,103 @@
+{
+  "view": "layout.shortcut",
+  "slug": "soundcloud",
+  "title": "SoundCloud",
+  "meta_title": "Keyboard shortcuts for SoundCloud",
+  "meta_description": "A visual cheat-sheet for the 22 keyboard shortcuts found on SoundCloud",
+  "reference_link": "https://i.imgur.com/ZQf24je.png",
+  "sections": [
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Play or pause",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Play next track",
+          "keys": ["Shift", "Right"]
+        },
+        {
+          "description": "Repeat playing track",
+          "keys": ["Shift", "L"]
+        },
+        {
+          "description": "Play previous track",
+          "keys": ["Shift", "Left"]
+        },
+        {
+          "description": "Seek forward",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Like playing track",
+          "keys": ["L"]
+        },
+        {
+          "description": "Repost playing track",
+          "keys": ["R"]
+        },
+        {
+          "description": "Search",
+          "keys": ["S"]
+        },
+        {
+          "description": "Navigate to likes",
+          "keys": ["G", "L"]
+        },
+        {
+          "description": "Navigate to library",
+          "keys": ["G", "C"]
+        },
+        {
+          "description": "Navigate to history",
+          "keys": ["G", "H"]
+        },
+        {
+          "description": "Shuffle",
+          "keys": ["Shift", "S"]
+        },
+        {
+          "description": "Decrease volume",
+          "keys": ["Shift", "Down"]
+        },
+        {
+          "description": "Increase volume",
+          "keys": ["Shift", "Up"]
+        },
+        {
+          "description": "Mute volume",
+          "keys": ["M"]
+        },
+        {
+          "description": "Seek backwards",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Seek to position",
+          "keys": ["0-9"]
+        },
+        {
+          "description": "Navigate to playing track",
+          "keys": ["P"]
+        },
+        {
+          "description": "Show keyboard shortcuts",
+          "keys": ["H"]
+        },
+        {
+          "description": "Navigate to stream",
+          "keys": ["G", "S"]
+        },
+        {
+          "description": "Navigate to profile",
+          "keys": ["G", "P"]
+        },
+        {
+          "description": "Show next up",
+          "keys": ["Q"]
+        }
+      ]
+    }
+  ]
+}
