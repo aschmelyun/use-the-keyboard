@@ -1,0 +1,287 @@
+{
+  "view": "layout.shortcut",
+  "slug": "gitlab",
+  "title": "GitLab",
+  "meta_title": "Keyboard shortcuts for GitLab",
+  "meta_description": "A visual cheat-sheet for the 58 keyboard shortcuts found in GitLab",
+  "reference_link": "https://docs.gitlab.com/ee/user/shortcuts.html",
+  "sections": [
+    {
+      "name": "Global",
+      "shortcuts": [
+        {
+          "description": "Show or hide the shortcut reference sheet",
+          "keys": ["?"]
+        },
+        {
+          "description": "Go to your projects page",
+          "keys": ["Shift", "P"]
+        },
+        {
+          "description": "Go to your groups page",
+          "keys": ["Shift", "G"]
+        },
+        {
+          "description": "Go to your activity page",
+          "keys": ["Shift", "A"]
+        },
+        {
+          "description": "Go to your milestones page",
+          "keys": ["Shift", "L"]
+        },
+        {
+          "description": "Go to your snippets page",
+          "keys": ["Shift", "S"]
+        },
+        {
+          "description": "Put the cursor in the issues or merge requests search",
+          "keys": ["S"]
+        },
+        {
+          "description": "Go to your issues page",
+          "keys": ["Shift", "I"]
+        },
+        {
+          "description": "Go to your merge requests page",
+          "keys": ["Shift", "T"]
+        },
+        {
+          "description": "Show or hide the performance bar",
+          "keys": ["P", "B"]
+        },
+        {
+          "description": "Edit your last comment, you must be in a blank text field below a thread",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Toggle markdown preview when editing text in a text field",
+          "keys": ["Ctrl", "Shift", "P"]
+        }
+      ]
+    },
+    {
+      "name": "Project",
+      "shortcuts": [
+        {
+          "description": "Go to the project home page",
+          "keys": ["G", "P"]
+        },
+        {
+          "description": "Go to the project activity feed",
+          "keys": ["G", "V"]
+        },
+        {
+          "description": "Go to the project releases list",
+          "keys": ["G", "R"]
+        },
+        {
+          "description": "Go to the project files list",
+          "keys": ["G", "F"]
+        },
+        {
+          "description": "Go to the project file search page",
+          "keys": ["T"]
+        },
+        {
+          "description": "Go to the project commits list",
+          "keys": ["G", "C"]
+        },
+        {
+          "description": "Go to the repository graph page",
+          "keys": ["G", "N"]
+        },
+        {
+          "description": "Go to the repository charts",
+          "keys": ["G", "D"]
+        },
+        {
+          "description": "Go to the project issues list",
+          "keys": ["G", "I"]
+        },
+        {
+          "description": "Go to the new issue page",
+          "keys": ["I"]
+        },
+        {
+          "description": "Go to the project issues boards list",
+          "keys": ["G", "B"]
+        },
+        {
+          "description": "Go to the project merge requests list",
+          "keys": ["G", "M"]
+        },
+        {
+          "description": "Go to the CI/CD jobs list",
+          "keys": ["G", "J"]
+        },
+        {
+          "description": "Go to the project metrics",
+          "keys": ["G", "L"]
+        },
+        {
+          "description": "Go to the project environments",
+          "keys": ["G", "E"]
+        },
+        {
+          "description": "Go to the project Kubernetes cluster integration page",
+          "keys": ["G", "K"]
+        },
+        {
+          "description": "Go to the project snippets list",
+          "keys": ["G", "S"]
+        },
+        {
+          "description": "Go to the project wiki, if enabled",
+          "keys": ["G", "W"]
+        }
+      ]
+    },
+    {
+      "name": "Issues and Merge Requests",
+      "shortcuts": [
+        {
+          "description": "Edit description",
+          "keys": ["E"]
+        },
+        {
+          "description": "Change assignee",
+          "keys": ["A"]
+        },
+        {
+          "description": "Change milestone",
+          "keys": ["M"]
+        },
+        {
+          "description": "Change label",
+          "keys": ["L"]
+        },
+        {
+          "description": "Start writing a comment, if any text is selected it will be quoted",
+          "keys": ["R"]
+        },
+        {
+          "description": "Move to next unresolved discussion, merge requests only",
+          "keys": ["N"]
+        },
+        {
+          "description": "Move to previous unresolved discussion, merge requests only",
+          "keys": ["P"]
+        },
+        {
+          "description": "Move to next file, merge requests only",
+          "keys": ["]"]
+        },
+        {
+          "description": "Move to previous file, merge requests only",
+          "keys": ["["]
+        }
+      ]
+    },
+    {
+      "name": "Project Files",
+      "shortcuts": [
+        {
+          "description": "Move selection up",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Move selection down",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Open selection",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Go back to file list screen, only while searching for files",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Go to file permalink, only while viewing a file",
+          "keys": ["Y"]
+        }
+      ]
+    },
+    {
+      "name": "Web IDE",
+      "shortcuts": [
+        {
+          "description": "Search for, and then open, another file for editing",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Commit, when editing the commit message",
+          "keys": ["Ctrl", "Enter"]
+        }
+      ]
+    },
+    {
+      "name": "Repository Graph",
+      "shortcuts": [
+        {
+          "description": "Scroll left",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Scroll right",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Scroll up",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Scroll down",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Scroll to top",
+          "keys": ["Shift", "Up"]
+        },
+        {
+          "description": "Scroll to bottom",
+          "keys": ["Shift", "Down"]
+        }
+      ]
+    },
+    {
+      "name": "Wiki Pages",
+      "shortcuts": [
+        {
+          "description": "Edit wiki page",
+          "keys": ["E"]
+        }
+      ]
+    },
+    {
+      "name": "Filtered Search",
+      "shortcuts": [
+        {
+          "description": "Clear entire search filter",
+          "keys": ["Ctrl", "Backspace"]
+        },
+        {
+          "description": "Clear one token at a time",
+          "keys": ["Alt", "Backspace"]
+        }
+      ]
+    },
+    {
+      "name": "Epics",
+      "shortcuts": [
+        {
+          "description": "Start writing a comment, if any text is selected it will be quoted",
+          "keys": ["R"]
+        },
+        {
+          "description": "Edit description",
+          "keys": ["E"]
+        },
+        {
+          "description": "Change a label",
+          "keys": ["L"]
+        }
+      ]
+    }
+  ]
+}
