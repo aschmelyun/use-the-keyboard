@@ -1,0 +1,185 @@
+{
+  "view": "layout.shortcut",
+  "slug": "bitbucket",
+  "title": "Bitbucket",
+  "meta_title": "Keyboard shortcuts for Bitbucket",
+  "meta_description": "A visual cheat-sheet for the 35 keyboard shortcuts found on Bitbucket",
+  "reference_link": "https://confluence.atlassian.com/bitbucket/keyboard-shortcuts-269980511.html",
+  "sections": [
+    {
+      "name": "All pages",
+      "shortcuts": [
+        {
+          "description": "Display keyboard shortcuts",
+          "keys": ["?"]
+        },
+        {
+          "description": "Expand and collapse left navigation",
+          "keys": ["["]
+        },
+        {
+          "description": "Focus the site search",
+          "keys": ["/"]
+        }
+      ]
+    },
+    {
+      "name": "Most pages (except Your Work and Source)",
+      "shortcuts": [
+        {
+          "description": "Open the Omnibar",
+          "keys": ["."]
+        },
+        {
+          "description": "Select next item",
+          "keys": ["J"]
+        },
+        {
+          "description": "Select previous item",
+          "keys": ["K"]
+        },
+        {
+          "description": "View selected item",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Go to Your Work dashboard",
+          "keys": ["G", "D"]
+        },
+        {
+          "description": "Go to your Personal Settings",
+          "keys": ["G", "A"]
+        },
+        {
+          "description": "Dismiss dialog or remove focus",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Go back",
+          "keys": ["U"]
+        }
+      ]
+    },
+    {
+      "name": "Repository pages with sidebar",
+      "shortcuts": [
+        {
+          "description": "Expand and collapse right sidebar",
+          "keys": ["]"]
+        }
+      ]
+    },
+    {
+      "name": "Repository source",
+      "shortcuts": [
+        {
+          "description": "Focus the file filter",
+          "keys": ["F"]
+        }
+      ]
+    },
+    {
+      "name": "Repository pages (except for Source)",
+      "shortcuts": [
+        {
+          "description": "Create a repository",
+          "keys": ["C", "R"]
+        },
+        {
+          "description": "Import a repository",
+          "keys": ["I", "R"]
+        },
+        {
+          "description": "Open repository source",
+          "keys": ["R", "S"]
+        },
+        {
+          "description": "Open repository commits",
+          "keys": ["R", "C"]
+        },
+        {
+          "description": "Open repository branches",
+          "keys": ["R", "B"]
+        },
+        {
+          "description": "Open repository pull requests",
+          "keys": ["R", "P"]
+        },
+        {
+          "description": "Open repository issues",
+          "keys": ["R", "I"]
+        },
+        {
+          "description": "Open repository wiki",
+          "keys": ["R", "W"]
+        },
+        {
+          "description": "Open repository downloads",
+          "keys": ["R", "D"]
+        },
+        {
+          "description": "Open repository settings",
+          "keys": ["R", "A"]
+        },
+        {
+          "description": "Search for file",
+          "keys": ["F"]
+        }
+      ]
+    },
+    {
+      "name": "Repository pages (except for Source and Settings)",
+      "shortcuts": [
+        {
+          "description": "Fork repository",
+          "keys": ["X", "F"]
+        },
+        {
+          "description": "Create branch",
+          "keys": ["X", "B"]
+        },
+        {
+          "description": "Compare branches or tags",
+          "keys": ["X", "C"]
+        },
+        {
+          "description": "Create pull request",
+          "keys": ["X", "P"]
+        },
+        {
+          "description": "Create issue",
+          "keys": ["X", "I"]
+        }
+      ]
+    },
+    {
+      "name": "Pull requests",
+      "shortcuts": [
+        {
+          "description": "Submit a comment",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Toggle display of inline comments",
+          "keys": ["T", "C"]
+        },
+        {
+          "description": "Switch to the pull request diff tab",
+          "keys": ["P", "D"]
+        },
+        {
+          "description": "Switch to the pull request commits tab",
+          "keys": ["P", "C"]
+        },
+        {
+          "description": "Switch to the pull request activity tab",
+          "keys": ["P", "A"]
+        },
+        {
+          "description": "Show the list of tasks",
+          "keys": ["Shift", "T"]
+        }
+      ]
+    }
+  ]
+}
