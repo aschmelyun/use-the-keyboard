@@ -26,6 +26,7 @@
         "webpack-watch": "^0.2.0"
     },
     "dependencies": {
-        "cross-spawn": "^6.0.5"
+        "cross-spawn": "^6.0.5",
+        "popper.js": "^1.16.1"
     }
 }
