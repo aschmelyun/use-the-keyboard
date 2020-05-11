@@ -1,0 +1,808 @@
+{
+  "view": "layout.shortcut",
+  "slug": "blender",
+  "title": "Blender",
+  "meta_title": "Keyboard shortcuts for Blender",
+  "meta_description": "A visual cheat-sheet for the 187 keyboard shortcuts found in Blender",
+  "reference_link": "https://download.blender.org/documentation/BlenderHotkeyReference.pdf",
+  "sections": [
+    {
+      "name": "Universal",
+      "shortcuts": [
+        {
+          "description": "Cancels Blender functions without changes",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Open the toolbox",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Start or quit edit mode",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Loads a Blender file, changes the window to a file window",
+          "keys": ["F1"]
+        },
+        {
+          "description": "Appends parts from other files, or loads as library data",
+          "keys": ["Shift", "F1"]
+        },
+        {
+          "description": "Writes a Blender file, changes the window to a file window",
+          "keys": ["F2"]
+        },
+        {
+          "description": "Exports the scene as a DXF file",
+          "keys": ["Shift", "F2"]
+        },
+        {
+          "description": "Exports the scene as a VRML1 file",
+          "keys": ["Ctrl", "F2"]
+        },
+        {
+          "description": "Writes a picture, if a picture has been rendered, and the file format is as indicated in the display buttons",
+          "keys": ["F3"]
+        },
+        {
+          "description": "Saves a screen dump of the active window",
+          "keys": ["Ctrl", "F3"]
+        },
+        {
+          "description": "Saves a screen dump of the whole Blender screen",
+          "keys": ["Ctrl", "Shift", "F3"]
+        },
+        {
+          "description": "Displays the logic context",
+          "keys": ["F4"]
+        },
+        {
+          "description": "Displays the shading context, light, material, or world sub-contexts",
+          "keys": ["F5"]
+        },
+        {
+          "description": "Displays the shading context and texture sub-context",
+          "keys": ["F6"]
+        },
+        {
+          "description": "Displays the object context",
+          "keys": ["F7"]
+        },
+        {
+          "description": "Displays the shading context and world sub-context",
+          "keys": ["F8"]
+        },
+        {
+          "description": "Displays the editing context",
+          "keys": ["F9"]
+        },
+        {
+          "description": "Displays the scene context",
+          "keys": ["F10"]
+        },
+        {
+          "description": "Hides or shows the render window",
+          "keys": ["F11"]
+        },
+        {
+          "description": "Starts the rendering from the active camera",
+          "keys": ["F12"]
+        },
+        {
+          "description": "Go to the previous frame",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Go to the first frame",
+          "keys": ["Shift", "Left"]
+        },
+        {
+          "description": "Go to the next frame",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Go to the last frame",
+          "keys": ["Shift", "Right"]
+        },
+        {
+          "description": "Go forward 10 frames",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Go back 10 frames",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Change the current Blender window to animation playback mode, the cursor changes to a counter",
+          "keys": ["Alt", "A"]
+        },
+        {
+          "description": "Change the current window and all 3D windows to animation playback mode",
+          "keys": ["Alt", "Shift", "A"]
+        },
+        {
+          "description": "Insert key menu, this menu differs from window to window",
+          "keys": ["I"]
+        },
+        {
+          "description": "Toggle the render buffers",
+          "keys": ["J"]
+        },
+        {
+          "description": "Opens the last saved file",
+          "keys": ["Ctrl", "O"]
+        },
+        {
+          "description": "Quit Blender",
+          "keys": ["Q"]
+        },
+        {
+          "description": "Timer menu, this menu offers access to information about drawing speed",
+          "keys": ["Ctrl", "Alt", "T"]
+        },
+        {
+          "description": "Save user defaults, current project settings are written to the default file that will be loaded every time you start Blender",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Write file without opening a file window",
+          "keys": ["Ctrl", "W"]
+        },
+        {
+          "description": "Write videoscape file",
+          "keys": ["Alt", "W"]
+        },
+        {
+          "description": "Erase everything except the render buffer, the default scene is reloaded",
+          "keys": ["Ctrl", "X"]
+        },
+        {
+          "description": "Redo",
+          "keys": ["Ctrl", "Y"]
+        },
+        {
+          "description": "Undo",
+          "keys": ["Ctrl", "Z"]
+        },
+        {
+          "description": "Redo",
+          "keys": ["Ctrl", "Shift", "Z"]
+        }
+      ]
+    },
+    {
+      "name": "Object Mode",
+      "shortcuts": [
+        {
+          "description": "All objects in the visible layer are displayed completely, centered in the window",
+          "keys": ["Home"]
+        },
+        {
+          "description": "Select the next object key, if more than one is selected the selection is shifted up cyclically",
+          "keys": ["PgUp"]
+        },
+        {
+          "description": "Add to selection the next object key",
+          "keys": ["Shift", "PgUp"]
+        },
+        {
+          "description": "Select the previous object key, if more than one is selected the selection is shifted up cyclically",
+          "keys": ["PgDn"]
+        },
+        {
+          "description": "Adds to selection the previous object key",
+          "keys": ["Shift", "PgDn"]
+        },
+        {
+          "description": "Select all layers",
+          "keys": ["`"]
+        },
+        {
+          "description": "Revert to the previous layer setting",
+          "keys": ["Shift", "`"]
+        },
+        {
+          "description": "Start or stop edit mode",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Selects or deselects all",
+          "keys": ["A"]
+        },
+        {
+          "description": "Apply size and rotation",
+          "keys": ["Ctrl", "A"]
+        },
+        {
+          "description": "If the active object is automatically duplicated, brings up a menu for actually creating the objects",
+          "keys": ["Ctrl", "Shift", "A"]
+        },
+        {
+          "description": "Brings up the add menu, the toolbox items that start with ADD",
+          "keys": ["Shift", "A"]
+        },
+        {
+          "description": "Border select, draws a rectangle with the left mouse to select objects",
+          "keys": ["B"]
+        },
+        {
+          "description": "Render border, this only works in camera view mode",
+          "keys": ["Shift", "B"]
+        },
+        {
+          "description": "Center view, the position of the 3D cursor becomes the new center of the 3D window",
+          "keys": ["C"]
+        },
+        {
+          "description": "Convert menu, depending on the active object a popup menu is displayed enabling you to convert certain types of ObData",
+          "keys": ["Alt", "C"]
+        },
+        {
+          "description": "Copy menu, this menu copies information from the active object to selected objects",
+          "keys": ["Ctrl", "C"]
+        },
+        {
+          "description": "Center zero view, the 3D cursor is set to zero and the view is changed so all objects can be displayed",
+          "keys": ["Shift", "C"]
+        },
+        {
+          "description": "Display draw mode menu",
+          "keys": ["D"]
+        },
+        {
+          "description": "Add duplicate, the selected objects are duplicated",
+          "keys": ["Shift", "D"]
+        },
+        {
+          "description": "Add linked duplicate, linked duplicates of the selected objects are created",
+          "keys": ["Alt", "D"]
+        },
+        {
+          "description": "Draw the texture image as wire",
+          "keys": ["Ctrl", "D"]
+        },
+        {
+          "description": "Start or stop edit mode",
+          "keys": ["Alt", "E"]
+        },
+        {
+          "description": "If selected object is a mash, toggles face select mode on or off",
+          "keys": ["F"]
+        },
+        {
+          "description": "Sort faces, the faces of the active mesh object are sorted based on the current view in the 3D window",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Grab mode, or translation mode",
+          "keys": ["G"]
+        },
+        {
+          "description": "Clears translations, given in grab mode",
+          "keys": ["Alt", "G"]
+        },
+        {
+          "description": "Group selection",
+          "keys": ["Shift", "G"]
+        },
+        {
+          "description": "Insert object key, a keyposition is inserted in the current frame of all selected objects",
+          "keys": ["I"]
+        },
+        {
+          "description": "Join objects, all selected objects of the same type are added to the active object",
+          "keys": ["Ctrl", "J"]
+        },
+        {
+          "description": "Show keys, the draw key option is turned on for all selected objects",
+          "keys": ["K"]
+        },
+        {
+          "description": "Display popup menu for showing and selecting all keys",
+          "keys": ["Shift", "K"]
+        },
+        {
+          "description": "Makes selected object local, makes library linked objects local for the current scene",
+          "keys": ["L"]
+        },
+        {
+          "description": "Link selected, links some of the active object data to all selected objects",
+          "keys": ["Ctrl", "L"]
+        },
+        {
+          "description": "Select linked, selected all objects somehow linked to the active object",
+          "keys": ["Shift", "L"]
+        },
+        {
+          "description": "Move selected objects to another layer",
+          "keys": ["M"]
+        },
+        {
+          "description": "Mirror menu, it is possible to mirror an object along the X, Y, or Z axis",
+          "keys": ["Ctrl", "M"]
+        },
+        {
+          "description": "Number panel, the location, rotation, and scaling of the active object are displayed and can be modified",
+          "keys": ["N"]
+        },
+        {
+          "description": "Clear origin, the origin is erased for all child objects, which causes them to move ot the exact location of the parent objects",
+          "keys": ["Alt", "O"]
+        },
+        {
+          "description": "If the selected object is a mesh, toggles the subsurf on or off",
+          "keys": ["Shift", "O"]
+        },
+        {
+          "description": "Make selected objects the children of the active object",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Clears parent relation, user is asked if they wish to keep or clear parent-induced transforms",
+          "keys": ["Alt", "P"]
+        },
+        {
+          "description": "Rotate mode, works on selected objects",
+          "keys": ["R"]
+        },
+        {
+          "description": "Clears rotation, the X, Y, and Z rotations of selected objects are set to zero",
+          "keys": ["Alt", "R"]
+        },
+        {
+          "description": "Size mode or scaling mode, works on selected objects",
+          "keys": ["S"]
+        },
+        {
+          "description": "Clears size, the X, Y, and Z dimensions of selected objects are set to 1",
+          "keys": ["Alt", "S"]
+        },
+        {
+          "description": "Opens the snap menu",
+          "keys": ["Shift", "S"]
+        },
+        {
+          "description": "Texture space mode, the position of dimensions of the texture space for the selected objects can be changed in the same manner for grab and size mode",
+          "keys": ["T"]
+        },
+        {
+          "description": "Makes selected objects track the active object",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "Clears old style track, constraint track is removed as all constrains are",
+          "keys": ["Alt", "T"]
+        },
+        {
+          "description": "Makes object single user, the inverse operation of link",
+          "keys": ["U"]
+        },
+        {
+          "description": "Switches in and out of vertex paint mode",
+          "keys": ["V"]
+        },
+        {
+          "description": "Object image aspect, this hotkey sets the X and Y dimensions of the selected objects in relation to the dimensions of the image texture they have",
+          "keys": ["Alt", "V"]
+        },
+        {
+          "description": "Opens the object booleans menu",
+          "keys": ["W"]
+        },
+        {
+          "description": "Deletes selected objects",
+          "keys": ["X"]
+        },
+        {
+          "description": "Toggles solid mode on or off",
+          "keys": ["Z"]
+        },
+        {
+          "description": "Toggles shaded mode on or off",
+          "keys": ["Shift", "Z"]
+        },
+        {
+          "description": "Toggles textured mode on or off",
+          "keys": ["Alt", "Z"]
+        }
+      ]
+    },
+    {
+      "name": "Edit Mode - General",
+      "shortcuts": [
+        {
+          "description": "Start or stop edit mode",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Start or stop edit mode (alternative)",
+          "keys": ["Alt", "E"]
+        },
+        {
+          "description": "Switches between vertex select, edge select, and face select modes",
+          "keys": ["Ctrl", "Tab"]
+        },
+        {
+          "description": "Select or unselect all",
+          "keys": ["A"]
+        },
+        {
+          "description": "Circle select",
+          "keys": ["B", "B"]
+        },
+        {
+          "description": "With vertices selected, this creates a hook object",
+          "keys": ["Ctrl", "H"]
+        },
+        {
+          "description": "Number panel, simpler than the object mode one",
+          "keys": ["N"]
+        },
+        {
+          "description": "Switch in and out of proportional editing",
+          "keys": ["O"]
+        },
+        {
+          "description": "Toggles between smooth and sharp proportional editing",
+          "keys": ["Shift", "O"]
+        },
+        {
+          "description": "Separate, you can choose to make a new object with all selected vertices, edges, faces, and curves",
+          "keys": ["P"]
+        },
+        {
+          "description": "Make vertex parent",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Shear, in edit mode this operation enables you to make selected forms slant",
+          "keys": ["Ctrl", "S"]
+        },
+        {
+          "description": "Undo",
+          "keys": ["U"]
+        },
+        {
+          "description": "Displays specials popup menu",
+          "keys": ["W"]
+        },
+        {
+          "description": "Warp, selected vertices can be bent into curves with this option",
+          "keys": ["Shift", "W"]
+        }
+      ]
+    },
+    {
+      "name": "Edit Mode - Mesh",
+      "shortcuts": [
+        {
+          "description": "Adds to selection all vertices connected by an edge to an already selected vertex",
+          "keys": ["Ctrl", "+"]
+        },
+        {
+          "description": "Removes from selection all vertices of the outer ring of selected vertices",
+          "keys": ["Ctrl", "-"]
+        },
+        {
+          "description": "If using curve deformation, toggles the curve cyclic mode on or off",
+          "keys": ["C"]
+        },
+        {
+          "description": "Extrude selected",
+          "keys": ["E"]
+        },
+        {
+          "description": "Crease subsurf edge",
+          "keys": ["Shift", "E"]
+        },
+        {
+          "description": "Mark LSCM seam",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Make edge or face",
+          "keys": ["F"]
+        },
+        {
+          "description": "Fill selected, all selected vertices that are bound by edges and form a closed polygon are filled with triangular faces",
+          "keys": ["Shift", "F"]
+        },
+        {
+          "description": "Beauty fill, edges of all selected triangular faces are switched so equally sized faces are formed",
+          "keys": ["Alt", "F"]
+        },
+        {
+          "description": "Flip faces, selected triangular faces are paired and common edge of each pair swapped",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Hide selected, all selected vertices and faces are hidden",
+          "keys": ["H"]
+        },
+        {
+          "description": "Hide not selected, all non-selected vertices and faces are hidden",
+          "keys": ["Shift", "H"]
+        },
+        {
+          "description": "Reveal, all hidden vertices and faces are drawn again",
+          "keys": ["Alt", "H"]
+        },
+        {
+          "description": "Join faces, selected triangular faces are joined in pairs and transformed to quads",
+          "keys": ["Alt", "J"]
+        },
+        {
+          "description": "Knife tool menu",
+          "keys": ["K"]
+        },
+        {
+          "description": "Select linked",
+          "keys": ["L"]
+        },
+        {
+          "description": "Deselect linked",
+          "keys": ["Shift", "L"]
+        },
+        {
+          "description": "Select linked selected",
+          "keys": ["Ctrl", "L"]
+        },
+        {
+          "description": "Mirror, opens a popup asking for the axis to mirror",
+          "keys": ["M"]
+        },
+        {
+          "description": "Merges selected vertices as barycentrum or at cursor depending on selection made on popup",
+          "keys": ["Alt", "M"]
+        },
+        {
+          "description": "Calculate normals outside",
+          "keys": ["Ctrl", "N"]
+        },
+        {
+          "description": "Calculate normals inside",
+          "keys": ["Ctrl", "Shift", "N"]
+        },
+        {
+          "description": "Scales each vertex in the direction of its local normal",
+          "keys": ["Alt", "S"]
+        },
+        {
+          "description": "Make triangles, all selected faces are converted to triangles",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "Undo",
+          "keys": ["U"]
+        },
+        {
+          "description": "Redo",
+          "keys": ["Shift", "U"]
+        },
+        {
+          "description": "Undo menu",
+          "keys": ["Alt", "U"]
+        },
+        {
+          "description": "Special menu",
+          "keys": ["W"]
+        },
+        {
+          "description": "Erase selected",
+          "keys": ["X"]
+        },
+        {
+          "description": "Split, this command splits the selected part of a mesh without deleting faces",
+          "keys": ["Y"]
+        }
+      ]
+    },
+    {
+      "name": "Edit Mode - Curve",
+      "shortcuts": [
+        {
+          "description": "Set the selected curves to cyclic or turn cyclic off",
+          "keys": ["C"]
+        },
+        {
+          "description": "Extrude curve",
+          "keys": ["E"]
+        },
+        {
+          "description": "Add segment, a segment is added between two selected vertices at the end of two curves",
+          "keys": ["F"]
+        },
+        {
+          "description": "Toggle handle align or free",
+          "keys": ["H"]
+        },
+        {
+          "description": "Set handle to auto",
+          "keys": ["Shift", "H"]
+        },
+        {
+          "description": "Calculate handles",
+          "keys": ["Ctrl", "H"]
+        },
+        {
+          "description": "Select linked",
+          "keys": ["L"]
+        },
+        {
+          "description": "Deselect linked",
+          "keys": ["Shift", "L"]
+        },
+        {
+          "description": "Mirror selected control points exactly as for vertices in a mesh",
+          "keys": ["M"]
+        },
+        {
+          "description": "Tilt mode, specify an extra axis rotation for each vertex in a 3D curve",
+          "keys": ["T"]
+        },
+        {
+          "description": "Clear tilt",
+          "keys": ["Alt", "T"]
+        },
+        {
+          "description": "Vector handle",
+          "keys": ["V"]
+        },
+        {
+          "description": "The special menu for curves appears",
+          "keys": ["W"]
+        },
+        {
+          "description": "Erase selected",
+          "keys": ["X"]
+        }
+      ]
+    },
+    {
+      "name": "Edit Mode - Surface",
+      "shortcuts": [
+        {
+          "description": "Toggle cyclic menu",
+          "keys": ["C"]
+        },
+        {
+          "description": "Extrude selected",
+          "keys": ["E"]
+        },
+        {
+          "description": "Add segment, a segment is added between two selected vertices at the end of two curves",
+          "keys": ["F"]
+        },
+        {
+          "description": "Select linked",
+          "keys": ["L"]
+        },
+        {
+          "description": "Deselect linked",
+          "keys": ["Shift", "L"]
+        },
+        {
+          "description": "Mirror selected control points exactly as for vertices in a mesh",
+          "keys": ["M"]
+        },
+        {
+          "description": "Select row, starting with the last selected vertex",
+          "keys": ["Shift", "R"]
+        },
+        {
+          "description": "The special menu for surfaces appears",
+          "keys": ["W"]
+        },
+        {
+          "description": "Erase selected",
+          "keys": ["X"]
+        }
+      ]
+    },
+    {
+      "name": "Edit Mode - Font",
+      "shortcuts": [
+        {
+          "description": "Move text cursor one position forward",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Move text cursor to the end of the line",
+          "keys": ["Shift", "Right"]
+        },
+        {
+          "description": "Move text cursor one position backwards",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Move text cursor to the start of the line",
+          "keys": ["Shift", "Left"]
+        },
+        {
+          "description": "Move text cursor one line forward",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Move text cursor to the end of the text",
+          "keys": ["Shift", "Down"]
+        },
+        {
+          "description": "Move text cursor one line back",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Move text cursor to the beginning of the text",
+          "keys": ["Shift", "Up"]
+        },
+        {
+          "description": "Reload original data",
+          "keys": ["Alt", "U"]
+        },
+        {
+          "description": "Paste text",
+          "keys": ["Alt", "V"]
+        }
+      ]
+    },
+    {
+      "name": "VertexPaint",
+      "shortcuts": [
+        {
+          "description": "All vertex colors are erased, they are changed to the current drawing color",
+          "keys": ["Shift", "K"]
+        },
+        {
+          "description": "Undo, press twice redos the undone",
+          "keys": ["U"]
+        },
+        {
+          "description": "Shared vertexcol, the colors of all faces that share vertices are blended",
+          "keys": ["W"]
+        }
+      ]
+    },
+    {
+      "name": "UV Editor",
+      "shortcuts": [
+        {
+          "description": "LSCM unwrapping, launches on the faces visible in the UV editor",
+          "keys": ["E"]
+        },
+        {
+          "description": "Pin selected vertices, they will stay in place on the UV editor when executing an LSCM unwrap",
+          "keys": ["P"]
+        },
+        {
+          "description": "Un-pin selected vertices",
+          "keys": ["Alt", "P"]
+        }
+      ]
+    },
+    {
+      "name": "FaceSelect",
+      "shortcuts": [
+        {
+          "description": "Switches to edit mode",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "With multiple, co-planar faces selected, this will merge them into one FGon so long as they remain co-planar",
+          "keys": ["F"]
+        },
+        {
+          "description": "Select linked UVs",
+          "keys": ["L"]
+        },
+        {
+          "description": "Calls a menu allowing to rotate the UV coordinates or the vertex col",
+          "keys": ["R"]
+        },
+        {
+          "description": "Calls the UV Calculation menu",
+          "keys": ["U"]
+        }
+      ]
+    }
+  ]
+}
