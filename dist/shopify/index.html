@@ -533,7 +533,8 @@
         data: {
             operatingSystem: 'windows',
             searchInput: '',
-            isMacOnly: false
+            isMacOnly: false,
+            isWindowsOnly: false
         },
         created() {
             if(navigator.platform.indexOf('Mac') > -1) {
@@ -543,7 +544,7 @@
         },
         methods: {
             toggleOperatingSystem() {
-                if(this.isMacOnly) {
+                if(this.isMacOnly || this.isWindowsOnly) {
                     return false;
                 }
                 
@@ -556,7 +557,7 @@
                 }
             },
             changeAllKeys(from, to) {
-                if(!this.isMacOnly) {
+                if(!this.isMacOnly && !this.isWindowsOnly) {
                     let keys = document.getElementsByClassName('key');
                     for (let key of keys) {
                         if (key.innerHTML === from) {

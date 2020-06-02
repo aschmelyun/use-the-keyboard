@@ -1,0 +1,156 @@
+{
+  "view": "layout.shortcut",
+  "slug": "zoom-windows",
+  "title": "Zoom for Windows",
+  "meta_title": "Keyboard shortcuts for Zoom on Windows",
+  "meta_description": "A visual cheat-sheet for the 35 keyboard shortcuts found in Zoom for Windows",
+  "reference_link": "https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom",
+  "windows_only": true,
+  "sections": [
+    {
+      "name": "All Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Navigate among Zoom popup windows",
+          "keys": ["F6"]
+        },
+        {
+          "description": "Move focus to Zoom's meeting controls",
+          "keys": ["Ctrl", "Alt", "Shift"]
+        },
+        {
+          "description": "View previous 25 video stream in gallery view",
+          "keys": ["PgUp"]
+        },
+        {
+          "description": "View next 25 video stream in gallery view",
+          "keys": ["PgDn"]
+        },
+        {
+          "description": "Switch to active speaker view in video meeting",
+          "keys": ["Alt", "F1"]
+        },
+        {
+          "description": "Switch to gallery video view in video meeting",
+          "keys": ["Alt", "F2"]
+        },
+        {
+          "description": "Close the current window",
+          "keys": ["Alt", "F4"]
+        },
+        {
+          "description": "Start or stop video",
+          "keys": ["Alt", "V"]
+        },
+        {
+          "description": "Mute or unmute audio",
+          "keys": ["Alt", "A"]
+        },
+        {
+          "description": "Mute or unmute audio for everyone except host, available to the meeting host only",
+          "keys": ["Alt", "M"]
+        },
+        {
+          "description": "Launch share screen window and stop screen share",
+          "keys": ["Alt", "S"]
+        },
+        {
+          "description": "Start or stop new screen share",
+          "keys": ["Alt", "Shift", "S"]
+        },
+        {
+          "description": "Pause or resume screen share",
+          "keys": ["Alt", "T"]
+        },
+        {
+          "description": "Start or stop local recording",
+          "keys": ["Alt", "R"]
+        },
+        {
+          "description": "Start or stop cloud recording",
+          "keys": ["Alt", "C"]
+        },
+        {
+          "description": "Pause or resume recording",
+          "keys": ["Alt", "P"]
+        },
+        {
+          "description": "Switch camera",
+          "keys": ["Alt", "N"]
+        },
+        {
+          "description": "Enter or exit full screen",
+          "keys": ["Alt", "F"]
+        },
+        {
+          "description": "Display or hide in-meeting chat panel",
+          "keys": ["Alt", "H"]
+        },
+        {
+          "description": "Display or hide participants panel",
+          "keys": ["Alt", "U"]
+        },
+        {
+          "description": "Open invite window",
+          "keys": ["Alt", "I"]
+        },
+        {
+          "description": "Raise or lower hand",
+          "keys": ["Alt", "Y"]
+        },
+        {
+          "description": "Gain remote control",
+          "keys": ["Alt", "Shift", "R"]
+        },
+        {
+          "description": "Stop remote control",
+          "keys": ["Alt", "Shift", "G"]
+        },
+        {
+          "description": "Read active speaker name",
+          "keys": ["Ctrl", "2"]
+        },
+        {
+          "description": "Show or hide floating meeting controls",
+          "keys": ["Ctrl", "Alt", "Shift", "H"]
+        },
+        {
+          "description": "Screenshot",
+          "keys": ["Alt", "Shift", "T"]
+        },
+        {
+          "description": "Switch to portrait or landscape view",
+          "keys": ["Alt", "L"]
+        },
+        {
+          "description": "Close current chat session",
+          "keys": ["Ctrl", "W"]
+        },
+        {
+          "description": "Go to previous chat",
+          "keys": ["Ctrl", "Up"]
+        },
+        {
+          "description": "Go to next chat",
+          "keys": ["Ctrl", "Down"]
+        },
+        {
+          "description": "Jump to chat with someone",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "Search",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Move to the next tab",
+          "keys": ["Ctrl", "Tab"]
+        },
+        {
+          "description": "Move to the previous tab",
+          "keys": ["Ctrl", "Shift", "Tab"]
+        }
+      ]
+    }
+  ]
+}

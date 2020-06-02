@@ -1,0 +1,154 @@
+{
+  "view": "layout.shortcut",
+  "slug": "zoom-mac",
+  "title": "Zoom for Mac",
+  "meta_title": "Keyboard shortcuts for Zoom on MacOS",
+  "meta_description": "A visual cheat-sheet for the 32 keyboard shortcuts found in Zoom for Mac",
+  "reference_link": "https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom",
+  "mac_only": true,
+  "sections": [
+    {
+      "name": "Meetings",
+      "shortcuts": [
+        {
+          "description": "Join meeting",
+          "keys": ["Cmd", "J"]
+        },
+        {
+          "description": "Start meeting",
+          "keys": ["Cmd", "Ctrl", "V"]
+        },
+        {
+          "description": "Schedule meeting",
+          "keys": ["Cmd", "J"]
+        },
+        {
+          "description": "Screen share via direct share",
+          "keys": ["Cmd", "Ctrl", "S"]
+        },
+        {
+          "description": "Mute or unmute audio",
+          "keys": ["Cmd", "Shift", "A"]
+        },
+        {
+          "description": "Mute audio for everyone except the host, only available to the host",
+          "keys": ["Cmd", "Ctrl", "U"]
+        },
+        {
+          "description": "Push to talk",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Start or stop video",
+          "keys": ["Cmd", "Shift", "V"]
+        },
+        {
+          "description": "Switch camera",
+          "keys": ["Cmd", "Shift", "N"]
+        },
+        {
+          "description": "Start or stop screen share",
+          "keys": ["Cmd", "Shift", "S"]
+        },
+        {
+          "description": "Pause or resume screen share",
+          "keys": ["Cmd", "Shift", "T"]
+        },
+        {
+          "description": "Start local recording",
+          "keys": ["Cmd", "Shift", "R"]
+        },
+        {
+          "description": "Start cloud recording",
+          "keys": ["Cmd", "Shift", "C"]
+        },
+        {
+          "description": "Pause or resume recording",
+          "keys": ["Cmd", "Shift", "P"]
+        },
+        {
+          "description": "Switch to active speaker view or gallery view, depending on current view",
+          "keys": ["Cmd", "Shift", "W"]
+        },
+        {
+          "description": "View previous 25 participants in gallery view",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "View next 25 participants in gallery view",
+          "keys": ["Ctrl", "N"]
+        },
+        {
+          "description": "Display or hide participants panel",
+          "keys": ["Cmd", "U"]
+        },
+        {
+          "description": "Show or hide in-meeting chat panel",
+          "keys": ["Cmd", "Shift", "H"]
+        },
+        {
+          "description": "Open invite window",
+          "keys": ["Cmd", "I"]
+        },
+        {
+          "description": "Raise hand or lower hand",
+          "keys": ["Opt", "Y"]
+        },
+        {
+          "description": "Gain remote control",
+          "keys": ["Ctrl", "Shift", "R"]
+        },
+        {
+          "description": "Stop remote control",
+          "keys": ["Ctrl", "Shift", "G"]
+        },
+        {
+          "description": "Enter or exit full screen",
+          "keys": ["Cmd", "Shift", "F"]
+        },
+        {
+          "description": "Switch to minimal window",
+          "keys": ["Cmd", "Shift", "M"]
+        },
+        {
+          "description": "Show or hide meeting controls",
+          "keys": ["Ctrl", "Opt", "Cmd", "H"]
+        },
+        {
+          "description": "Prompt to end or leave meeting",
+          "keys": ["Cmd", "W"]
+        }
+      ]
+    },
+    {
+      "name": "Chat Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Jump to chat with someone",
+          "keys": ["Cmd", "K"]
+        },
+        {
+          "description": "Screenshot",
+          "keys": ["Cmd", "T"]
+        }
+      ]
+    },
+    {
+      "name": "General Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Close the current window",
+          "keys": ["Cmd", "W"]
+        },
+        {
+          "description": "Switch to portrait or landscape view, depending on current view",
+          "keys": ["Cmd", "L"]
+        },
+        {
+          "description": "Switch from one tab to the next",
+          "keys": ["Ctrl", "T"]
+        }
+      ]
+    }
+  ]
+}

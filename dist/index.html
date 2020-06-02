@@ -419,6 +419,16 @@
                                         <span>YouTube</span>
                                     </a>
                                 </div>
+                                                                                                                            <div class="col-sm-12 col-md-4 col-lg-3 data-program" data-title="zoom-mac" data-slug="zoom-mac">
+                                    <a class="program" href="/zoom-mac">
+                                        <span>Zoom for Mac</span>
+                                    </a>
+                                </div>
+                                                                                                                            <div class="col-sm-12 col-md-4 col-lg-3 data-program" data-title="zoom-windows" data-slug="zoom-windows">
+                                    <a class="program" href="/zoom-windows">
+                                        <span>Zoom for Windows</span>
+                                    </a>
+                                </div>
                                                     </div>
                     </section>
                 </div>
@@ -435,7 +445,8 @@
         data: {
             operatingSystem: 'windows',
             searchInput: '',
-            isMacOnly: false
+            isMacOnly: false,
+            isWindowsOnly: false
         },
         created() {
             if(navigator.platform.indexOf('Mac') > -1) {
@@ -445,7 +456,7 @@
         },
         methods: {
             toggleOperatingSystem() {
-                if(this.isMacOnly) {
+                if(this.isMacOnly || this.isWindowsOnly) {
                     return false;
                 }
                 
@@ -458,7 +469,7 @@
                 }
             },
             changeAllKeys(from, to) {
-                if(!this.isMacOnly) {
+                if(!this.isMacOnly && !this.isWindowsOnly) {
                     let keys = document.getElementsByClassName('key');
                     for (let key of keys) {
                         if (key.innerHTML === from) {

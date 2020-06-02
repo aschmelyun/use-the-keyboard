@@ -5,7 +5,8 @@
         data: {
             operatingSystem: 'windows',
             searchInput: '',
-            isMacOnly: {!! isset($mac_only) && $mac_only ? 'true' : 'false' !!}
+            isMacOnly: {!! isset($mac_only) && $mac_only ? 'true' : 'false' !!},
+            isWindowsOnly: {!! isset($windows_only) && $windows_only ? 'true' : 'false' !!}
         },
         created() {
             if(navigator.platform.indexOf('Mac') > -1) {
@@ -15,7 +16,7 @@
         },
         methods: {
             toggleOperatingSystem() {
-                if(this.isMacOnly) {
+                if(this.isMacOnly || this.isWindowsOnly) {
                     return false;
                 }
                 
@@ -28,7 +29,7 @@
                 }
             },
             changeAllKeys(from, to) {
-                if(!this.isMacOnly) {
+                if(!this.isMacOnly && !this.isWindowsOnly) {
                     let keys = document.getElementsByClassName('key');
                     for (let key of keys) {
                         if (key.innerHTML === from) {
