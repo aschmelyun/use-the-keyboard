@@ -16,7 +16,7 @@
         "false": "^0.0.4",
         "jquery": "^3.4.1",
         "laravel-mix": "^4.0.16",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "node-cmd": "^3.0.0",
         "on-build-webpack": "^0.1.0",
         "sass": "^1.22.2",
