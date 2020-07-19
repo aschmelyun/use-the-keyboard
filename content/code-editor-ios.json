@@ -1,0 +1,188 @@
+{
+    "view": "layout.shortcut",
+    "slug": "code-editor-ios",
+    "title": "Code Editor for iOS",
+    "meta_title": "Keyboard shortcuts for the Code Editor iOS app",
+    "meta_description": "A visual cheat-sheet for the 43 keyboard shortcuts found in the Code Editor for iOS app. This application is MacOS-only.",
+    "reference_link": "https://library.panic.com/code-editor/shortcut-keys/",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "General Shortcuts",
+            "shortcuts": [
+                {
+                    "description": "Show completions",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Insert indent, depending on the preferences of tabs or spaces",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "New document tab",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "Close tab",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Save",
+                    "keys": ["Cmd", "S"]
+                },
+                {
+                    "description": "Undo",
+                    "keys": ["Cmd", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Cmd", "Shift", "Z"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Cmd", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Cmd", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Cmd", "V"]
+                },
+                {
+                    "description": "Find",
+                    "keys": ["Cmd", "F"]
+                },
+                {
+                    "description": "Find next",
+                    "keys": ["Cmd", "G"]
+                },
+                {
+                    "description": "Find previous",
+                    "keys": ["Cmd", "Shift", "G"]
+                },
+                {
+                    "description": "Toggle comment",
+                    "keys": ["Cmd", "/"]
+                },
+                {
+                    "description": "Indent selection",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Dedent selection",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Move to previous tab",
+                    "keys": ["Cmd", "Shift", "["]
+                },
+                {
+                    "description": "Move to next tab",
+                    "keys": ["Cmd", "Shift", "]"]
+                },
+                {
+                    "description": "Toggle preview, in editor only",
+                    "keys": ["Cmd", "4"]
+                },
+                {
+                    "description": "Clear scrollback, in terminal and playgrounds only",
+                    "keys": ["Cmd", "K"]
+                },
+                {
+                    "description": "Reload, in preview only",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Back, in preview only",
+                    "keys": ["Cmd", "Left"]
+                },
+                {
+                    "description": "Forward, in preview only",
+                    "keys": ["Cmd", "Right"]
+                },
+                {
+                    "description": "Select the previous character",
+                    "keys": ["Shift", "Left"]
+                },
+                {
+                    "description": "Select the next character",
+                    "keys": ["Shift", "Right"]
+                },
+                {
+                    "description": "Move to the beginning of the current line",
+                    "keys": ["Cmd", "Left"]
+                },
+                {
+                    "description": "Move to the end of the current line",
+                    "keys": ["Cmd", "Right"]
+                },
+                {
+                    "description": "Select to the beginning of the current line",
+                    "keys": ["Cmd", "Shift", "Left"]
+                },
+                {
+                    "description": "Select to the end of the current line",
+                    "keys": ["Cmd", "Shift", "Right"]
+                },
+                {
+                    "description": "Move to the beginning of the current word",
+                    "keys": ["Opt", "Left"]
+                },
+                {
+                    "description": "Move to the end of the current word",
+                    "keys": ["Opt", "Right"]
+                },
+                {
+                    "description": "Select to the beginning of the current word",
+                    "keys": ["Opt", "Shift", "Left"]
+                },
+                {
+                    "description": "Select to the end of the current word",
+                    "keys": ["Opt", "Shift", "Right"]
+                },
+                {
+                    "description": "Delete to the beginning of the current line",
+                    "keys": ["Cmd", "Del"]
+                },
+                {
+                    "description": "Delete to the beginning of the current word",
+                    "keys": ["Cmd", "Opt", "Del"]
+                },
+                {
+                    "description": "Delete to the end of the current line",
+                    "keys": ["Cmd", "Del (forward)"]
+                },
+                {
+                    "description": "Delete to the end of the current word",
+                    "keys": ["Cmd", "Opt", "Del (forward)"]
+                },
+                {
+                    "description": "Move to the beginning of the current line",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Select to the beginning of the current line",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Move to the end of the current line",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Select to the end of the current line",
+                    "keys": ["Ctrl", "Shift", "E"]
+                },
+                {
+                    "description": "Delete to the end of the current line",
+                    "keys": ["Ctrl", "K"]
+                }
+            ]
+        }
+    ]
+}
