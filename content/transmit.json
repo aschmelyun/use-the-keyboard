@@ -1,0 +1,299 @@
+{
+    "view": "layout.shortcut",
+    "slug": "transmit",
+    "title": "Transmit",
+    "meta_title": "Keyboard shortcuts for the Transmit app",
+    "meta_description": "A visual cheat-sheet for the 62 keyboard shortcuts found in Transmit. This application is MacOS-only.",
+    "reference_link": "https://library.panic.com/transmit/transmit5/shortcuts/",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Transmit Menu",
+            "shortcuts": [
+                {
+                    "description": "Preferences...",
+                    "keys": ["Cmd", ","]
+                },
+                {
+                    "description": "Hide Transmit",
+                    "keys": ["Cmd", "H"]
+                },
+                {
+                    "description": "Hide others",
+                    "keys": ["Cmd", "Opt", "H"]
+                },
+                {
+                    "description": "Quit Transmit",
+                    "keys": ["Cmd", "Q"]
+                },
+                {
+                    "description": "Quit and close all windows",
+                    "keys": ["Cmd", "Opt", "Q"]
+                }
+            ]
+        },
+        {
+            "name": "File Menu",
+            "shortcuts": [
+                {
+                    "description": "New window",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "New tab",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "New folder",
+                    "keys": ["Cmd", "Shift", "N"]
+                },
+                {
+                    "description": "New file",
+                    "keys": ["Cmd", "Opt", "N"]
+                },
+                {
+                    "description": "Close tab",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Close window",
+                    "keys": ["Cmd", "Shift", "W"]
+                },
+                {
+                    "description": "Close all",
+                    "keys": ["Cmd", "Opt", "W"]
+                },
+                {
+                    "description": "Disconnect",
+                    "keys": ["Cmd", "E"]
+                },
+                {
+                    "description": "Open",
+                    "keys": ["Cmd", "O"]
+                },
+                {
+                    "description": "Save",
+                    "keys": ["Cmd", "S"]
+                },
+                {
+                    "description": "Preview in browser",
+                    "keys": ["Cmd", "B"]
+                },
+                {
+                    "description": "Get info",
+                    "keys": ["Cmd", "I"]
+                },
+                {
+                    "description": "Show inspector",
+                    "keys": ["Cmd", "Opt", "I"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Cmd", "D"]
+                },
+                {
+                    "description": "Quick look at selected-file",
+                    "keys": ["Cmd", "Y"]
+                },
+                {
+                    "description": "Print...",
+                    "keys": ["Cmd", "P"]
+                }
+            ]
+        },
+        {
+            "name": "Edit Menu",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Cmd", "Z"]
+                },
+                {
+                    "description": "Redo",
+                    "keys": ["Cmd", "Shift", "Z"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Cmd", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Cmd", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Cmd", "V"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "Jump to selection",
+                    "keys": ["Cmd", "J"]
+                },
+                {
+                    "description": "Show spelling and grammar",
+                    "keys": ["Cmd", ":"]
+                },
+                {
+                    "description": "Check spelling",
+                    "keys": ["Cmd", ";"]
+                }
+            ]
+        },
+        {
+            "name": "View Menu",
+            "shortcuts": [
+                {
+                    "description": "Show transfers",
+                    "keys": ["Cmd", "L"]
+                },
+                {
+                    "description": "Show transfers window",
+                    "keys": ["Cmd", "Opt", "L"]
+                },
+                {
+                    "description": "View as thumbnails",
+                    "keys": ["Cmd", "1"]
+                },
+                {
+                    "description": "View as list",
+                    "keys": ["Cmd", "2"]
+                },
+                {
+                    "description": "View as columns",
+                    "keys": ["Cmd", "3"]
+                },
+                {
+                    "description": "View as cover flow",
+                    "keys": ["Cmd", "4"]
+                },
+                {
+                    "description": "Refresh",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Show invisible files",
+                    "keys": ["Cmd", "Shift", "B"]
+                },
+                {
+                    "description": "Hide places bar",
+                    "keys": ["Cmd", "Shift", "S"]
+                },
+                {
+                    "description": "Show view options",
+                    "keys": ["Cmd", "Shift", "J"]
+                },
+                {
+                    "description": "Enter full screen",
+                    "keys": ["Cmd", "Ctrl", "F"]
+                },
+                {
+                    "description": "Focus on local",
+                    "keys": ["Cmd", "Opt", "Left"]
+                },
+                {
+                    "description": "Focus on remote",
+                    "keys": ["Cmd", "Opt", "Right"]
+                }
+            ]
+        },
+        {
+            "name": "Go Menu",
+            "shortcuts": [
+                {
+                    "description": "Back",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Enclosing folder",
+                    "keys": ["Cmd", "Up"]
+                },
+                {
+                    "description": "Go to folder...",
+                    "keys": ["Cmd", "Opt", "G"]
+                },
+                {
+                    "description": "Open in terminal",
+                    "keys": ["Cmd", "Opt", "T"]
+                },
+                {
+                    "description": "Link folder navigation",
+                    "keys": ["Cmd", "Shift", "L"]
+                },
+                {
+                    "description": "Connect to last used protocol",
+                    "keys": ["Cmd", "K"]
+                }
+            ]
+        },
+        {
+            "name": "Transfer Menu",
+            "shortcuts": [
+                {
+                    "description": "Transfer selected items",
+                    "keys": ["Cmd", "Shift", "R"]
+                },
+                {
+                    "description": "Transfer selected items without rules",
+                    "keys": ["Cmd", "Opt", "Shift", "R"]
+                },
+                {
+                    "description": "Cancel",
+                    "keys": ["Cmd", "."]
+                }
+            ]
+        },
+        {
+            "name": "Servers Menu",
+            "shortcuts": [
+                {
+                    "description": "Add new server",
+                    "keys": ["Cmd", "Shift", "A"]
+                },
+                {
+                    "description": "Show quick connect",
+                    "keys": ["Cmd", "Shift", "F"]
+                },
+                {
+                    "description": "Edit server",
+                    "keys": ["Cmd", "Shift", "I"]
+                }
+            ]
+        },
+        {
+            "name": "Window Menu",
+            "shortcuts": [
+                {
+                    "description": "Minimize",
+                    "keys": ["Cmd", "M"]
+                },
+                {
+                    "description": "Minimize all",
+                    "keys": ["Cmd", "Opt", "M"]
+                },
+                {
+                    "description": "Select next tab",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Select previous tab",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Transcript",
+                    "keys": ["Cmd", "Ctrl", "T"]
+                },
+                {
+                    "description": "Show inspector",
+                    "keys": ["Cmd", "Opt", "I"]
+                }
+            ]
+        }
+    ]
+}
