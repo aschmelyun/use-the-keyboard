@@ -1,0 +1,135 @@
+{
+  "view": "layout.shortcut",
+  "slug": "filezilla",
+  "title": "FileZilla",
+  "meta_title": "Keyboard shortcuts for FileZilla",
+  "meta_description": "A visual cheat-sheet for the 30 keyboard shortcuts found on the FileZilla program",
+  "reference_link": "https://wiki.filezilla-project.org/Keyboard_shortcuts",
+  "sections": [
+    {
+      "name": "General Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Rename selected file",
+          "keys": ["F2"]
+        },
+        {
+          "description": "Search remote files",
+          "keys": ["F3"]
+        },
+        {
+          "description": "Refreshes local and remote file and folder views",
+          "keys": ["F5"]
+        },
+        {
+          "description": "Switches to the next view",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Transfers the currently selected item to an item of the same name in the other pane",
+          "keys": ["Alt", "Down"]
+        },
+        {
+          "description": "Navigates up one line in a tree view, navigates to parent folder in file view",
+          "keys": ["Alt", "Up"]
+        },
+        {
+          "description": "Add bookmark",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Manage bookmarks",
+          "keys": ["Ctrl", "Shift", "B"]
+        },
+        {
+          "description": "Stops the current operation",
+          "keys": ["Ctrl", "C"]
+        },
+        {
+          "description": "Disconnects from server",
+          "keys": ["Ctrl", "D"]
+        },
+        {
+          "description": "Show files currently being edited",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Directory listing filters...",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Manual transfer",
+          "keys": ["Ctrl", "M"]
+        },
+        {
+          "description": "Create a new directory",
+          "keys": ["Ctrl", "Shift", "N"]
+        },
+        {
+          "description": "Enable directory comparison",
+          "keys": ["Ctrl", "O"]
+        },
+        {
+          "description": "Process queue",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Exit",
+          "keys": ["Ctrl", "Q"]
+        },
+        {
+          "description": "Reconnects to server",
+          "keys": ["Ctrl", "R"]
+        },
+        {
+          "description": "Opens the site manager",
+          "keys": ["Ctrl", "S"]
+        },
+        {
+          "description": "Opens a new tab",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "Preserve the timestamps of transferred files",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Toggle synchronized browsing",
+          "keys": ["Ctrl", "Y"]
+        },
+        {
+          "description": "Close tab",
+          "keys": ["Ctrl", "W"]
+        },
+        {
+          "description": "Transfer the currently selected item if it is a file, or expands if it is a directory",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Switches to the next tab",
+          "keys": ["Ctrl", "PgUp"]
+        },
+        {
+          "description": "Switches to the previous tab",
+          "keys": ["Ctrl", "PgDn"]
+        },
+        {
+          "description": "Moves up one item in the current view",
+          "keys": ["Up"]
+        },
+        {
+          "description": "Moves down one item in the current view",
+          "keys": ["Down"]
+        },
+        {
+          "description": "Nothing in a files view, up on level in a tree view",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Down one level in a tree view if there are subfolders, nothing if there are none",
+          "keys": ["Right"]
+        }
+      ]
+    }
+  ]
+}
