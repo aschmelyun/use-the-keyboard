@@ -1,0 +1,143 @@
+{
+  "view": "layout.shortcut",
+  "slug": "putty",
+  "title": "PuTTy",
+  "meta_title": "Keyboard shortcuts for PuTTy",
+  "meta_description": "A visual cheat-sheet for the 32 keyboard shortcuts found on the PuTTy app",
+  "reference_link": "http://rizwanansari.net/putty-shell-keyboard-shortcuts/",
+  "sections": [
+    {
+      "name": "General Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Open context menu",
+          "keys": ["Ctrl", "(right click)"]
+        },
+        {
+          "description": "Jump to the start of the line",
+          "keys": ["Ctrl", "A"]
+        },
+        {
+          "description": "Move back a character",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Terminal the command",
+          "keys": ["Ctrl", "C"]
+        },
+        {
+          "description": "Delete from under the cursor",
+          "keys": ["Ctrl", "D"]
+        },
+        {
+          "description": "Jump to the end of the line",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Move forward a character",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Delete to end-of-line",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Clear the screen",
+          "keys": ["Ctrl", "L"]
+        },
+        {
+          "description": "Search the history backwards",
+          "keys": ["Ctrl", "R"]
+        },
+        {
+          "description": "Search the history backwards with multi occurrence",
+          "keys": ["Ctrl", "Shift", "R"]
+        },
+        {
+          "description": "Delete backward from cursor",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Move between end-of-line and current cursor position",
+          "keys": ["Ctrl", "X", "X"]
+        },
+        {
+          "description": "Show possible hostname completions",
+          "keys": ["Ctrl", "X", "@"]
+        },
+        {
+          "description": "Suspend or stop the command",
+          "keys": ["Ctrl", "Z"]
+        },
+        {
+          "description": "Move to the first line in the history",
+          "keys": ["Alt", "Left"]
+        },
+        {
+          "description": "Move to the last line in the history",
+          "keys": ["Alt", "Right"]
+        },
+        {
+          "description": "Show current completion list",
+          "keys": ["Alt", "?"]
+        },
+        {
+          "description": "Insert all possible completions",
+          "keys": ["Alt", "*"]
+        },
+        {
+          "description": "Attempt to complete filename",
+          "keys": ["Alt", "/"]
+        },
+        {
+          "description": "Yank last argument to previous command",
+          "keys": ["Alt", "."]
+        },
+        {
+          "description": "Move backward",
+          "keys": ["Alt", "B"]
+        },
+        {
+          "description": "Capitalize the word",
+          "keys": ["Alt", "C"]
+        },
+        {
+          "description": "Delete word",
+          "keys": ["Alt", "D"]
+        },
+        {
+          "description": "Move forward",
+          "keys": ["Alt", "F"]
+        },
+        {
+          "description": "Make word lowercase",
+          "keys": ["Alt", "L"]
+        },
+        {
+          "description": "Search the history forwards non-incremental",
+          "keys": ["Alt", "N"]
+        },
+        {
+          "description": "Search the history backwards non-incremental",
+          "keys": ["Alt", "P"]
+        },
+        {
+          "description": "Recall command",
+          "keys": ["Alt", "R"]
+        },
+        {
+          "description": "Move words around",
+          "keys": ["Alt", "T"]
+        },
+        {
+          "description": "Make word uppercase",
+          "keys": ["Alt", "U"]
+        },
+        {
+          "description": "Delete backwards from the cursor",
+          "keys": ["Alt", "Backspace"]
+        }
+      ]
+    }
+  ]
+}
