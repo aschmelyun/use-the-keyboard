@@ -1,0 +1,245 @@
+{
+    "view": "layout.shortcut",
+    "slug": "unity-3d",
+    "title": "Unity 3D",
+    "meta_title": "Keyboard shortcuts for Unity 3D",
+    "meta_description": "A visual cheat-sheet for the 50 keyboard shortcuts found in Unity 3D",
+    "reference_link": "https://docs.unity3d.com/2018.1/Documentation/Manual/UnityHotkeys.html",
+    "sections": [
+        {
+            "name": "Tools",
+            "shortcuts": [
+                {
+                    "description": "Pan",
+                    "keys": ["Q"]
+                },
+                {
+                    "description": "Move",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Rotate",
+                    "keys": ["E"]
+                },
+                {
+                    "description": "Scale",
+                    "keys": ["R"]
+                },
+                {
+                    "description": "Rect tool",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Pivot mode toggle",
+                    "keys": ["Z"]
+                },
+                {
+                    "description": "Pivot rotation toggle",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Vertex snap",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Snap",
+                    "keys": ["Ctrl", "(left click)"]
+                }
+            ]
+        },
+        {
+            "name": "GameObject",
+            "shortcuts": [
+                {
+                    "description": "New empty game object",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "New empty child to selected game object",
+                    "keys": ["Alt", "Shift", "N"]
+                },
+                {
+                    "description": "Move to view",
+                    "keys": ["Ctrl", "Alt", "F"]
+                },
+                {
+                    "description": "Align with view",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Locks the scene view camera to the selected GameObject",
+                    "keys": ["Shift", "F"]
+                }
+            ]
+        },
+        {
+            "name": "Window",
+            "shortcuts": [
+                {
+                    "description": "Scene",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Game",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Inspector",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Hierarchy",
+                    "keys": ["Ctrl", "4"]
+                },
+                {
+                    "description": "Project",
+                    "keys": ["Ctrl", "5"]
+                },
+                {
+                    "description": "Animation",
+                    "keys": ["Ctrl", "6"]
+                },
+                {
+                    "description": "Profiler",
+                    "keys": ["Ctrl", "7"]
+                },
+                {
+                    "description": "Asset store",
+                    "keys": ["Ctrl", "9"]
+                },
+                {
+                    "description": "Version control",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Console",
+                    "keys": ["Ctrl", "Shift", "C"]
+                }
+            ]
+        },
+        {
+            "name": "Edit",
+            "shortcuts": [
+                {
+                    "description": "Undo",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo (MacOS)",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Redo (Windows)",
+                    "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Cut",
+                    "keys": ["Ctrl", "X"]
+                },
+                {
+                    "description": "Copy",
+                    "keys": ["Ctrl", "C"]
+                },
+                {
+                    "description": "Paste",
+                    "keys": ["Ctrl", "V"]
+                },
+                {
+                    "description": "Duplicate",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Delete",
+                    "keys": ["Shift", "Del"]
+                },
+                {
+                    "description": "Frame center selection",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Find",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Select all",
+                    "keys": ["Ctrl", "A"]
+                },
+                {
+                    "description": "Play",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Pause",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Step",
+                    "keys": ["Ctrl", "Alt", "P"]
+                }
+            ]
+        },
+        {
+            "name": "Selection",
+            "shortcuts": [
+                {
+                    "description": "Load selection 1-9",
+                    "keys": ["Ctrl", "Shift", "1-9"]
+                },
+                {
+                    "description": "Save selection 1-9",
+                    "keys": ["Ctrl", "Alt", "1-9"]
+                }
+            ]
+        },
+        {
+            "name": "Assets",
+            "shortcuts": [
+                {
+                    "description": "Refresh",
+                    "keys": ["Ctrl", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Animation",
+            "shortcuts": [
+                {
+                    "description": "First keyframe",
+                    "keys": ["Shift", ","]
+                },
+                {
+                    "description": "Key modified",
+                    "keys": ["Shift", "K"]
+                },
+                {
+                    "description": "Key selected",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Last keyframe",
+                    "keys": ["Shift", "."]
+                },
+                {
+                    "description": "Next frame",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Next keyframe",
+                    "keys": ["Alt", "."]
+                },
+                {
+                    "description": "Play animation",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Previous frame",
+                    "keys": [","]
+                },
+                {
+                    "description": "Previous keyframe",
+                    "keys": ["Alt", ","]
+                }
+            ]
+        }
+    ]
+}
