@@ -1,0 +1,316 @@
+{
+    "view": "layout.shortcut",
+    "slug": "notepad-plus-plus",
+    "title": "Notepad++",
+    "meta_title": "Keyboard shortcuts for Notepad++",
+    "meta_description": "A visual cheat-sheet for the 74 keyboard shortcuts found in Notepad++",
+    "reference_link": "https://community.notepad-plus-plus.org/topic/12576/list-of-all-assigned-keyboard-shortcuts/34",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "New file",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Open file",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Reload from disk",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Save",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Save as",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Save all",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Close",
+                    "keys": ["Ctrl", "W"]
+                },
+                {
+                    "description": "Close all",
+                    "keys": ["Ctrl", "Shift", "W"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Restore recently closed file",
+                    "keys": ["Ctrl", "Shift", "T"]
+                }
+            ]
+        },
+        {
+            "name": "Editor",
+            "shortcuts": [
+                {
+                    "description": "Uppercase",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Lowercase",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Proper case",
+                    "keys": ["Alt", "U"]
+                },
+                {
+                    "description": "Proper case, blend",
+                    "keys": ["Alt", "Shift", "U"]
+                },
+                {
+                    "description": "Sentence case",
+                    "keys": ["Ctrl", "Alt", "U"]
+                },
+                {
+                    "description": "Sentence case, blend",
+                    "keys": ["Ctrl", "Alt", "Shift", "U"]
+                },
+                {
+                    "description": "Split lines",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Join lines",
+                    "keys": ["Ctrl", "J"]
+                },
+                {
+                    "description": "Move up current line",
+                    "keys": ["Ctrl", "Shift", "Up"]
+                },
+                {
+                    "description": "Move down current line",
+                    "keys": ["Ctrl", "Shift", "Down"]
+                },
+                {
+                    "description": "Insert blank line above current",
+                    "keys": ["Ctrl", "Alt", "Enter"]
+                },
+                {
+                    "description": "Insert blank line below current",
+                    "keys": ["Ctrl", "Alt", "Shift", "Enter"]
+                },
+                {
+                    "description": "Toggle single line comment",
+                    "keys": ["Ctrl", "Q"]
+                },
+                {
+                    "description": "Single line comment",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Single line uncomment",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Block comment",
+                    "keys": ["Ctrl", "Shift", "Q"]
+                },
+                {
+                    "description": "Function completion",
+                    "keys": ["Ctrl", "Space"]
+                },
+                {
+                    "description": "Path completion",
+                    "keys": ["Ctrl", "Alt", "Space"]
+                },
+                {
+                    "description": "Word completion",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Function parameters hint",
+                    "keys": ["Ctrl", "Shift", "Space"]
+                },
+                {
+                    "description": "Column editor",
+                    "keys": ["Alt", "C"]
+                },
+                {
+                    "description": "Find",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Find in files",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Find next",
+                    "keys": ["F3"]
+                },
+                {
+                    "description": "Find previous",
+                    "keys": ["Shift", "F3"]
+                },
+                {
+                    "description": "Select and find next",
+                    "keys": ["Ctrl", "F3"]
+                },
+                {
+                    "description": "Select and find previous",
+                    "keys": ["Ctrl", "Shift", "F3"]
+                },
+                {
+                    "description": "Find next, volatile",
+                    "keys": ["Ctrl", "Alt", "F3"]
+                },
+                {
+                    "description": "Find previous, volatile",
+                    "keys": ["Ctrl", "Alt", "Shift", "F3"]
+                },
+                {
+                    "description": "Replace",
+                    "keys": ["Ctrl", "H"]
+                },
+                {
+                    "description": "Incremental search",
+                    "keys": ["Ctrl", "Alt", "I"]
+                },
+                {
+                    "description": "Search results window",
+                    "keys": ["F7"]
+                },
+                {
+                    "description": "Previous search result",
+                    "keys": ["Shift", "F4"]
+                },
+                {
+                    "description": "Next search result",
+                    "keys": ["F4"]
+                },
+                {
+                    "description": "Go to",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Go to matching brace",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Select all between matching braces",
+                    "keys": ["Ctrl", "Alt", "B"]
+                },
+                {
+                    "description": "Select style 1-5",
+                    "keys": ["Ctrl", "Shift", "1-5"]
+                },
+                {
+                    "description": "Find style",
+                    "keys": ["Ctrl", "Shift", "0"]
+                },
+                {
+                    "description": "Toggle bookmark",
+                    "keys": ["Ctrl", "F2"]
+                },
+                {
+                    "description": "Next bookmark",
+                    "keys": ["F2"]
+                },
+                {
+                    "description": "Previous bookmark",
+                    "keys": ["Shift", "F2"]
+                },
+                {
+                    "description": "Toggle full screen mode",
+                    "keys": ["F11"]
+                },
+                {
+                    "description": "Post-it",
+                    "keys": ["F12"]
+                },
+                {
+                    "description": "Go to tab 1-9",
+                    "keys": ["Ctrl", "1-9"]
+                },
+                {
+                    "description": "Next tab",
+                    "keys": ["Ctrl", "PgDn"]
+                },
+                {
+                    "description": "Previous tab",
+                    "keys": ["Ctrl", "PgUp"]
+                },
+                {
+                    "description": "Move tab forward",
+                    "keys": ["Ctrl", "Shift", "PgDn"]
+                },
+                {
+                    "description": "Move tab backward",
+                    "keys": ["Ctrl", "Shift", "PgUp"]
+                },
+                {
+                    "description": "Switch to previous document",
+                    "keys": ["Ctrl", "Shift", "Tab"]
+                },
+                {
+                    "description": "Switch to next document",
+                    "keys": ["Ctrl", "Tab"]
+                },
+                {
+                    "description": "Hide lines",
+                    "keys": ["Alt", "H"]
+                },
+                {
+                    "description": "Focus on another view",
+                    "keys": ["F8"]
+                },
+                {
+                    "description": "Fold all",
+                    "keys": ["Alt", "0"]
+                },
+                {
+                    "description": "Unfold all",
+                    "keys": ["Alt", "Shift", "0"]
+                },
+                {
+                    "description": "Collapse current level",
+                    "keys": ["Ctrl", "Alt", "F"]
+                },
+                {
+                    "description": "Un-collapse current level",
+                    "keys": ["Ctrl", "Alt", "Shift", "F"]
+                },
+                {
+                    "description": "Text direction right-to-left",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Text direction left-to-right",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Toggle macro record",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Playback",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Run",
+                    "keys": ["F5"]
+                },
+                {
+                    "description": "About Notepad++",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Trim trailing space and save",
+                    "keys": ["Alt", "Shift", "S"]
+                }
+            ]
+        }
+    ]
+}
