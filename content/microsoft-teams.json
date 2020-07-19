@@ -1,0 +1,182 @@
+{
+    "view": "layout.shortcut",
+    "slug": "microsoft-teams",
+    "title": "Microsoft Teams",
+    "meta_title": "Keyboard shortcuts for Microsoft Teams",
+    "meta_description": "A visual cheat-sheet for the 38 keyboard shortcuts found in Microsoft Teams",
+    "reference_link": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Show keyboard shortcuts",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Go to search",
+                    "keys": ["Ctrl", "E"]
+                },
+                {
+                    "description": "Show commands",
+                    "keys": ["Ctrl", "/"]
+                },
+                {
+                    "description": "Goto",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Start new chat",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Open settings",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Open help",
+                    "keys": ["F1"]
+                },
+                {
+                    "description": "Close",
+                    "keys": ["Esc"]
+                },
+                {
+                    "description": "Zoom in",
+                    "keys": ["Ctrl", "="]
+                },
+                {
+                    "description": "Zoom out",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Return to default zoom",
+                    "keys": ["Ctrl", "0"]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Open activity",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Open chat",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Open teams",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Open calendar",
+                    "keys": ["Ctrl", "4"]
+                },
+                {
+                    "description": "Open calls",
+                    "keys": ["Ctrl", "5"]
+                },
+                {
+                    "description": "Open files",
+                    "keys": ["Ctrl", "6"]
+                },
+                {
+                    "description": "Go to previous list item",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "Go to next list item",
+                    "keys": ["Alt", "Down"]
+                },
+                {
+                    "description": "Move selected team up",
+                    "keys": ["Ctrl", "Shift", "Up"]
+                },
+                {
+                    "description": "Move selected team down",
+                    "keys": ["Ctrl", "Shift", "Down"]
+                },
+                {
+                    "description": "Go to the previous section",
+                    "keys": ["Ctrl", "Shift", "F6"]
+                },
+                {
+                    "description": "Go to the next section",
+                    "keys": ["Ctrl", "F6"]
+                }
+            ]
+        },
+        {
+            "name": "Messaging",
+            "shortcuts": [
+                {
+                    "description": "Go to compose box",
+                    "keys": ["Alt", "Shift", "C"]
+                },
+                {
+                    "description": "Expand compose box",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Send, in the expanded compose box",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Attach a file",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Start a new line",
+                    "keys": ["Shift", "Enter"]
+                },
+                {
+                    "description": "Reply to thread",
+                    "keys": ["Alt", "Shift", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Meetings and Calls",
+            "shortcuts": [
+                {
+                    "description": "Accept video call",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Accept audio call",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Decline call",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Start audio call",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Start video call",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Toggle mute",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Toggle video",
+                    "keys": ["Ctrl", "Shift", "O"]
+                },
+                {
+                    "description": "Toggle fullscreen",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Go to sharing toolbar",
+                    "keys": ["Ctrl", "Shift", "Space"]
+                }
+            ]
+        }
+    ]
+}
