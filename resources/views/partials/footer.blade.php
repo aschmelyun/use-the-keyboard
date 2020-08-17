@@ -1,4 +1,3 @@
-<script type="text/javascript" src="{{ $mix['/assets/js/app.js'] }}"></script>
 <script>
     var app = new Vue({
         el: '#app',

@@ -41,4 +41,6 @@
             type="text/css"
         />
     </noscript>
+
+    <script defer src="{{ $mix['/assets/js/app.js'] }}"></script>
 </head>
