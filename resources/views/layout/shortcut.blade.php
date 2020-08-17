@@ -19,7 +19,7 @@
             <div class="content-wrapper">
                 @foreach($sections as $section)
                     <section class="shortcut-section" id="{{ str_replace(' ', '', $section->name) }}">
-                        <h3 class="title-section"><span>{{ $section->name }}</span></h3>
+                        <h2 class="title-section"><span>{{ $section->name }}</span></h2>
                         <div class="shortcuts">
                             @foreach($section->shortcuts as $shortcut)
                                 <div class="shortcut">
