@@ -7,7 +7,7 @@
             <a href="/"><img src="/assets/img/usethekeyboard-logo.svg" alt="UseTheKeyboard.com logo" width="106" height="32"></a>
         </div>
     </header>
-    <div class="wrapper" id="app">
+    <div class="wrapper" id="app" data-mac-only="false" data-windows-only="false">
         <div class="container intro">
             <div class="row">
                 <div class="hidden-sm-down col-md-5">

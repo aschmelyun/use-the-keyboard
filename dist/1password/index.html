@@ -44,10 +44,10 @@
         />
     </noscript>
 
-    <script defer src="/assets/js/app.js?id=1f09f2b38cf789975f97"></script>
+    <script defer src="/assets/js/app.js?id=4c563484569b2e3ed222"></script>
 </head>
 <body class="">
-    <div class="wrapper" id="app">
+    <div class="wrapper" id="app" data-mac-only="false" data-windows-only="false">
         <aside class="header">
             <div class="logo">
                 <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" alt="UseTheKeyboard.com logo" width="106" height="32"></a>
@@ -312,62 +312,5 @@
             <div class="credit">Built by <a href="https://twitter.com/aschmelyun">&commat;aschmelyun</a> &mdash; <a href="https://github.com/aschmelyun/use-the-keyboard/issues/new?labels=new%20page">Make a request</a><br>Train your brain for these shortcuts using <a href="https://mouseless.app/?ref=usethekeyboard">Mouseless</a></div>
         </footer>
     </div>
-    <script>
-    var app = new Vue({
-        el: '#app',
-        data: {
-            operatingSystem: 'windows',
-            searchInput: '',
-            isMacOnly: false,
-            isWindowsOnly: false
-        },
-        created() {
-            if(navigator.platform.indexOf('Mac') > -1) {
-                this.operatingSystem = 'mac';
-                this.changeAllKeys('Ctrl', 'Cmd');
-            }
-        },
-        methods: {
-            toggleOperatingSystem() {
-                if(this.isMacOnly || this.isWindowsOnly) {
-                    return false;
-                }
-                
-                if(this.operatingSystem === 'windows') {
-                    this.operatingSystem = 'mac';
-                    this.changeAllKeys('Ctrl', 'Cmd');
-                } else {
-                    this.operatingSystem = 'windows';
-                    this.changeAllKeys('Cmd', 'Ctrl');
-                }
-            },
-            changeAllKeys(from, to) {
-                if(!this.isMacOnly && !this.isWindowsOnly) {
-                    let keys = document.getElementsByClassName('key');
-                    for (let key of keys) {
-                        if (key.innerHTML === from) {
-                            key.innerHTML = to;
-                        }
-                    }
-                }
-            },
-            showPotentialResults(search) {
-                let programs = document.getElementsByClassName('data-program');
-                for(let program of programs) {
-                    program.style.display = 'block';
-                    if(!program.dataset.slug.startsWith(search.toLowerCase()) && !program.dataset.title.toLowerCase().startsWith(search.toLowerCase())) {
-                        program.style.display = 'none';
-                    }
-                }
-            }
-        },
-        watch: {
-            searchInput(val) {
-                this.showPotentialResults(val);
-            }
-        }
-    });
-</script>
-
-</body>
+    </body>
 </html>

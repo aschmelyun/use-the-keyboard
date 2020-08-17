@@ -2,7 +2,7 @@
 <html lang="en">
 @include('partials.head')
 <body class="{{ $bodyClasses ?? '' }}">
-    <div class="wrapper" id="app">
+    <div class="wrapper" id="app" data-mac-only="{!! isset($mac_only) && $mac_only ? 'true' : 'false' !!}" data-windows-only="{!! isset($windows_only) && $windows_only ? 'true' : 'false' !!}">
         <aside class="header">
             <div class="logo">
                 <a href="/" class="img"><img src="/assets/img/usethekeyboard-logo.svg" alt="UseTheKeyboard.com logo" width="106" height="32"></a>
