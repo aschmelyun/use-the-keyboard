@@ -28,5 +28,17 @@
     <meta name="theme-color" content="#b53471">
 
     <link rel="stylesheet" type="text/css" href="{{ $mix['/assets/css/app.css']  }}">
-    <link href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700" rel="stylesheet">
+    <link
+        rel="preload"
+        href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700&display=swap"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript>
+        <link
+            href="https://fonts.googleapis.com/css?family=Nunito:700|Open+Sans:400,600,700&display=swap"
+            rel="stylesheet"
+            type="text/css"
+        />
+    </noscript>
 </head>
