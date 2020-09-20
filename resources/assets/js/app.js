@@ -18,6 +18,7 @@ var app = new Vue({
         if(navigator.platform.indexOf('Mac') > -1) {
             this.operatingSystem = 'mac';
             this.changeAllKeys('Ctrl', 'Cmd');
+            this.displayMacKeys(true);
         }
     },
     methods: {
@@ -29,9 +30,11 @@ var app = new Vue({
             if(this.operatingSystem === 'windows') {
                 this.operatingSystem = 'mac';
                 this.changeAllKeys('Ctrl', 'Cmd');
+                this.displayMacKeys(true);
             } else {
                 this.operatingSystem = 'windows';
                 this.changeAllKeys('Cmd', 'Ctrl');
+                this.displayMacKeys(false);
             }
         },
         changeAllKeys(from, to) {
@@ -41,6 +44,29 @@ var app = new Vue({
                     if (key.innerHTML === from) {
                         key.innerHTML = to;
                     }
+                }
+            }
+        },
+        displayMacKeys(shouldShow) {
+            if(shouldShow) {
+                let macKeys = document.getElementsByClassName('mac-keys');
+                for (let key of macKeys) {
+                    key.style.display = 'flex';
+                }
+
+                let allKeys = document.getElementsByClassName('win-keys');
+                for (let key of allKeys) {
+                    key.style.display = 'none';
+                }
+            } else {
+                let macKeys = document.getElementsByClassName('mac-keys');
+                for (let key of macKeys) {
+                    key.style.display = 'none';
+                }
+
+                let allKeys = document.getElementsByClassName('win-keys');
+                for (let key of allKeys) {
+                    key.style.display = 'flex';
                 }
             }
         },

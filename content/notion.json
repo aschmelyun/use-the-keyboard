@@ -84,43 +84,53 @@
                 },
                 {
                     "description": "Create text.",
-                    "keys": ["Ctrl", "Shift", "0"]
+                    "keys": ["Ctrl", "Shift", "0"],
+                    "mac_keys": ["Cmd", "Opt", "0"]
                 },
                 {
                     "description": "Create a heading 1.",
-                    "keys": ["Ctrl", "Shift", "1"]
+                    "keys": ["Ctrl", "Shift", "1"],
+                    "mac_keys": ["Cmd", "Opt", "1"]
                 },
                 {
                     "description": "Create a heading 2.",
-                    "keys": ["Ctrl", "Shift", "2"]
+                    "keys": ["Ctrl", "Shift", "2"],
+                    "mac_keys": ["Cmd", "Opt", "2"]
                 },
                 {
                     "description": "Create a heading 3.",
-                    "keys": ["Ctrl", "Shift", "3"]
+                    "keys": ["Ctrl", "Shift", "3"],
+                    "mac_keys": ["Cmd", "Opt", "3"]
                 },
                 {
                     "description": "Create a to-do.",
-                    "keys": ["Ctrl", "Shift", "4"]
+                    "keys": ["Ctrl", "Shift", "4"],
+                    "mac_keys": ["Cmd", "Opt", "4"]
                 },
                 {
                     "description": "Create a bulleted list.",
-                    "keys": ["Ctrl", "Shift", "5"]
+                    "keys": ["Ctrl", "Shift", "5"],
+                    "mac_keys": ["Cmd", "Opt", "5"]
                 },
                 {
                     "description": "Create a numbered list.",
-                    "keys": ["Ctrl", "Shift", "6"]
+                    "keys": ["Ctrl", "Shift", "6"],
+                    "mac_keys": ["Cmd", "Opt", "6"]
                 },
                 {
                     "description": "Create a toggle list.",
-                    "keys": ["Ctrl", "Shift", "7"]
+                    "keys": ["Ctrl", "Shift", "7"],
+                    "mac_keys": ["Cmd", "Opt", "7"]
                 },
                 {
                     "description": "Create a code block.",
-                    "keys": ["Ctrl", "Shift", "8"]
+                    "keys": ["Ctrl", "Shift", "8"],
+                    "mac_keys": ["Cmd", "Opt", "8"]
                 },
                 {
                     "description": "Create a page block.",
-                    "keys": ["Ctrl", "Shift", "9"]
+                    "keys": ["Ctrl", "Shift", "9"],
+                    "mac_keys": ["Cmd", "Opt", "9"]
                 }
             ]
         },

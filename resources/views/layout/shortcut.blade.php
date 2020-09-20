@@ -24,14 +24,33 @@
                             @foreach($section->shortcuts as $shortcut)
                                 <div class="shortcut">
                                     <p class="description">{{ $shortcut->description }}</p>
-                                    <ul class="keys">
-                                        @foreach($shortcut->keys as $keyIndex => $key)
-                                            <li class="key">{{ $key }}</li>
-                                            @if($keyIndex < (count($shortcut->keys) - 1))
-                                                <li class="plus"></li>
-                                            @endif
-                                        @endforeach
-                                    </ul>
+                                    @if(isset($shortcut->mac_keys))
+                                        <ul class="keys mac-keys" style="display:none;">
+                                            @foreach($shortcut->mac_keys as $keyIndex => $key)
+                                                <li class="key">{{ $key }}</li>
+                                                @if($keyIndex < (count($shortcut->keys) - 1))
+                                                    <li class="plus"></li>
+                                                @endif
+                                            @endforeach
+                                        </ul>
+                                        <ul class="keys win-keys">
+                                            @foreach($shortcut->keys as $keyIndex => $key)
+                                                <li class="key">{{ $key }}</li>
+                                                @if($keyIndex < (count($shortcut->keys) - 1))
+                                                    <li class="plus"></li>
+                                                @endif
+                                            @endforeach
+                                        </ul>
+                                    @else
+                                        <ul class="keys">
+                                            @foreach($shortcut->keys as $keyIndex => $key)
+                                                <li class="key">{{ $key }}</li>
+                                                @if($keyIndex < (count($shortcut->keys) - 1))
+                                                    <li class="plus"></li>
+                                                @endif
+                                            @endforeach
+                                        </ul>
+                                    @endif
                                 </div>
                             @endforeach
                         </div>
