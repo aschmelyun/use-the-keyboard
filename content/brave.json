@@ -169,7 +169,7 @@
                 },
                 {
                     "description": "Jump to the address bar",
-                    "keys": ["Ctrl", "I"]
+                    "keys": ["Ctrl", "L"]
                 },
                 {
                     "description": "Search from anywhere on the page",
