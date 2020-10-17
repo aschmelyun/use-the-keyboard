@@ -1,0 +1,287 @@
+{
+  "view": "layout.shortcut",
+  "slug": "xcode",
+  "title": "Xcode",
+  "meta_title": "Keyboard shortcuts for Xcode",
+  "meta_description": "A visual cheat-sheet for the 59 keyboard shortcuts found in Xcode",
+  "reference_link": "https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf",
+  "mac_only": true,
+  "sections": [
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Preferences",
+          "keys": ["Cmd", ","]
+        },
+        {
+          "description": "Documentation",
+          "keys": ["Cmd", "Shift", "0"]
+        },
+        {
+          "description": "Console",
+          "keys": ["Cmd", "Shift", "C"]
+        },
+        {
+          "description": "Documentation for selected text",
+          "keys": ["Ctrl", "Shift", "/"]
+        },
+        {
+          "description": "Quick help",
+          "keys": ["Cmd", "Shift", "/"]
+        }
+      ]
+    },
+    {
+      "name": "Interface",
+      "shortcuts": [
+        {
+          "description": "Switch navigators",
+          "keys": ["Cmd", "1-7"]
+        },
+        {
+          "description": "Toggle navigators",
+          "keys": ["Cmd", "0"]
+        },
+        {
+          "description": "Filter in navigator",
+          "keys": ["Cmd", "Opt", "J"]
+        },
+        {
+          "description": "Toggle debug area",
+          "keys": ["Cmd", "Shift", "Y"]
+        },
+        {
+          "description": "Show standard editor",
+          "keys": ["Cmd", "Enter"]
+        },
+        {
+          "description": "Show assistant editor",
+          "keys": ["Cmd", "Opt", "Enter"]
+        },
+        {
+          "description": "Show version editor",
+          "keys": ["Cmd", "Shift", "Opt", "Enter"]
+        },
+        {
+          "description": "Switch inspectors",
+          "keys": ["Cmd", "Opt", "1-6"]
+        },
+        {
+          "description": "Toggle utilities",
+          "keys": ["Cmd", "Opt", "0"]
+        },
+        {
+          "description": "Filter in library",
+          "keys": ["Cmd", "Opt", "L"]
+        }
+      ]
+    },
+    {
+      "name": "Code Editing",
+      "shortcuts": [
+        {
+          "description": "Show completions",
+          "keys": ["Ctrl", "Space"]
+        },
+        {
+          "description": "Next completion",
+          "keys": ["Ctrl", "."]
+        },
+        {
+          "description": "Accept completion",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Next placeholder",
+          "keys": ["Ctrl", "/"]
+        },
+        {
+          "description": "Previous placeholder",
+          "keys": ["Ctrl", "Shift", "/"]
+        },
+        {
+          "description": "Comment selection",
+          "keys": ["Cmd", "/"]
+        },
+        {
+          "description": "Fold method or class",
+          "keys": ["Cmd", "Opt", "Left"]
+        },
+        {
+          "description": "Unfold method or class",
+          "keys": ["Cmd", "Opt", "Right"]
+        },
+        {
+          "description": "Edit all in scope",
+          "keys": ["Cmd", "E"]
+        }
+      ]
+    },
+    {
+      "name": "Build and Run",
+      "shortcuts": [
+        {
+          "description": "Build",
+          "keys": ["Cmd", "B"]
+        },
+        {
+          "description": "Analyze",
+          "keys": ["Cmd", "Shift", "B"]
+        },
+        {
+          "description": "Run",
+          "keys": ["Cmd", "R"]
+        },
+        {
+          "description": "Profile",
+          "keys": ["Cmd", "I"]
+        },
+        {
+          "description": "Test",
+          "keys": ["Cmd", "U"]
+        },
+        {
+          "description": "Clean",
+          "keys": ["Cmd", "Shift", "K"]
+        },
+        {
+          "description": "Clear console",
+          "keys": ["Cmd", "K"]
+        }
+      ]
+    },
+    {
+      "name": "File Navigation",
+      "shortcuts": [
+        {
+          "description": "Go forward",
+          "keys": ["Cmd", "Ctrl", "Right"]
+        },
+        {
+          "description": "Go back",
+          "keys": ["Cmd", "Ctrl", "Left"]
+        },
+        {
+          "description": "Open quickly",
+          "keys": ["Cmd", "Shift", "O"]
+        },
+        {
+          "description": "Show related items",
+          "keys": ["Ctrl", "1"]
+        }
+      ]
+    },
+    {
+      "name": "Debugging",
+      "shortcuts": [
+        {
+          "description": "Next issue",
+          "keys": ["Cmd", "'"]
+        },
+        {
+          "description": "Previous issue",
+          "keys": ["Cmd", "Shift", "'"]
+        },
+        {
+          "description": "Fix next issue",
+          "keys": ["Cmd", "Ctrl", "'"]
+        },
+        {
+          "description": "Fix previous issue",
+          "keys": ["Cmd", "Ctrl", "Shift", "'"]
+        },
+        {
+          "description": "Add breakpoint",
+          "keys": ["Cmd", "\\"]
+        },
+        {
+          "description": "Activate breakpoints",
+          "keys": ["Cmd", "Y"]
+        }
+      ]
+    },
+    {
+      "name": "Code Navigation",
+      "shortcuts": [
+        {
+          "description": "End of line",
+          "keys": ["Cmd", "Right"]
+        },
+        {
+          "description": "Beginning of line",
+          "keys": ["Cmd", "Left"]
+        },
+        {
+          "description": "Top of file",
+          "keys": ["Cmd", "Up"]
+        },
+        {
+          "description": "Bottom of file",
+          "keys": ["Cmd", "Down"]
+        },
+        {
+          "description": "Next word",
+          "keys": ["Opt", "Right"]
+        },
+        {
+          "description": "Previous word",
+          "keys": ["Opt", "Left"]
+        },
+        {
+          "description": "Next subword",
+          "keys": ["Ctrl", "Right"]
+        },
+        {
+          "description": "Previous subword",
+          "keys": ["Ctrl", "Left"]
+        },
+        {
+          "description": "Center selection",
+          "keys": ["Ctrl", "L"]
+        },
+        {
+          "description": "Go to line",
+          "keys": ["Cmd", "L"]
+        },
+        {
+          "description": "Find in file",
+          "keys": ["Cmd", "F"]
+        },
+        {
+          "description": "Find in project",
+          "keys": ["Cmd", "Shift", "F"]
+        },
+        {
+          "description": "Find next",
+          "keys": ["Cmd", "G"]
+        },
+        {
+          "description": "Find previous",
+          "keys": ["Cmd", "Shift", "G"]
+        }
+      ]
+    },
+    {
+      "name": "Libraries",
+      "shortcuts": [
+        {
+          "description": "File template",
+          "keys": ["Cmd", "Ctrl", "Opt", "1"]
+        },
+        {
+          "description": "Code snippet",
+          "keys": ["Cmd", "Ctrl", "Opt", "2"]
+        },
+        {
+          "description": "Object",
+          "keys": ["Cmd", "Ctrl", "Opt", "3"]
+        },
+        {
+          "description": "Media",
+          "keys": ["Cmd", "Ctrl", "Opt", "4"]
+        }
+      ]
+    }
+  ]
+}
