@@ -1,0 +1,210 @@
+{
+  "view": "layout.shortcut",
+  "slug": "roam",
+  "title": "Roam Research",
+  "meta_title": "Keyboard shortcuts for Roam Research",
+  "meta_description": "A visual cheat-sheet for the 45 keyboard shortcuts found on Roam Research",
+  "reference_link": "https://www.roamtips.com/home/the-complete-list-of-roam-research-keyboard-shortcuts",
+  "sections": [
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Bring up a menu of many core functions",
+          "keys": ["/"]
+        },
+        {
+          "description": "Search the database",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Jump back to page after search",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Search on the current page",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Open a new page created in search in the sidebar",
+          "keys": ["Shift", "Enter"]
+        },
+        {
+          "description": "Jump to the Daily Notes page",
+          "keys": ["Ctrl", "Shift", "D"]
+        },
+        {
+          "description": "Open link in sidebar",
+          "keys": ["Shift", "(click)"]
+        },
+        {
+          "description": "Toggle brackets",
+          "keys": ["Ctrl", "B"]
+        }
+      ]
+    },
+    {
+      "name": "Lists and Blocks",
+      "shortcuts": [
+        {
+          "description": "Indent block",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Un-indent block",
+          "keys": ["Shift", "Tab"]
+        },
+        {
+          "description": "Move block up",
+          "keys": ["Ctrl", "Shift", "Up"]
+        },
+        {
+          "description": "Move block down",
+          "keys": ["Ctrl", "Shift", "Down"]
+        },
+        {
+          "description": "Create a new block, bullet point",
+          "keys": ["Enter"]
+        },
+        {
+          "description": "Create a TODO checkbox",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Create a new line inside of a block",
+          "keys": ["Shift", "Enter"]
+        },
+        {
+          "description": "Undo",
+          "keys": ["Ctrl", "Z"]
+        },
+        {
+          "description": "Redo",
+          "keys": ["Ctrl", "Shift", "Z"]
+        },
+        {
+          "description": "Zoom in, show only the current block enlarged",
+          "keys": ["Ctrl", "."]
+        },
+        {
+          "description": "Zoom out, restores the normal view",
+          "keys": ["Ctrl", ","]
+        },
+        {
+          "description": "Follow link under cursor, when editing a block",
+          "keys": ["Ctrl", "O"]
+        },
+        {
+          "description": "Open a link under cursor in the sidebar",
+          "keys": ["Ctrl", "Shift", "O"]
+        },
+        {
+          "description": "Collapse all child blocks under the current block",
+          "keys": ["Ctrl", "Up"]
+        },
+        {
+          "description": "Expand all child blocks under the current block",
+          "keys": ["Ctrl", "Down"]
+        },
+        {
+          "description": "Select the block above where the cursor is placed",
+          "keys": ["Shift", "Up"]
+        },
+        {
+          "description": "Select the block below where the cursor is placed",
+          "keys": ["Shift", "Down"]
+        },
+        {
+          "description": "Select all blocks",
+          "keys": ["Ctrl", "Shift", "A"]
+        },
+        {
+          "description": "Jump to the beginning of the current block",
+          "keys": ["Ctrl", "A"]
+        },
+        {
+          "description": "Jump to the end of the current block",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Move one character to the right",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Move one character to the left",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Swap all characters on either side of the cursor",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "Show avatar of the last user to edit the block",
+          "keys": ["Ctrl", "C", "Ctrl", "X"]
+        }
+      ]
+    },
+    {
+      "name": "Version Control",
+      "shortcuts": [
+        {
+          "description": "Add a version",
+          "keys": ["Ctrl", ","]
+        },
+        {
+          "description": "Cycle versions to the right",
+          "keys": ["Ctrl", "Shift", "."]
+        },
+        {
+          "description": "Cycle versions to the left",
+          "keys": ["Ctrl", "Shift", ","]
+        },
+        {
+          "description": "Expand all versions, all versions will appear in their own blocks",
+          "keys": ["Ctrl", "."]
+        }
+      ]
+    },
+    {
+      "name": "Formatting",
+      "shortcuts": [
+        {
+          "description": "Toggle between heading styles",
+          "keys": ["Ctrl", "Alt", "1-3"]
+        },
+        {
+          "description": "Reset heading, or set to paragraph",
+          "keys": ["Ctrl", "Alt", "0"]
+        },
+        {
+          "description": "Toggle TODO or DONE",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Bold",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Italic",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Create an HTML link",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Strike-through",
+          "keys": ["Ctrl", "Y"]
+        },
+        {
+          "description": "Highlight",
+          "keys": ["Ctrl", "H"]
+        },
+        {
+          "description": "Create an inline block of code",
+          "keys": ["`"]
+        }
+      ]
+    }
+  ]
+}
