@@ -1,0 +1,115 @@
+{
+    "view": "layout.shortcut",
+    "slug": "ticktick",
+    "title": "TickTick",
+    "meta_title": "Keyboard shortcuts for TickTick",
+    "meta_description": "A visual cheat-sheet for the 25 keyboard shortcuts found in the TickTick desktop app",
+    "reference_link": "https://support.ticktick.com/hc/en-us/articles/360016272252-Shortcuts",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Show quick add bar",
+                    "keys": ["Ctrl", "Shift", "A"]
+                },
+                {
+                    "description": "Show or hide mini window",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Start or abandon pomo",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Sync task",
+                    "keys": ["Ctrl", "S"]
+                },
+                {
+                    "description": "Search for a task",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Add task",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Complete task",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Clear date",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Set date",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Set today",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Set tomorrow",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Set next week",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Set no priority",
+                    "keys": ["Ctrl", "0"]
+                },
+                {
+                    "description": "Set low priority",
+                    "keys": ["Ctrl", "1"]
+                },
+                {
+                    "description": "Set medium priority",
+                    "keys": ["Ctrl", "2"]
+                },
+                {
+                    "description": "Set high priority",
+                    "keys": ["Ctrl", "3"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Open today's list",
+                    "keys": ["Ctrl", "Alt", "T"]
+                },
+                {
+                    "description": "Open tomorrow's list",
+                    "keys": ["Ctrl", "Opt", "T"]
+                },
+                {
+                    "description": "Open next 7 days list",
+                    "keys": ["Ctrl", "Alt", "N"]
+                },
+                {
+                    "description": "Open all list",
+                    "keys": ["Ctrl", "Alt", "A"]
+                },
+                {
+                    "description": "Open the calendar view",
+                    "keys": ["Ctrl", "Alt", "C"]
+                },
+                {
+                    "description": "Open the assigned to me list",
+                    "keys": ["Ctrl", "Alt", "A"]
+                },
+                {
+                    "description": "Open the inbox",
+                    "keys": ["Ctrl", "Alt", "1"]
+                },
+                {
+                    "description": "Open completed tasks",
+                    "keys": ["Ctrl", "Alt", "C"]
+                }
+            ]
+        }
+    ]
+}
