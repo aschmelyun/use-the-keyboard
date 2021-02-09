@@ -1,0 +1,382 @@
+{
+    "view": "layout.shortcut",
+    "slug": "missive",
+    "title": "Missive",
+    "meta_title": "Keyboard shortcuts for Missive Team Inbox",
+    "meta_description": "A visual cheat-sheet for the 83 keyboard shortcuts found in Missive",
+    "reference_link": "https://missiveapp.com/help/keyboard-shortcuts",
+    "sections": [
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Next item",
+                    "keys": ["Down"]
+                },
+                {
+                    "description": "Previous item",
+                    "keys": ["Up"]
+                },
+                {
+                    "description": "First item",
+                    "keys": ["Alt", "Up"]
+                },
+                {
+                    "description": "Last item",
+                    "keys": ["Alt", "Down"]
+                },
+                {
+                    "description": "Open item",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "Collapse item",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Next scope",
+                    "keys": ["Tab"]
+                },
+                {
+                    "description": "Previous scope",
+                    "keys": ["Shift", "Tab"]
+                },
+                {
+                    "description": "Scroll up",
+                    "keys": ["PgUp"]
+                },
+                {
+                    "description": "Scroll down",
+                    "keys": ["PgDn"]
+                }
+            ]
+        },
+        {
+            "name": "Jumping",
+            "shortcuts": [
+                {
+                    "description": "Go to Mailbox 1-9",
+                    "keys": ["Ctrl", "1-9"]
+                }
+            ]
+        },
+        {
+            "name": "Selection",
+            "shortcuts": [
+                {
+                    "description": "Select next conversation",
+                    "keys": ["Shift", "Up"]
+                },
+                {
+                    "description": "Select previous conversation",
+                    "keys": ["Shift", "Down"]
+                },
+                {
+                    "description": "Select until first conversation",
+                    "keys": ["Alt", "Shift", "Up"]
+                },
+                {
+                    "description": "Select until last conversation",
+                    "keys": ["Alt", "Shift", "Down"]
+                },
+                {
+                    "description": "Select all conversations",
+                    "keys": ["Ctrl", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Application",
+            "shortcuts": [
+                {
+                    "description": "Compose new email",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Create new conversation",
+                    "keys": ["Ctrl", "Shift", "N"]
+                },
+                {
+                    "description": "Search",
+                    "keys": ["Ctrl", "F"]
+                },
+                {
+                    "description": "Focus comment box",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Focus task box",
+                    "keys": ["Ctrl", "Shift", "X"]
+                },
+                {
+                    "description": "Preview item",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Edit previous comment",
+                    "keys": ["Ctrl", "Up"]
+                },
+                {
+                    "description": "Set a status",
+                    "keys": ["Ctrl", "Shift", "Y"]
+                },
+                {
+                    "description": "Open conversation contextual menu",
+                    "keys": ["Ctrl", "."]
+                },
+                {
+                    "description": "Open more menu",
+                    "keys": ["Ctrl", "G"]
+                },
+                {
+                    "description": "Open location",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Open preferences",
+                    "keys": ["Ctrl", ","]
+                },
+                {
+                    "description": "Open contacts",
+                    "keys": ["Ctrl", "Shift", ","]
+                },
+                {
+                    "description": "Toggle right sidebar",
+                    "keys": ["Ctrl", "Alt", "S"]
+                },
+                {
+                    "description": "Main right sidebar action",
+                    "keys": ["Ctrl", "Alt", "N"]
+                },
+                {
+                    "description": "Reload",
+                    "keys": ["Ctrl", "Alt", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Actions",
+            "shortcuts": [
+                {
+                    "description": "Archive or remove label",
+                    "keys": ["Back"]
+                },
+                {
+                    "description": "Close",
+                    "keys": ["Alt", "Back"]
+                },
+                {
+                    "description": "Trash",
+                    "keys": ["Cmd", "Back"]
+                },
+                {
+                    "description": "Label as...",
+                    "keys": ["Ctrl", "Shift", "L"]
+                },
+                {
+                    "description": "Move to...",
+                    "keys": ["Ctrl", "Alt", "L"]
+                },
+                {
+                    "description": "Assign",
+                    "keys": ["Ctrl", "Shift", "K"]
+                },
+                {
+                    "description": "Snooze",
+                    "keys": ["Ctrl", "Shift", "J"]
+                },
+                {
+                    "description": "Toggle star",
+                    "keys": ["Ctrl", "Shift", "S"]
+                },
+                {
+                    "description": "Toggle watch",
+                    "keys": ["Ctrl", "Shift", "M"]
+                },
+                {
+                    "description": "Reply all",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "Reply",
+                    "keys": ["Ctrl", "Shift", "R"]
+                },
+                {
+                    "description": "Forward",
+                    "keys": ["Ctrl", "Shift", "F"]
+                },
+                {
+                    "description": "Open or focus draft",
+                    "keys": ["Ctrl", "Shift", "D"]
+                },
+                {
+                    "description": "Print",
+                    "keys": ["Ctrl", "P"]
+                },
+                {
+                    "description": "Open in new window",
+                    "keys": ["Ctrl", "O"]
+                },
+                {
+                    "description": "Undo last action",
+                    "keys": ["Ctrl", "Z"]
+                },
+                {
+                    "description": "Redo last action",
+                    "keys": ["Ctrl", "Shift", "Z"]
+                },
+                {
+                    "description": "Mark as read",
+                    "keys": ["Ctrl", "Shift", "I"]
+                },
+                {
+                    "description": "Mark as unread",
+                    "keys": ["Ctrl", "Shift", "U"]
+                },
+                {
+                    "description": "Mark as important",
+                    "keys": ["Ctrl", "Shift", "="]
+                },
+                {
+                    "description": "Mark as not important",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Expand entire conversation",
+                    "keys": ["Ctrl", "Shift", "Right"]
+                },
+                {
+                    "description": "Collapse entire conversation",
+                    "keys": ["Ctrl", "Shift", "Left"]
+                },
+                {
+                    "description": "Toggle message quote",
+                    "keys": ["Ctrl", "Shift", "'"]
+                },
+                {
+                    "description": "Pin to sidebar",
+                    "keys": ["Ctrl", "Shift", "P"]
+                },
+                {
+                    "description": "Merge...",
+                    "keys": ["Ctrl", "Shift", "G"]
+                }
+            ]
+        },
+        {
+            "name": "Composer",
+            "shortcuts": [
+                {
+                    "description": "Send",
+                    "keys": ["Ctrl", "Enter"]
+                },
+                {
+                    "description": "Send and archive",
+                    "keys": ["Ctrl", "Shift", "Enter"]
+                },
+                {
+                    "description": "Discard draft",
+                    "keys": ["Ctrl", "D"]
+                },
+                {
+                    "description": "Add CC recipients",
+                    "keys": ["Ctrl", "Shift", "C"]
+                },
+                {
+                    "description": "Add BCC recipients",
+                    "keys": ["Ctrl", "Shift", "B"]
+                },
+                {
+                    "description": "Insert a link",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Open responses",
+                    "keys": ["Ctrl", "Shift", "O"]
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "shortcuts": [
+                {
+                    "description": "Decrease text size",
+                    "keys": ["Ctrl", "Shift", "-"]
+                },
+                {
+                    "description": "Increase text size",
+                    "keys": ["Ctrl", "Shift", "="]
+                },
+                {
+                    "description": "Bold",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Italic",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Underline",
+                    "keys": ["Ctrl", "U"]
+                },
+                {
+                    "description": "Numbered list",
+                    "keys": ["Ctrl", "Shift", "7"]
+                },
+                {
+                    "description": "Bulleted list",
+                    "keys": ["Ctrl", "Shift", "8"]
+                },
+                {
+                    "description": "Decrease indent",
+                    "keys": ["Ctrl", "["]
+                },
+                {
+                    "description": "Increase indent",
+                    "keys": ["Ctrl", "]"]
+                }
+            ]
+        },
+        {
+            "name": "Calendar",
+            "shortcuts": [
+                {
+                    "description": "Create event",
+                    "keys": ["Ctrl", "N"]
+                },
+                {
+                    "description": "Refresh",
+                    "keys": ["Ctrl", "R"]
+                },
+                {
+                    "description": "View day",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Today",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Go to date",
+                    "keys": ["Ctrl", "L"]
+                },
+                {
+                    "description": "Day view",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Week view",
+                    "keys": ["W"]
+                },
+                {
+                    "description": "Month view",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Agenda view",
+                    "keys": ["A"]
+                }
+            ]
+        }
+    ]
+}
