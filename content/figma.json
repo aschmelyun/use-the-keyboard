@@ -15,7 +15,8 @@
         },
         {
           "description": "Pick Color",
-          "keys": ["Ctrl", "C"]
+          "keys": ["Ctrl", "C"],
+          "mac_keys": ["Ctrl", "C"]
         },
         {
           "description": "Search Menu",
