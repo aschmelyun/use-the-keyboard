@@ -47,7 +47,7 @@
                 },
                 {
                     "description": "Open the previous page from your browsing history in the current tab",
-                    "keys": ["Alt", "Left"]
+                    "keys": ["Ctrl", "Left"]
                 },
                 {
                     "description": "Open the next page from your browsing history in the current tab",
@@ -266,7 +266,7 @@
                 },
                 {
                     "description": "Move your cursor to the front of the previous word in a text field",
-                    "keys": ["Ctrl", "Left"]
+                    "keys": ["Alt", "Left"]
                 },
                 {
                     "description": "Move your cursor to the back of the next word in a text field",
