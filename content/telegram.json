@@ -118,20 +118,28 @@
       "name": "Jump to",
       "shortcuts": [
         {
-          "description": "Bottom of Chat",
+          "description": "Jump to the bottom of the chat",
           "keys": ["Alt", "Enter"]
         },
         {
-          "description": "Scroll Chat List to Top",
+          "description": "Scroll the chat list to the top",
           "keys": ["Alt", "Enter"]
         },
         {
-          "description": "Saved Messages",
+          "description": "Jump to your saved messages",
           "keys": ["Ctrl", "0"]
         },
         {
-          "description": "Pinned Chats",
+          "description": "Jump between folders",
           "keys": ["Ctrl", "1-5"]
+        },
+        {
+          "description": "Jump to the next folder",
+          "keys": ["Ctrl", "Shift", "Down"]
+        },
+        {
+          "description": "Jump to the previous folder",
+          "keys": ["Ctrl", "Shift", "Up"]
         }
       ]
     },
