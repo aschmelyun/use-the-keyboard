@@ -35,7 +35,7 @@
                 },
                 {
                     "description": "Go up to the parent page.",
-                    "keys": ["Ctrl", "U"]
+                    "keys": ["Ctrl", "Shift", "U"]
                 },
                 {
                     "description": "Toggle dark mode.",
