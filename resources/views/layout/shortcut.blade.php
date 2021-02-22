@@ -17,6 +17,9 @@
         </aside>
         <main class="content">
             <div class="content-wrapper">
+                <div class="section shortcut-section ethical-element">
+                    <div data-ea-publisher="usethekeyboard-com" data-ea-type="text"></div>
+                </div>
                 @foreach($sections as $section)
                     <section class="shortcut-section" id="{{ str_replace(' ', '', $section->name) }}">
                         <h2 class="title-section"><span>{{ $section->name }}</span></h2>

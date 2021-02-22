@@ -22,6 +22,11 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <div data-ea-publisher="usethekeyboard-com" data-ea-type="text"></div>
+                </div>
+            </div>
             <div class="row mb-8">
                 <div class="col-sm-12">
                     <section class="shortcut-section">
