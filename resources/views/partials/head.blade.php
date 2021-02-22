@@ -43,5 +43,4 @@
     </noscript>
 
     <script defer src="{{ $mix['/assets/js/app.js'] }}"></script>
-    <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
 </head>
