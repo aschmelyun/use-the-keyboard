@@ -1,0 +1,620 @@
+{
+  "view": "layout.shortcut",
+  "slug": "android-studio",
+  "title": "Android Studio",
+  "meta_title": "Keyboard shortcuts for Android Studio",
+  "meta_description": "A visual cheat-sheet for the 130 keyboard shortcuts found in the Andriod Studio software",
+  "reference_link": "https://developer.android.com/studio/intro/keyboard-shortcuts",
+  "sections": [
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Save all",
+          "keys": ["Ctrl", "S"]
+        },
+        {
+          "description": "Synchronize",
+          "keys": ["Ctrl", "Alt", "Y"],
+          "mac_keys": ["Cmd", "Opt", "Y"]
+        },
+        {
+          "description": "Minimize or maximize the editor",
+          "keys": ["Ctrl", "Shift", "F12"],
+          "mac_keys": ["Ctrl", "Cmd", "F12"]
+        },
+        {
+          "description": "Add to favorites",
+          "keys": ["Alt", "Shift", "F"],
+          "mac_keys": ["Opt", "Shift", "F"]
+        },
+        {
+          "description": "Inspect the current file with the current profile",
+          "keys": ["Alt", "Shift", "I"],
+          "mac_keys": ["Opt", "Shift", "I"]
+        },
+        {
+          "description": "Quick switch the scheme",
+          "keys": ["Ctrl", "`"]
+        },
+        {
+          "description": "Open the settings dialogue",
+          "keys": ["Ctrl", "Alt", "S"],
+          "mac_keys": ["Cmd", ","]
+        },
+        {
+          "description": "Open the project structure dialogue",
+          "keys": ["Ctrl", "Alt", "Shift", "S"],
+          "mac_keys": ["Cmd", ";"]
+        },
+        {
+          "description": "Switch between the tabs and tool window",
+          "keys": ["Ctrl", "Tab"],
+          "mac_keys": ["Ctrl", "Tab"]
+        }
+      ]
+    },
+    {
+      "name": "Navigating and Searching",
+      "shortcuts": [
+        {
+          "description": "Search everything, including code and menus",
+          "keys": ["Shift", "Shift"]
+        },
+        {
+          "description": "Find",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Find next",
+          "keys": ["F3"],
+          "mac_keys": ["Cmd", "G"]
+        },
+        {
+          "description": "Find previous",
+          "keys": ["Shift", "F3"],
+          "mac_keys": ["Cmd", "Shift", "G"]
+        },
+        {
+          "description": "Replace",
+          "keys": ["Ctrl", "R"]
+        },
+        {
+          "description": "Find action",
+          "keys": ["Ctrl", "Shift", "A"]
+        },
+        {
+          "description": "Search by a symbol name",
+          "keys": ["Ctrl", "Alt", "Shift", "N"],
+          "mac_keys": ["Cmd", "Opt", "O"]
+        },
+        {
+          "description": "Find class",
+          "keys": ["Ctrl", "N"],
+          "mac_keys": ["Cmd", "O"]
+        },
+        {
+          "description": "Find file, instead of class",
+          "keys": ["Ctrl", "Shift", "N"],
+          "mac_keys": ["Cmd", "Shift", "O"]
+        },
+        {
+          "description": "Find in path",
+          "keys": ["Ctrl", "Shift", "F"]
+        },
+        {
+          "description": "Open file structure pop-up",
+          "keys": ["Ctrl", "F12"]
+        },
+        {
+          "description": "Navigate between open editor tabs",
+          "keys": ["Alt", "Right/Left"]
+        },
+        {
+          "description": "Jump to source",
+          "keys": ["Ctrl", "Enter"],
+          "mac_keys": ["Cmd", "Down"]
+        },
+        {
+          "description": "Open the current editor tab in a new window",
+          "keys": ["Shift", "F4"]
+        },
+        {
+          "description": "Recently opened files pop-up",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Recently edited files pop-up",
+          "keys": ["Ctrl", "Shift", "E"]
+        },
+        {
+          "description": "Go to last edit location",
+          "keys": ["Ctrl", "Shift", "Backspace"]
+        },
+        {
+          "description": "Close active editor tab",
+          "keys": ["Ctrl", "F4"],
+          "mac_keys": ["Cmd", "W"]
+        },
+        {
+          "description": "Return to editor window from a tool window",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Hide active or last active tool window",
+          "keys": ["Shift", "Esc"]
+        },
+        {
+          "description": "Go to line",
+          "keys": ["Ctrl", "G"]
+        },
+        {
+          "description": "Open type hierarchy",
+          "keys": ["Ctrl", "H"]
+        },
+        {
+          "description": "Open method hierarchy",
+          "keys": ["Ctrl", "Shift", "H"]
+        },
+        {
+          "description": "Open call hierarchy",
+          "keys": ["Ctrl", "Alt", "H"]
+        }
+      ]
+    },
+    {
+      "name": "Viewing Layouts",
+      "shortcuts": [
+        {
+          "description": "Zoom in",
+          "keys": ["Ctrl", "+"]
+        },
+        {
+          "description": "Zoom out",
+          "keys": ["Ctrl", "-"]
+        },
+        {
+          "description": "Fit to screen",
+          "keys": ["Ctrl", "0"]
+        },
+        {
+          "description": "Actual size",
+          "keys": ["Ctrl", "Shift", "1"]
+        }
+      ]
+    },
+    {
+      "name": "Layout Editor",
+      "shortcuts": [
+        {
+          "description": "Toggle between Design and Blueprint modes",
+          "keys": ["B"]
+        },
+        {
+          "description": "Toggle between Portrait and Landscaope modes",
+          "keys": ["O"]
+        },
+        {
+          "description": "Toggle devices",
+          "keys": ["D"]
+        },
+        {
+          "description": "Force refresh",
+          "keys": ["R"]
+        },
+        {
+          "description": "Toggle render errors panel",
+          "keys": ["E"]
+        },
+        {
+          "description": "Delete constraints",
+          "keys": ["Del"]
+        },
+        {
+          "description": "Zoom in",
+          "keys": ["Ctrl", "+"]
+        },
+        {
+          "description": "Zoom out",
+          "keys": ["Ctrl", "-"]
+        },
+        {
+          "description": "Zoom to fit",
+          "keys": ["Ctrl", "0"]
+        },
+        {
+          "description": "Go to XML",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Select all components",
+          "keys": ["Ctrl", "A"]
+        },
+        {
+          "description": "Select multiple components",
+          "keys": ["Shift", "(click)"]
+        }
+      ]
+    },
+    {
+      "name": "Navigation Editor",
+      "shortcuts": [
+        {
+          "description": "Zoom in",
+          "keys": ["Ctrl", "+"]
+        },
+        {
+          "description": "Zoom out",
+          "keys": ["Ctrl", "-"]
+        },
+        {
+          "description": "Zoom to fit",
+          "keys": ["Ctrl", "0"]
+        },
+        {
+          "description": "Go to XML",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Toggle render errors panel",
+          "keys": ["E"]
+        },
+        {
+          "description": "Group into a nested graph",
+          "keys": ["Ctrl", "G"]
+        },
+        {
+          "description": "Cycle through destinations",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Select all destinations",
+          "keys": ["Ctrl", "A"]
+        },
+        {
+          "description": "Select multiple destinations",
+          "keys": ["Ctrl", "(click)"]
+        }
+      ]
+    },
+    {
+      "name": "Writing Code",
+      "shortcuts": [
+        {
+          "description": "Generate code, e.g. getters, setters, constructors, new class",
+          "keys": ["Alt", "Insert"],
+          "mac_keys": ["Cmd", "N"]
+        },
+        {
+          "description": "Override methods",
+          "keys": ["Ctrl", "O"]
+        },
+        {
+          "description": "Implement methods",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Surround with if...else, try...catch, etc",
+          "keys": ["Ctrl", "Alt", "T"],
+          "mac_keys": ["Cmd", "Opt", "T"]
+        },
+        {
+          "description": "Delete line at caret",
+          "keys": ["Ctrl", "Y"]
+        },
+        {
+          "description": "Collapse the current code block",
+          "keys": ["Ctrl", "-"]
+        },
+        {
+          "description": "Expand the current code block",
+          "keys": ["Ctrl", "+"]
+        },
+        {
+          "description": "Collapse all code blocks",
+          "keys": ["Ctrl", "Shift", "-"]
+        },
+        {
+          "description": "Expand all code blocks",
+          "keys": ["Ctrl", "Shift", "+"]
+        },
+        {
+          "description": "Duplicate the current line or selection",
+          "keys": ["Ctrl", "D"]
+        },
+        {
+          "description": "Basic code completion",
+          "keys": ["Ctrl", "Space"]
+        },
+        {
+          "description": "Smart code completion, filters the list of methods and variables by expected type",
+          "keys": ["Ctrl", "Shift", "Space"]
+        },
+        {
+          "description": "Complete statement",
+          "keys": ["Ctrl", "Shift", "Enter"]
+        },
+        {
+          "description": "Quick documentation lookup",
+          "keys": ["Ctrl", "Q"],
+          "mac_keys": ["Ctrl", "J"]
+        },
+        {
+          "description": "Show parameters for selected method",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Go to declaration, directly",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Go to implementations",
+          "keys": ["Ctrl", "Alt", "B"],
+          "mac_keys": ["Cmd", "Opt", "B"]
+        },
+        {
+          "description": "Go to super-method or super-class",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Open quick definition lookup",
+          "keys": ["Ctrl", "Shift", "I"],
+          "mac_keys": ["Cmd", "Y"]
+        },
+        {
+          "description": "Toggle project tool window visibility",
+          "keys": ["Alt", "1"],
+          "mac_keys": ["Cmd", "1"]
+        },
+        {
+          "description": "Toggle bookmark",
+          "keys": ["F11"],
+          "mac_keys": ["F3"]
+        },
+        {
+          "description": "Toggle bookmark with mnemonic",
+          "keys": ["Ctrl", "F11"],
+          "mac_keys": ["Opt", "F3"]
+        },
+        {
+          "description": "Comment or uncomment with line comment",
+          "keys": ["Ctrl", "/"]
+        },
+        {
+          "description": "Comment or uncomment with block comment",
+          "keys": ["Ctrl", "Shift", "/"]
+        },
+        {
+          "description": "Select successively increasing code blocks",
+          "keys": ["Ctrl", "W"]
+        },
+        {
+          "description": "Decrease current selection to previous state",
+          "keys": ["Ctrl", "Shift", "W"]
+        },
+        {
+          "description": "Move to code block start",
+          "keys": ["Ctrl", "["]
+        },
+        {
+          "description": "Move to code block end",
+          "keys": ["Ctrl", "]"]
+        },
+        {
+          "description": "Select to the code block start",
+          "keys": ["Ctrl", "Shift", "["]
+        },
+        {
+          "description": "Select to the code block end",
+          "keys": ["Ctrl", "Shift", "]"]
+        },
+        {
+          "description": "Delete to the end of a word",
+          "keys": ["Ctrl", "Del"]
+        },
+        {
+          "description": "Delete to the start of a word",
+          "keys": ["Ctrl", "Backspace"]
+        },
+        {
+          "description": "Optimize imports",
+          "keys": ["Ctrl", "Alt", "O"]
+        },
+        {
+          "description": "Project quick fix, show intention actions and quick fixes",
+          "keys": ["Alt", "Enter"]
+        },
+        {
+          "description": "Reformat code",
+          "keys": ["Ctrl", "Alt", "L"],
+          "mac_keys": ["Cmd", "Opt", "L"]
+        },
+        {
+          "description": "Auto-indent lines",
+          "keys": ["Ctrl", "Alt", "I"],
+          "mac_keys": ["Cmd", "Opt", "I"]
+        },
+        {
+          "description": "Indent lines",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Unindent lines",
+          "keys": ["Shift", "Tab"]
+        },
+        {
+          "description": "Smart line join",
+          "keys": ["Ctrl", "Shift", "J"],
+          "mac_keys": ["Ctrl", "Shift", "J"]
+        },
+        {
+          "description": "Smart line split",
+          "keys": ["Ctrl", "Enter"]
+        },
+        {
+          "description": "Start new line",
+          "keys": ["Shift", "Enter"]
+        },
+        {
+          "description": "Next highlighted error",
+          "keys": ["F2"]
+        },
+        {
+          "description": "Previous highlighted error",
+          "keys": ["Shift", "F2"]
+        }
+      ]
+    },
+    {
+      "name": "Build and Run",
+      "shortcuts": [
+        {
+          "description": "Build",
+          "keys": ["Ctrl", "F9"]
+        },
+        {
+          "description": "Build and run",
+          "keys": ["Shift", "F10"],
+          "mac_keys": ["Ctrl", "R"]
+        },
+        {
+          "description": "Apply changes and restart activity",
+          "keys": ["Ctrl", "F10"],
+          "mac_keys": ["Ctrl", "Cmd", "R"]
+        },
+        {
+          "description": "Apply code changes",
+          "keys": ["Ctrl", "Alt", "F10"],
+          "mac_keys": ["Ctrl", "Shift", "Cmd", "R"]
+        }
+      ]
+    },
+    {
+      "name": "Debugging",
+      "shortcuts": [
+        {
+          "description": "Debug",
+          "keys": ["Shift", "F9"],
+          "mac_keys": ["Ctrl", "D"]
+        },
+        {
+          "description": "Step over",
+          "keys": ["F8"]
+        },
+        {
+          "description": "Step into",
+          "keys": ["F7"]
+        },
+        {
+          "description": "Smart step into",
+          "keys": ["Shift", "F7"]
+        },
+        {
+          "description": "Step out",
+          "keys": ["Shift", "F8"]
+        },
+        {
+          "description": "Run to cursor",
+          "keys": ["Alt", "F9"],
+          "mac_keys": ["Opt", "F9"]
+        },
+        {
+          "description": "Evaluate expression",
+          "keys": ["Alt", "F8"],
+          "mac_keys": ["Opt", "F8"]
+        },
+        {
+          "description": "Resume program",
+          "keys": ["F9"]
+        },
+        {
+          "description": "Toggle breakpoint",
+          "keys": ["Ctrl", "F8"]
+        },
+        {
+          "description": "View breakpoints",
+          "keys": ["Ctrl", "Shift", "F8"]
+        }
+      ]
+    },
+    {
+      "name": "Refactoring",
+      "shortcuts": [
+        {
+          "description": "Copy",
+          "keys": ["F5"]
+        },
+        {
+          "description": "Move",
+          "keys": ["F6"]
+        },
+        {
+          "description": "Safe delete",
+          "keys": ["Alt", "Del"],
+          "mac_keys": ["Cmd", "Del"]
+        },
+        {
+          "description": "Rename",
+          "keys": ["Shift", "F6"]
+        },
+        {
+          "description": "Change signature",
+          "keys": ["Ctrl", "F6"]
+        },
+        {
+          "description": "Inline",
+          "keys": ["Ctrl", "Alt", "N"],
+          "mac_keys": ["Cmd", "Opt", "N"]
+        },
+        {
+          "description": "Extract method",
+          "keys": ["Ctrl", "Alt", "M"],
+          "mac_keys": ["Cmd", "Opt", "M"]
+        },
+        {
+          "description": "Extract variable",
+          "keys": ["Ctrl", "Alt", "V"],
+          "mac_keys": ["Cmd", "Opt", "V"]
+        },
+        {
+          "description": "Extract field",
+          "keys": ["Ctrl", "Alt", "F"],
+          "mac_keys": ["Cmd", "Opt", "F"]
+        },
+        {
+          "description": "Extract constant",
+          "keys": ["Ctrl", "Alt", "C"],
+          "mac_keys": ["Cmd", "Opt", "C"]
+        },
+        {
+          "description": "Extract parameter",
+          "keys": ["Ctrl", "Alt", "P"],
+          "mac_keys": ["Cmd", "Opt", "P"]
+        }
+      ]
+    },
+    {
+      "name": "Version Control",
+      "shortcuts": [
+        {
+          "description": "Commit project to VCS",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Update project from VCS",
+          "keys": ["Ctrl", "T"]
+        },
+        {
+          "description": "View recent changes",
+          "keys": ["Alt", "Shift", "C"],
+          "mac_keys": ["Opt", "Shift", "C"]
+        },
+        {
+          "description": "Open VCS pop-up",
+          "keys": ["Alt", "`"],
+          "mac_keys": ["Ctrl", "V"]
+        }
+      ]
+    }
+  ]
+}
