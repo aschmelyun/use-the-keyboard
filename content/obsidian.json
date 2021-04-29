@@ -1,0 +1,88 @@
+{
+  "view": "layout.shortcut",
+  "slug": "obsidian",
+  "title": "Obsidian",
+  "meta_title": "Keyboard shortcuts for Obsidian",
+  "meta_description": "A visual cheat-sheet for the 17 keyboard shortcuts found in the Obsidian knowledge base app.",
+  "reference_link": "https://help.obsidian.md/How+to/Keyboard+shortcuts",
+  "sections": [
+    {
+      "name": "Default Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Save a file in the editor",
+          "keys": ["Ctrl", "S"]
+        },
+        {
+          "description": "Create a new note",
+          "keys": ["Ctrl", "N"]
+        },
+        {
+          "description": "Open the command palette",
+          "keys": ["Ctrl", "P"]
+        },
+        {
+          "description": "Open the quick switcher",
+          "keys": ["Ctrl", "O"]
+        },
+        {
+          "description": "Search in all files",
+          "keys": ["Ctrl", "Shift", "F"]
+        },
+        {
+          "description": "Open the graph view",
+          "keys": ["Ctrl", "G"]
+        },
+        {
+          "description": "Navigate backwards",
+          "keys": ["Ctrl", "Alt", "Left"]
+        },
+        {
+          "description": "Navigate forwards",
+          "keys": ["Ctrl", "Alt", "Right"]
+        },
+        {
+          "description": "Search the current file",
+          "keys": ["Ctrl", "F"]
+        },
+        {
+          "description": "Toggle edit or preview mode",
+          "keys": ["Ctrl", "E"]
+        },
+        {
+          "description": "Open settings",
+          "keys": ["Ctrl", ","]
+        }
+      ]
+    },
+    {
+      "name": "Editing",
+      "shortcuts": [
+        {
+          "description": "Bold selected text",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Italic selected text",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Insert an external link",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Indent",
+          "keys": ["Ctrl", "]"]
+        },
+        {
+          "description": "Unindent",
+          "keys": ["Ctrl", "["]
+        },
+        {
+          "description": "Jump into the selected backlink",
+          "keys": ["Alt", "Enter"]
+        }
+      ]
+    }
+  ]
+}
