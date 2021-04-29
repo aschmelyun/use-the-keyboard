@@ -1,0 +1,175 @@
+{
+  "view": "layout.shortcut",
+  "slug": "wordpress",
+  "title": "WordPress",
+  "meta_title": "Keyboard shortcuts for WordPress",
+  "meta_description": "A visual cheat-sheet for the 34 keyboard shortcuts found in the WordPress visual editor",
+  "reference_link": "https://wordpress.org/support/article/keyboard-shortcuts/",
+  "sections": [
+    {
+      "name": "Editor",
+      "shortcuts": [
+        {
+          "description": "Copy",
+          "keys": ["Ctrl", "C"]
+        },
+        {
+          "description": "Paste",
+          "keys": ["Ctrl", "V"]
+        },
+        {
+          "description": "Select all",
+          "keys": ["Ctrl", "A"]
+        },
+        {
+          "description": "Cut",
+          "keys": ["Ctrl", "X"]
+        },
+        {
+          "description": "Undo",
+          "keys": ["Ctrl", "Z"]
+        },
+        {
+          "description": "Redo",
+          "keys": ["Ctrl", "Y"]
+        },
+        {
+          "description": "Bold",
+          "keys": ["Ctrl", "B"]
+        },
+        {
+          "description": "Italic",
+          "keys": ["Ctrl", "I"]
+        },
+        {
+          "description": "Underline",
+          "keys": ["Ctrl", "U"]
+        },
+        {
+          "description": "Insert or edit a link",
+          "keys": ["Ctrl", "K"]
+        },
+        {
+          "description": "Check spelling, this requires a plugin",
+          "keys": ["Alt", "Shift", "N"],
+          "mac_keys": ["Ctrl", "Opt", "N"]
+        },
+        {
+          "description": "Align text left",
+          "keys": ["Alt", "Shift", "L"],
+          "mac_keys": ["Ctrl", "Opt", "L"]
+        },
+        {
+          "description": "Justify text",
+          "keys": ["Alt", "Shift", "J"],
+          "mac_keys": ["Ctrl", "Opt", "J"]
+        },
+        {
+          "description": "Align text center",
+          "keys": ["Alt", "Shift", "C"],
+          "mac_keys": ["Ctrl", "Opt", "C"]
+        },
+        {
+          "description": "Strikethrough",
+          "keys": ["Alt", "Shift", "D"],
+          "mac_keys": ["Ctrl", "Opt", "D"]
+        },
+        {
+          "description": "Align text right",
+          "keys": ["Alt", "Shift", "R"],
+          "mac_keys": ["Ctrl", "Opt", "R"]
+        },
+        {
+          "description": "Unordered list",
+          "keys": ["Alt", "Shift", "U"],
+          "mac_keys": ["Ctrl", "Opt", "U"]
+        },
+        {
+          "description": "Insert a link",
+          "keys": ["Alt", "Shift", "A"],
+          "mac_keys": ["Ctrl", "Opt", "A"]
+        },
+        {
+          "description": "Ordered list",
+          "keys": ["Alt", "Shift", "O"],
+          "mac_keys": ["Ctrl", "Opt", "O"]
+        },
+        {
+          "description": "Remove a link",
+          "keys": ["Alt", "Shift", "S"],
+          "mac_keys": ["Ctrl", "Opt", "S"]
+        },
+        {
+          "description": "Quote",
+          "keys": ["Alt", "Shift", "Q"],
+          "mac_keys": ["Ctrl", "Opt", "Q"]
+        },
+        {
+          "description": "Insert an image",
+          "keys": ["Alt", "Shift", "M"],
+          "mac_keys": ["Ctrl", "Opt", "M"]
+        },
+        {
+          "description": "Distraction free writing mode",
+          "keys": ["Alt", "Shift", "W"],
+          "mac_keys": ["Ctrl", "Opt", "W"]
+        },
+        {
+          "description": "Insert a more tag",
+          "keys": ["Alt", "Shift", "T"],
+          "mac_keys": ["Ctrl", "Opt", "T"]
+        },
+        {
+          "description": "Insert a page break tag",
+          "keys": ["Alt", "Shift", "P"],
+          "mac_keys": ["Ctrl", "Opt", "P"]
+        },
+        {
+          "description": "Help",
+          "keys": ["Alt", "Shift", "H"],
+          "mac_keys": ["Ctrl", "Opt", "H"]
+        },
+        {
+          "description": "Add or remove a code tag",
+          "keys": ["Alt", "Shift", "X"],
+          "mac_keys": ["Ctrl", "Opt", "X"]
+        },
+        {
+          "description": "Heading one",
+          "keys": ["Alt", "Shift", "1"],
+          "mac_keys": ["Ctrl", "Opt", "1"]
+        },
+        {
+          "description": "Heading two",
+          "keys": ["Alt", "Shift", "2"],
+          "mac_keys": ["Ctrl", "Opt", "2"]
+        },
+        {
+          "description": "Heading three",
+          "keys": ["Alt", "Shift", "3"],
+          "mac_keys": ["Ctrl", "Opt", "3"]
+        },
+        {
+          "description": "Heading four",
+          "keys": ["Alt", "Shift", "4"],
+          "mac_keys": ["Ctrl", "Opt", "4"]
+        },
+        {
+          "description": "Heading five",
+          "keys": ["Alt", "Shift", "5"],
+          "mac_keys": ["Ctrl", "Opt", "5"]
+        },
+        {
+          "description": "Heading six",
+          "keys": ["Alt", "Shift", "6"],
+          "mac_keys": ["Ctrl", "Opt", "6"]
+        },
+        {
+          "description": "Insert an address",
+          "keys": ["Alt", "Shift", "9"],
+          "mac_keys": ["Ctrl", "Opt", "9"]
+        }
+      ]
+    }
+  ]
+}
