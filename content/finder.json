@@ -1,0 +1,236 @@
+{
+  "view": "layout.shortcut",
+  "slug": "finder",
+  "title": "Finder",
+  "meta_title": "Keyboard shortcuts for MacOS Finder",
+  "meta_description": "A visual cheat-sheet for the 55 keyboard shortcuts found in Finder. This application is part of MacOS.",
+  "reference_link": "https://support.apple.com/en-us/HT201236",
+  "mac_only": true,
+  "sections": [
+    {
+      "name": "Finder Shortcuts",
+      "shortcuts": [
+        {
+          "description": "Duplicate the selected files",
+          "keys": ["Cmd", "D"]
+        },
+        {
+          "description": "Eject the selected disk or volume",
+          "keys": ["Cmd", "E"]
+        },
+        {
+          "description": "Start a Spotlight search in the Finder window",
+          "keys": ["Cmd", "F"]
+        },
+        {
+          "description": "Show the get info window for a selected file",
+          "keys": ["Cmd", "I"]
+        },
+        {
+          "description": "When an alias is selected in the Finder, show original file for the selected alias",
+          "keys": ["Cmd", "R"]
+        },
+        {
+          "description": "Open the Computer window",
+          "keys": ["Cmd", "Shift", "C"]
+        },
+        {
+          "description": "Open the desktop folder",
+          "keys": ["Cmd", "Shift", "D"]
+        },
+        {
+          "description": "Open the Recents window, showing all files you viewed or changed recently",
+          "keys": ["Cmd", "Shift", "F"]
+        },
+        {
+          "description": "Open a Go to Folder window",
+          "keys": ["Cmd", "Shift", "G"]
+        },
+        {
+          "description": "Open the Home folder of the current MacOS user account",
+          "keys": ["Cmd", "Shift", "H"]
+        },
+        {
+          "description": "Open the iCloud drive",
+          "keys": ["Cmd", "Shift", "I"]
+        },
+        {
+          "description": "Open the Network window",
+          "keys": ["Cmd", "Shift", "K"]
+        },
+        {
+          "description": "Open the Downloads folder",
+          "keys": ["Cmd", "Opt", "L"]
+        },
+        {
+          "description": "Create a new folder",
+          "keys": ["Cmd", "Shift", "N"]
+        },
+        {
+          "description": "Open the Documents folder",
+          "keys": ["Cmd", "Shift", "O"]
+        },
+        {
+          "description": "Show or hide the Preview pane in Finder windows",
+          "keys": ["Cmd", "Shift", "P"]
+        },
+        {
+          "description": "Open the AirDrop window",
+          "keys": ["Cmd", "Shift", "R"]
+        },
+        {
+          "description": "Show or hide the tab bar in Finder windows",
+          "keys": ["Cmd", "Shift", "T"]
+        },
+        {
+          "description": "Add selected Finder items to the Dock",
+          "keys": ["Ctrl", "Cmd", "Shift", "T"]
+        },
+        {
+          "description": "Open the Utilities folder",
+          "keys": ["Cmd", "Shift", "U"]
+        },
+        {
+          "description": "Show or hide the Dock",
+          "keys": ["Cmd", "Opt", "D"]
+        },
+        {
+          "description": "Add the selected item to the sidebar",
+          "keys": ["Cmd", "Ctrl", "T"]
+        },
+        {
+          "description": "Hide or show the path bar in Finder windows",
+          "keys": ["Cmd", "Opt", "P"]
+        },
+        {
+          "description": "Hide or show the Sidebar in Finder windows",
+          "keys": ["Cmd", "Opt", "S"]
+        },
+        {
+          "description": "Hide or show the status bar in Finder windows",
+          "keys": ["Cmd", "/"]
+        },
+        {
+          "description": "Show view options",
+          "keys": ["Cmd", "J"]
+        },
+        {
+          "description": "Open the Connect to Server window",
+          "keys": ["Cmd", "K"]
+        },
+        {
+          "description": "Make an alias of the selected item",
+          "keys": ["Cmd", "Ctrl", "A"]
+        },
+        {
+          "description": "Open a new Finder window",
+          "keys": ["Cmd", "N"]
+        },
+        {
+          "description": "Create a new Smart Folder",
+          "keys": ["Cmd", "Opt", "N"]
+        },
+        {
+          "description": "Show or hide the tab bar when a single tab is open in the current Finder window",
+          "keys": ["Cmd", "T"]
+        },
+        {
+          "description": "Show or hide the toolbar when a single tab is open in the current Finder window",
+          "keys": ["Cmd", "Opt", "T"]
+        },
+        {
+          "description": "Move the files in the Clipboard from their original location to the current location",
+          "keys": ["Cmd", "Opt", "V"]
+        },
+        {
+          "description": "Use Quick Look to preview the selected files",
+          "keys": ["Cmd", "Y"]
+        },
+        {
+          "description": "View a Quick Look slideshow of the selected files",
+          "keys": ["Cmd", "Opt", "Y"]
+        },
+        {
+          "description": "View the items in the Finder window as icons",
+          "keys": ["Cmd", "1"]
+        },
+        {
+          "description": "View the items in a Finder window as a list",
+          "keys": ["Cmd", "2"]
+        },
+        {
+          "description": "View the items in a Finder window in columns",
+          "keys": ["Cmd", "3"]
+        },
+        {
+          "description": "View the items in a Finder window in a gallery",
+          "keys": ["Cmd", "4"]
+        },
+        {
+          "description": "Go to the previous folder",
+          "keys": ["Cmd", "["]
+        },
+        {
+          "description": "Go to the next folder",
+          "keys": ["Cmd", "]"]
+        },
+        {
+          "description": "Open the folder that contains the current folder",
+          "keys": ["Cmd", "Up"]
+        },
+        {
+          "description": "Open the folder that contains the current folder, in a new window",
+          "keys": ["Cmd", "Ctrl", "Up"]
+        },
+        {
+          "description": "Open the selected item",
+          "keys": ["Cmd", "Down"]
+        },
+        {
+          "description": "Open the selected folder, this only works when in list view",
+          "keys": ["Right"]
+        },
+        {
+          "description": "Close the selected folder, this only works when in list view",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Move the selected item to the trash",
+          "keys": ["Cmd", "Del"]
+        },
+        {
+          "description": "Empty the trash",
+          "keys": ["Cmd", "Shift", "Del"]
+        },
+        {
+          "description": "Empty the trash without the confirmation dialogue",
+          "keys": ["Cmd", "Opt", "Shift", "Del"]
+        },
+        {
+          "description": "Turn video mirroring on or off when your Mac is connected to more than one display",
+          "keys": ["Cmd", "Bright-Down"]
+        },
+        {
+          "description": "Open Displays preferences",
+          "keys": ["Cmd", "Bright-Up"]
+        },
+        {
+          "description": "Change the brightness of your external display, if supported",
+          "keys": ["Ctrl", "Bright"]
+        },
+        {
+          "description": "Adjust the display brightness in smaller steps",
+          "keys": ["Opt", "Shift", "Bright"]
+        },
+        {
+          "description": "Show all windows of the front app",
+          "keys": ["Ctrl", "Down"]
+        },
+        {
+          "description": "Open Sound preferences",
+          "keys": ["Opt", "Vol"]
+        }
+      ]
+    }
+  ]
+}
