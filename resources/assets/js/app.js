@@ -39,7 +39,7 @@ var app = new Vue({
         },
         changeAllKeys(from, to) {
             if(!this.isMacOnly && !this.isWindowsOnly) {
-                let keys = document.getElementsByClassName('key');
+                let keys = document.getElementsByClassName('key-switch');
                 for (let key of keys) {
                     if (key.innerHTML === from) {
                         key.innerHTML = to;

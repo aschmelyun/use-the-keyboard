@@ -38,7 +38,7 @@
                                         </ul>
                                         <ul class="keys win-keys">
                                             @foreach($shortcut->keys as $keyIndex => $key)
-                                                <li class="key">{{ $key }}</li>
+                                                <li class="key key-switch">{{ $key }}</li>
                                                 @if($keyIndex < (count($shortcut->keys) - 1))
                                                     <li class="plus"></li>
                                                 @endif
@@ -47,7 +47,7 @@
                                     @else
                                         <ul class="keys">
                                             @foreach($shortcut->keys as $keyIndex => $key)
-                                                <li class="key">{{ $key }}</li>
+                                                <li class="key key-switch">{{ $key }}</li>
                                                 @if($keyIndex < (count($shortcut->keys) - 1))
                                                     <li class="plus"></li>
                                                 @endif
