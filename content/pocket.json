@@ -1,0 +1,169 @@
+{
+    "view": "layout.shortcut",
+    "slug": "pocket",
+    "title": "Pocket",
+    "meta_title": "Keyboard shortcuts for Pocket",
+    "meta_description": "A visual cheat-sheet for the 36 keyboard shortcuts found on Pocket for Web",
+    "reference_link": "https://help.getpocket.com/article/994-keyboard-shortcuts-in-pocket-for-web",
+    "sections": [
+        {
+            "name": "Viewing Your List",
+            "shortcuts": [
+                {
+                    "description": "Go to My List",
+                    "keys": ["G", "L"]
+                },
+                {
+                    "description": "Go to Archive",
+                    "keys": ["G", "A"]
+                },
+                {
+                    "description": "Go to Favorites",
+                    "keys": ["G", "F"]
+                },
+                {
+                    "description": "Go to Articles",
+                    "keys": ["G", "R"]
+                },
+                {
+                    "description": "Go to Highlights",
+                    "keys": ["G", "H"]
+                },
+                {
+                    "description": "Go to Videos",
+                    "keys": ["G", "V"]
+                },
+                {
+                    "description": "Go to All Tags",
+                    "keys": ["G", "T"]
+                },
+                {
+                    "description": "Go to Search",
+                    "keys": ["G", "S"]
+                },
+                {
+                    "description": "Bulk Edit",
+                    "keys": ["G", "B"]
+                },
+                {
+                    "description": "Save a URL",
+                    "keys": ["G", "U"]
+                },
+                {
+                    "description": "Sort by Newest",
+                    "keys": ["S", "N"]
+                },
+                {
+                    "description": "Sort by Oldest",
+                    "keys": ["S", "O"]
+                },
+                {
+                    "description": "List View",
+                    "keys": ["V", "L"]
+                },
+                {
+                    "description": "Grid View",
+                    "keys": ["V", "G"]
+                },
+                {
+                    "description": "Detail View",
+                    "keys": ["V", "D"]
+                },
+                {
+                    "description": "Change to Light Theme",
+                    "keys": ["C", "L"]
+                },
+                {
+                    "description": "Change to Dark Theme",
+                    "keys": ["C", "D"]
+                },
+                {
+                    "description": "Change to Sepia Theme",
+                    "keys": ["C", "S"]
+                },
+                {
+                    "description": "Open Help Overlay",
+                    "keys": ["?"]
+                }
+            ]
+        },
+        {
+            "name": "Item Actions",
+            "shortcuts": [
+                {
+                    "description": "Open the original in a new tab",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Archive the selected item",
+                    "keys": ["A"]
+                },
+                {
+                    "description": "Favorite the selected item",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "Tag the selected item",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Delete the selected item",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Select item in bulk edit",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Select the next item",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Select the previous item",
+                    "keys": ["K"]
+                }
+            ]
+        },
+        {
+            "name": "Article View",
+            "shortcuts": [
+                {
+                    "description": "Increase the font size",
+                    "keys": ["Ctrl", "="]
+                },
+                {
+                    "description": "Decrease the font size",
+                    "keys": ["Ctrl", "-"]
+                },
+                {
+                    "description": "Toggle full screen mode",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Edit tags",
+                    "keys": ["D"]
+                },
+                {
+                    "description": "Archive the item",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Favorite the item",
+                    "keys": ["F"]
+                },
+                {
+                    "description": "View the original",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "Increase the column width (premium only)",
+                    "keys": ["Alt", "="]
+                },
+                {
+                    "description": "Decrease the column width (premium only)",
+                    "keys": ["Alt", "-"]
+                }
+            ]
+        }
+    ]
+}
