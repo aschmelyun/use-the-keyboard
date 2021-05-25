@@ -1,0 +1,130 @@
+{
+    "view": "layout.shortcut",
+    "slug": "feedly",
+    "title": "Feedly",
+    "meta_title": "Keyboard shortcuts for Feedly",
+    "meta_description": "A visual cheat-sheet for the 210 keyboard shortcuts found on the Feedly app",
+    "reference_link": "https://support.office.com/en-us/article/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd",
+    "sections": [
+        {
+            "name": "General",
+            "shortcuts": [
+                {
+                    "description": "Show keyboard shortcuts",
+                    "keys": ["?"]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Show Today",
+                    "keys": ["G", "T"]
+                },
+                {
+                    "description": "Show All",
+                    "keys": ["G", "A"]
+                },
+                {
+                    "description": "Show Favorites",
+                    "keys": ["G", "F"]
+                },
+                {
+                    "description": "Jump to...",
+                    "keys": ["G", "G"]
+                },
+                {
+                    "description": "Read later",
+                    "keys": ["G", "L"]
+                },
+                {
+                    "description": "Index",
+                    "keys": ["G", "I"]
+                },
+                {
+                    "description": "Organize sources",
+                    "keys": ["G", "O"]
+                },
+                {
+                    "description": "Next source or collection",
+                    "keys": ["Shift", "J"]
+                },
+                {
+                    "description": "Previous source or collection",
+                    "keys": ["Shift", "K"]
+                },
+                {
+                    "description": "Refresh",
+                    "keys": ["R"]
+                }
+            ]
+        },
+        {
+            "name": "Lists",
+            "shortcuts": [
+                {
+                    "description": "Inline next artlcke",
+                    "keys": ["J"]
+                },
+                {
+                    "description": "Inline previous article",
+                    "keys": ["K"]
+                },
+                {
+                    "description": "Select the next article",
+                    "keys": ["N"]
+                },
+                {
+                    "description": "Select the previous article",
+                    "keys": ["P"]
+                },
+                {
+                    "description": "Mark all as read",
+                    "keys": ["Shift", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Selected Article",
+            "shortcuts": [
+                {
+                    "description": "Inline or close the currently selected article",
+                    "keys": ["O"]
+                },
+                {
+                    "description": "View the original in a new tab",
+                    "keys": ["V"]
+                },
+                {
+                    "description": "Toggle mark as read",
+                    "keys": ["M"]
+                },
+                {
+                    "description": "Mark as read and hide",
+                    "keys": ["X"]
+                },
+                {
+                    "description": "Read later",
+                    "keys": ["S"]
+                },
+                {
+                    "description": "Save to Board",
+                    "keys": ["T"]
+                },
+                {
+                    "description": "Save to Buffer",
+                    "keys": ["B"]
+                },
+                {
+                    "description": "Clip to Evernote",
+                    "keys": ["C"]
+                },
+                {
+                    "description": "Preview",
+                    "keys": ["Shift", "V"]
+                }
+            ]
+        }
+    ]
+}
