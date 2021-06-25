@@ -1,0 +1,289 @@
+{
+    "view": "layout.shortcut",
+    "slug": "apple-music",
+    "title": "Apple Music",
+    "meta_title": "Keyboard shortcuts for Music on Mac",
+    "meta_description": "A visual cheat-sheet for the 62 keyboard shortcuts found in the Apple Music app. This application is MacOS-only.",
+    "reference_link": "https://support.apple.com/guide/music/keyboard-shortcuts-mus1019/mac",
+    "mac_only": true,
+    "sections": [
+        {
+            "name": "Playin Music",
+            "shortcuts": [
+                {
+                    "description": "Start playing or pause the selected song",
+                    "keys": ["Space"]
+                },
+                {
+                    "description": "Play the currently selected song from the beginning",
+                    "keys": ["Enter"]
+                },
+                {
+                    "description": "Move forward within a song",
+                    "keys": ["Cmd", "Opt", "Right"]
+                },
+                {
+                    "description": "Move backward within a song",
+                    "keys": ["Cmd", "Opt", "Left"]
+                },
+                {
+                    "description": "Stop playing the selected song",
+                    "keys": ["Cmd", "."]
+                },
+                {
+                    "description": "When a song is playing, play the next song in a list",
+                    "keys": ["Right"]
+                },
+                {
+                    "description": "When a song is playing, play the previous song in a list",
+                    "keys": ["Left"]
+                },
+                {
+                    "description": "Show the currently playing song in the list",
+                    "keys": ["Cmd", "L"]
+                },
+                {
+                    "description": "Show the Playing Next queue",
+                    "keys": ["Cmd", "Opt", "U"]
+                },
+                {
+                    "description": "Listen to the next album in a list",
+                    "keys": ["Opt", "Right"]
+                },
+                {
+                    "description": "Listen to the previous album in a list",
+                    "keys": ["Opt", "Left"]
+                },
+                {
+                    "description": "Increase the volume",
+                    "keys": ["Cmd", "Up"]
+                },
+                {
+                    "description": "Decrease the volume",
+                    "keys": ["Cmd", "Down"]
+                },
+                {
+                    "description": "Open the equalizer",
+                    "keys": ["Cmd", "Opt", "E"]
+                },
+                {
+                    "description": "Go to the next chapter, if available",
+                    "keys": ["Cmd", "Shift", "Right"]
+                },
+                {
+                    "description": "Go to the previous chapter, if available",
+                    "keys": ["Cmd", "Shift", "Left"]
+                },
+                {
+                    "description": "Stream audio file at a specific URL to Music",
+                    "keys": ["Cmd", "U"]
+                }
+            ]
+        },
+        {
+            "name": "Playlists",
+            "shortcuts": [
+                {
+                    "description": "Create a new playlist",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "Create a playlist from a selection of songs",
+                    "keys": ["Cmd", "Shift", "N"]
+                },
+                {
+                    "description": "Create a new Smart Playlist",
+                    "keys": ["Cmd", "Opt", "N"]
+                },
+                {
+                    "description": "Start the Genius Shuffle",
+                    "keys": ["Opt", "Space"]
+                },
+                {
+                    "description": "Refresh a Genius Playlist, when the playlist is selected",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Delete the selected playlist without confirmation",
+                    "keys": ["Cmd", "Del"]
+                },
+                {
+                    "description": "Delete the selected playlist and all songs it contains from your library",
+                    "keys": ["Opt", "Del"]
+                },
+                {
+                    "description": "Delete the selected song from your library and all playlists",
+                    "keys": ["Opt", "Del"]
+                }
+            ]
+        },
+        {
+            "name": "Library",
+            "shortcuts": [
+                {
+                    "description": "Add a file to your library",
+                    "keys": ["Cmd", "O"]
+                },
+                {
+                    "description": "Show where a song file is located",
+                    "keys": ["Cmd", "Shift", "R"]
+                },
+                {
+                    "description": "Select the search field",
+                    "keys": ["Cmd", "F"]
+                },
+                {
+                    "description": "Undo your last typing change while editing an item",
+                    "keys": ["Cmd", "Z"]
+                },
+                {
+                    "description": "Cut the selected song's information or artwork",
+                    "keys": ["Cmd", "X"]
+                },
+                {
+                    "description": "Copy the selected song's information or artwork",
+                    "keys": ["Cmd", "C"]
+                },
+                {
+                    "description": "Paste the selected song's information or artwork",
+                    "keys": ["Cmd", "V"]
+                },
+                {
+                    "description": "Select all the songs in the list",
+                    "keys": ["Cmd", "A"]
+                },
+                {
+                    "description": "Show or hide the column browser",
+                    "keys": ["Cmd", "B"]
+                },
+                {
+                    "description": "De-select all the songs in the list",
+                    "keys": ["Cmd", "Shift", "A"]
+                }
+            ]
+        },
+        {
+            "name": "Window Options",
+            "shortcuts": [
+                {
+                    "description": "Open the MiniPlayer",
+                    "keys": ["Cmd", "Shift", "M"]
+                },
+                {
+                    "description": "Open the Full Screen Player",
+                    "keys": ["Cmd", "Shift", "F"]
+                },
+                {
+                    "description": "Toggle full-screen view",
+                    "keys": ["Cmd", "Ctrl", "F"]
+                },
+                {
+                    "description": "Show or hide the status bar",
+                    "keys": ["Cmd", "/"]
+                },
+                {
+                    "description": "Open the info window for the selected song",
+                    "keys": ["Cmd", "I"]
+                },
+                {
+                    "description": "In the info window, see information for the next song",
+                    "keys": ["Cmd", "N"]
+                },
+                {
+                    "description": "In the info window, see information for the previous song",
+                    "keys": ["Cmd", "P"]
+                },
+                {
+                    "description": "Go to the previous pane in the info window",
+                    "keys": ["Cmd", "Shift", "["]
+                },
+                {
+                    "description": "Go to the next pane in the info window",
+                    "keys": ["Cmd", "Shift", "]"]
+                },
+                {
+                    "description": "Open the View Options window for the selected source",
+                    "keys": ["Cmd", "J"]
+                },
+                {
+                    "description": "Turn the visualizer on or off",
+                    "keys": ["Cmd", "T"]
+                },
+                {
+                    "description": "See more options when a visual effect is showing",
+                    "keys": ["?"]
+                },
+                {
+                    "description": "Refresh Apple Music or the iTunes Store",
+                    "keys": ["Cmd", "R"]
+                },
+                {
+                    "description": "Open the Music window",
+                    "keys": ["Cmd", "0"]
+                },
+                {
+                    "description": "Close the Music window",
+                    "keys": ["Cmd", "W"]
+                },
+                {
+                    "description": "Put the Music window in the Dock",
+                    "keys": ["Cmd", "M"]
+                },
+                {
+                    "description": "Hide the Music window",
+                    "keys": ["Cmd", "H"]
+                },
+                {
+                    "description": "Hide all other applications",
+                    "keys": ["Cmd", "Opt", "H"]
+                }
+            ]
+        },
+        {
+            "name": "iTunes Store",
+            "shortcuts": [
+                {
+                    "description": "Initiate a search in the iTunes Store",
+                    "keys": ["Opt", "Enter"]
+                },
+                {
+                    "description": "Go to the next page in the iTunes Store",
+                    "keys": ["Cmd", "]"]
+                },
+                {
+                    "description": "Go to the previous page in the iTunes Store",
+                    "keys": ["Cmd", "["]
+                },
+                {
+                    "description": "Reload the current page",
+                    "keys": ["Cmd", "R"]
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "shortcuts": [
+                {
+                    "description": "Open Music Preferences",
+                    "keys": ["Cmd", ","]
+                },
+                {
+                    "description": "Quit the Music app",
+                    "keys": ["Cmd", "Q"]
+                },
+                {
+                    "description": "Eject a CD",
+                    "keys": ["Cmd", "E"]
+                },
+                {
+                    "description": "Open the Music Help menu",
+                    "keys": ["Cmd", "?"]
+                },
+                {
+                    "description": "Open a different music library, while opening Music",
+                    "keys": ["Cmd", "Opt"]
+                }
+            ]
+        }
+    ]
+}
