@@ -8,7 +8,7 @@
     "mac_only": true,
     "sections": [
         {
-            "name": "Playin Music",
+            "name": "Playing Music",
             "shortcuts": [
                 {
                     "description": "Start playing or pause the selected song",
