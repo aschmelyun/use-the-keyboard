@@ -3,7 +3,7 @@
     "slug": "github",
     "title": "Github",
     "meta_title": "Keyboard shortcuts for Github",
-    "meta_description": "A visual cheat-sheet for the 80 keyboard shortcuts found on Github.com",
+    "meta_description": "A visual cheat-sheet for the 80+ keyboard shortcuts found on Github.com",
     "reference_link": "https://help.github.com/articles/using-keyboard-shortcuts/",
     "sections": [
         {
@@ -56,6 +56,38 @@
             "name": "Source code editing",
             "shortcuts": [
                 {
+                    "description": "Opens a repository or pull request in the web-based editor.",
+                    "keys": ["."]
+                },
+                {
+                    "description": "Inserts Markdown formatting for bolding text.",
+                    "keys": ["Ctrl", "B"]
+                },
+                {
+                    "description": "Inserts Markdown formatting for italicizing text.",
+                    "keys": ["Ctrl", "I"]
+                },
+                {
+                    "description": "Inserts Markdown formatting for creating a link.",
+                    "keys": ["Ctrl", "K"]
+                },
+                {
+                    "description": "Inserts Markdown formatting for an ordered list.",
+                    "keys": ["Ctrl", "Shift", "7"]
+                },
+                {
+                    "description": "Inserts Markdown formatting for an unordered list.",
+                    "keys": ["Ctrl", "Shift", "8"]
+                },
+                {
+                    "description": "Inserts Markdown formatting for a quote.",
+                    "keys": ["Ctrl", "Shift", "."]
+                },
+                {
+                    "description": "Open source code file in the Edit file tab.",
+                    "keys": ["E"]
+                },
+                {
                     "description": "Start searching in file editor",
                     "keys": ["Ctrl", "F"]
                 },
@@ -86,6 +118,10 @@
                 {
                     "description": "Redo",
                     "keys": ["Ctrl", "Y"]
+                },
+                {
+                    "description": "Write a commit message.",
+                    "keys": ["Ctrl", "S"]
                 }
             ]
         },
