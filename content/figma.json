@@ -86,11 +86,12 @@
         },
         {
           "description": "Show Outlines",
-          "keys": ["Ctrl", "Y"]
+          "keys": ["Shift", "O"]
         },
         {
           "description": "Pixel Preview",
-          "keys": ["Ctrl", "P"]
+          "keys": ["Ctrl", "Shift", "P"],
+          "mac_keys": ["Cmd", "Shift", "P"]
         },
         {
           "description": "Layout Grids",
@@ -98,7 +99,7 @@
         },
         {
           "description": "Pixel Grid",
-          "keys": ["Ctrl", "'"]
+          "keys": ["Shift", "'"]
         },
         {
           "description": "Show/Hide UI",
@@ -113,12 +114,25 @@
           "keys": ["Alt", "1"]
         },
         {
-          "description": "Show Components",
+          "description": "Show Libraries",
           "keys": ["Alt", "2"]
         },
         {
           "description": "Show Team Library",
-          "keys": ["Alt", "3"]
+          "keys": ["Ctrl", "Alt", "O"],
+          "mac_keys": ["Alt", "3"]
+        },
+        {
+          "description": "Show Design Panel",
+          "keys": ["Alt", "8"]
+        },
+        {
+          "description": "Show Prototype Panel",
+          "keys": ["Alt", "9"]
+        },
+        {
+          "description": "Show Inspect Panel",
+          "keys": ["Alt", "0"]
         }
       ]
     },
