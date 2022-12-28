@@ -19,8 +19,9 @@
           "mac_keys": ["Ctrl", "C"]
         },
         {
-          "description": "Search Menu",
-          "keys": ["Ctrl", "/"]
+          "description": "Search Menu / Command Palette",
+          "keys": ["Ctrl", "/"],
+          "mac_keys": ["Cmd", "P"]
         }
       ]
     },
@@ -86,19 +87,20 @@
         },
         {
           "description": "Show Outlines",
-          "keys": ["Ctrl", "Y"]
+          "keys": ["Shift", "O"]
         },
         {
           "description": "Pixel Preview",
-          "keys": ["Ctrl", "P"]
+          "keys": ["Ctrl", "Shift", "P"],
+          "mac_keys": ["Cmd", "Shift", "P"]
         },
         {
           "description": "Layout Grids",
-          "keys": ["Ctrl", "G"]
+          "keys": ["Shift", "G"]
         },
         {
           "description": "Pixel Grid",
-          "keys": ["Ctrl", "'"]
+          "keys": ["Shift", "'"]
         },
         {
           "description": "Show/Hide UI",
@@ -113,12 +115,25 @@
           "keys": ["Alt", "1"]
         },
         {
-          "description": "Show Components",
+          "description": "Show Libraries",
           "keys": ["Alt", "2"]
         },
         {
           "description": "Show Team Library",
-          "keys": ["Alt", "3"]
+          "keys": ["Ctrl", "Alt", "O"],
+          "mac_keys": ["Alt", "3"]
+        },
+        {
+          "description": "Show Design Panel",
+          "keys": ["Alt", "8"]
+        },
+        {
+          "description": "Show Prototype Panel",
+          "keys": ["Alt", "9"]
+        },
+        {
+          "description": "Show Inspect Panel",
+          "keys": ["Alt", "0"]
         }
       ]
     },
@@ -249,7 +264,7 @@
         },
         {
           "description": "Remove Stroke",
-          "keys": ["/"]
+          "keys": ["Shift", "/"]
         },
         {
           "description": "Swap Fill and Stroke",
@@ -295,10 +310,6 @@
         {
           "description": "Deep Select",
           "keys": ["Ctrl", "(click)"]
-        },
-        {
-          "description": "Select Layer Menu",
-          "keys": ["Ctrl", "(right click)"]
         },
         {
           "description": "Select Child",
@@ -433,7 +444,8 @@
         },
         {
           "description": "Use as Mask",
-          "keys": ["Ctrl", "M"]
+          "keys": ["Ctrl", "Alt", "M"],
+          "mac_keys": ["Cmd", "Ctrl", "M"]
         },
         {
           "description": "Edit Shape or Image",
@@ -464,6 +476,10 @@
     {
       "name": "Arrange",
       "shortcuts": [
+        {
+          "description": "Add Auto Layout",
+          "keys": ["Shift", "A"]
+        },
         {
           "description": "Bring Forward",
           "keys": ["Ctrl", "]"]
@@ -510,11 +526,13 @@
         },
         {
           "description": "Distribute Horizontal Spacing",
-          "keys": ["Ctrl", "Alt", "H"]
+          "keys": ["Alt", "Shift", "H"],
+          "mac_keys": ["Ctrl", "Alt", "H"]
         },
         {
           "description": "Distribute Vertical Spacing",
-          "keys": ["Ctrl", "Alt", "V"]
+          "keys": ["Alt", "Shift", "V"],
+          "mac_keys": ["Ctrl", "Alt", "V"]
         }
       ]
     },
@@ -526,16 +544,19 @@
           "keys": ["Alt", "2"]
         },
         {
-          "description": "Team Library",
-          "keys": ["Ctrl", "Shift", "O"]
+          "description": "Show Team Library",
+          "keys": ["Ctrl", "Alt", "O"],
+          "mac_keys": ["Alt", "3"]
         },
         {
           "description": "Create Component",
-          "keys": ["Ctrl", "Shift", "K"]
+          "keys": ["Ctrl", "Alt", "K"],
+          "mac_keys": ["Cmd", "Alt", "K"]
         },
         {
           "description": "Detach Instance",
-          "keys": ["Ctrl", "Shift", "B"]
+          "keys": ["Ctrl", "Alt", "B"],
+          "mac_keys": ["Cmd", "Alt", "B"]
         },
         {
           "description": "Swap Component Instance (while dragging from Assets)",
