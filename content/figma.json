@@ -94,7 +94,7 @@
         },
         {
           "description": "Layout Grids",
-          "keys": ["Ctrl", "G"]
+          "keys": ["Shift", "G"]
         },
         {
           "description": "Pixel Grid",
