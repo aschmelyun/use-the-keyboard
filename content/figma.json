@@ -19,8 +19,9 @@
           "mac_keys": ["Ctrl", "C"]
         },
         {
-          "description": "Search Menu",
-          "keys": ["Ctrl", "/"]
+          "description": "Search Menu / Command Palette",
+          "keys": ["Ctrl", "/"],
+          "mac_keys": ["Cmd", "P"]
         }
       ]
     },
@@ -263,7 +264,7 @@
         },
         {
           "description": "Remove Stroke",
-          "keys": ["/"]
+          "keys": ["Shift", "/"]
         },
         {
           "description": "Swap Fill and Stroke",
@@ -309,10 +310,6 @@
         {
           "description": "Deep Select",
           "keys": ["Ctrl", "(click)"]
-        },
-        {
-          "description": "Select Layer Menu",
-          "keys": ["Ctrl", "(right click)"]
         },
         {
           "description": "Select Child",
@@ -447,7 +444,8 @@
         },
         {
           "description": "Use as Mask",
-          "keys": ["Ctrl", "M"]
+          "keys": ["Ctrl", "Alt", "M"],
+          "mac_keys": ["Cmd", "Ctrl", "M"]
         },
         {
           "description": "Edit Shape or Image",
@@ -528,11 +526,13 @@
         },
         {
           "description": "Distribute Horizontal Spacing",
-          "keys": ["Ctrl", "Alt", "H"]
+          "keys": ["Alt", "Shift", "H"],
+          "mac_keys": ["Ctrl", "Alt", "H"]
         },
         {
           "description": "Distribute Vertical Spacing",
-          "keys": ["Ctrl", "Alt", "V"]
+          "keys": ["Alt", "Shift", "V"],
+          "mac_keys": ["Ctrl", "Alt", "V"]
         }
       ]
     },
@@ -544,16 +544,19 @@
           "keys": ["Alt", "2"]
         },
         {
-          "description": "Team Library",
-          "keys": ["Ctrl", "Shift", "O"]
+          "description": "Show Team Library",
+          "keys": ["Ctrl", "Alt", "O"],
+          "mac_keys": ["Alt", "3"]
         },
         {
           "description": "Create Component",
-          "keys": ["Ctrl", "Shift", "K"]
+          "keys": ["Ctrl", "Alt", "K"],
+          "mac_keys": ["Cmd", "Alt", "K"]
         },
         {
           "description": "Detach Instance",
-          "keys": ["Ctrl", "Shift", "B"]
+          "keys": ["Ctrl", "Alt", "B"],
+          "mac_keys": ["Cmd", "Alt", "B"]
         },
         {
           "description": "Swap Component Instance (while dragging from Assets)",
