@@ -1,0 +1,284 @@
+{
+  "view": "layout.shortcut",
+  "slug": "pitch",
+  "title": "Pitch",
+  "meta_title": "Keyboard shortcuts for Pitch",
+  "meta_description": "A visual cheat-sheet for the 62 keyboard shortcuts found in Pitch. This list is MacOS-only.",
+  "reference_link": "https://help.pitch.com/en/articles/4287527-find-keyboard-shortcuts",
+  "mac_only": true,
+  "sections": [
+    {
+      "name": "Basic shortcuts",
+      "shortcuts": [
+        {
+          "description": "New slide",
+          "keys": ["N"]
+        },
+        {
+          "description": "Search for presentation",
+          "keys": ["O"],
+        },
+        {
+          "description": "Cycle through tabs",
+          "keys": ["Ctrl", "Tab"]
+        }
+        {
+          "description": "Close tab",
+          "keys": ["Cmd", "W"]
+        }
+        {
+          "description": "Select tab",
+          "keys": ["Cmd", "1-9"]
+        }
+        {
+          "description": "Open quick menu",
+          "keys": ["Cmd", "K"]
+        }
+        {
+          "description": "Toggle panel",
+          "keys": ["Cmd", "."]
+        }
+      ]
+    },
+    {
+      "name": "Systemwide shortcuts",
+      "shortcuts": [
+        {
+          "description": "Undo",
+          "keys": ["Cmd", "Z"]
+        },
+        {
+          "description": "Redo",
+          "keys": ["Cmd", "Shift", "Z"]
+        },
+        {
+          "description": "Cut",
+          "keys": ["Cmd", "X"]
+        },
+        {
+          "description": "Copy",
+          "keys": ["Cmd", "C"]
+        },
+        {
+          "description": "Paste",
+          "keys": ["Cmd", "V"]
+        },
+        {
+          "description": "Close popup",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Minimize window",
+          "keys": ["Cmd", "M"]
+        },
+        {
+          "description": "Hide app",
+          "keys": ["Cmd", "H"]
+        },
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "shortcuts": [
+        {
+          "description": "Create presentation",
+          "keys": ["N"]
+        },
+        {
+          "description": "New folder",
+          "keys": ["F"]
+        },
+        {
+          "description": "Jump to workspace",
+          "keys": ["1-9"]
+        },
+      ]
+    },
+    {
+      "name": "Edit slides",
+      "shortcuts": [
+        {
+          "description": "Apply styles",
+          "keys": ["Opt", "T"]
+        },
+        {
+          "description": "Duplicate object",
+          "keys": ["Opt", "(drag)"]
+        },
+        {
+          "description": "Move position 1px",
+          "keys": ["Arrow Key"]
+        },
+        {
+          "description": "Move position 10px",
+          "keys": ["Shift", "Arrow Key"]
+        },
+        {
+          "description": "Show alignment guides",
+          "keys": ["Opt"]
+        },
+        {
+          "description": "Align to next guide",
+          "keys": ["Cmd", "Arrow Key"]
+        },
+        {
+          "description": "Tidy multiple blocks",
+          "keys": ["Space"]
+        },
+        {
+          "description": "Swap blocks",
+          "keys": ["Cmd", "Shift", "Arrow Key"]
+        },
+        {
+          "description": "Deselect block",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Select all blocks on a slide",
+          "keys": ["Cmd", "A"]
+        },
+        {
+          "description": "Duplicate slide or block",
+          "keys": ["Cmd", "D"]
+        },
+        {
+          "description": "Delete slide or block",
+          "keys": ["Del"]
+        }
+        {
+          "description": "Move slide up or down",
+          "keys": ["Cmd", "Up/Down"]
+        }
+      ]
+    },
+    {
+      "name": "Navigate",
+      "shortcuts": [
+        {
+          "description": "First slide",
+          "keys": ["Home"]
+        },
+        {
+          "description": "Last slide",
+          "keys": ["End"]
+        },
+        {
+          "description": "Previous slide",
+          "keys": ["Opt", "Up"]
+        },
+        {
+          "description": "Next slide",
+          "keys": ["Opt", "Down"]
+        },
+        {
+          "description": "Jump to slide",
+          "keys": ["J"]
+        },
+      ]
+    },
+    {
+      "name": "Collaborate",
+      "shortcuts": [
+        {
+          "description": "Create comment",
+          "keys": ["Cmd", "Shift", "M"]
+        },
+        {
+          "description": "Post a comment",
+          "keys": ["Cmd", "Return"]
+        },
+        {
+          "description": "Change slide status",
+          "keys": ["Opt", "S"]
+        },
+        {
+          "description": "Assign slide",
+          "keys": ["A"]
+        },
+        {
+          "description": "Toggle microphone",
+          "keys": ["M"]
+        },
+      ]
+    },
+    {
+      "name": "Present",
+      "shortcuts": [
+        {
+          "description": "Start presenting",
+          "keys": ["Cmd", "Shift", "F"]
+        },
+        {
+          "description": "Stop presenting",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Previous slide",
+          "keys": ["Left"]
+        },
+        {
+          "description": "Next slide",
+          "keys": ["Right"]
+        },
+      ]
+    },
+    {
+      "name": "Edit text",
+      "shortcuts": [
+        {
+          "description": "Open link toolbar",
+          "keys": ["Cmd", "K"]
+        },
+        {
+          "description": "Cancel text edit",
+          "keys": ["Esc"]
+        },
+        {
+          "description": "Increase indent",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Underline",
+          "keys": ["Cmd", "U"]
+        },
+        {
+          "description": "Strikethrough",
+          "keys": ["Cmd", "Shift", "S"]
+        },
+        {
+          "description": "Bold",
+          "keys": ["Cmd", "B"]
+        },
+        {
+          "description": "Italic",
+          "keys": ["Cmd", "I"]
+        },
+      ]
+    },
+    {
+      "name": "Add block",
+      "shortcuts": [
+        {
+          "description": "Add image or media",
+          "keys": ["I"]
+        },
+        {
+          "description": "Add shape",
+          "keys": ["S"]
+        },
+        {
+          "description": "Add headline",
+          "keys": ["H"]
+        },
+        {
+          "description": "Add normal text",
+          "keys": ["T"]
+        },
+        {
+          "description": "Add text below",
+          "keys": ["Cmd", "Return"]
+        },
+      ]
+    },
+  ]
+}
