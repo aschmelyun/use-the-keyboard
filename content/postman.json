@@ -76,8 +76,20 @@
                 },
                 {
                     "description": "Duplicate",
-                    "keys": ["Ctrl", "D"]
+                    "keys": ["Ctrl", "Shift", "D"]
                 },
+                {
+                    "description": "Move current line",
+                    "keys": ["Alt", "Up/Down"]
+                }
+                {
+                    "description": "Duplicate current line above",
+                    "keys": ["Alt", "Shift", "Up"]
+                }
+                {
+                    "description": "Duplicate current line below",
+                    "keys": ["Alt", "Shift", "Down"]
+                }
                 {
                     "description": "Edit/Rename",
                     "keys": ["Ctrl", "E"]
