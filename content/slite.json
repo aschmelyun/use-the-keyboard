@@ -1,0 +1,169 @@
+{
+  "view": "layout.shortcut",
+  "slug": "slite",
+  "title": "Slite",
+  "meta_title": "Keyboard shortcuts for Slite",
+  "meta_description": "A visual cheat-sheet for the 37 keyboard shortcuts found in Slite. This list is MacOS-only.",
+  "reference_link": "https://help.slite.com/en/articles/1880265-the-slite-editor",
+  "mac_only": true,
+  "sections": [
+    {
+      "name": "Editor",
+      "shortcuts": [
+        {
+          "description": "Browse all formatting options",
+          "keys": ["/"]
+        },
+        {
+          "description": "Mention user",
+          "keys": ["@"],
+        },
+        {
+          "description": "Add doc link",
+          "keys": ["@"]
+        }
+        {
+          "description": "Undo",
+          "keys": ["Cmd", "Z"]
+        }
+        {
+          "description": "Redo",
+          "keys": ["Cmd", "Shift", "Z"]
+        }
+        {
+          "description": "Bold",
+          "keys": ["Cmd", "B"]
+        }
+        {
+          "description": "Italic",
+          "keys": ["Cmd", "I"]
+        }
+        {
+          "description": "Header 1",
+          "keys": ["Cmd", "Shift", "1"]
+        },
+        {
+          "description": "Header 2",
+          "keys": ["Cmd", "Shift", "2"]
+        },
+        {
+          "description": "Header 3",
+          "keys": ["Cmd", "Shift", "3"]
+        },
+        {
+          "description": "Todo list",
+          "keys": ["Cmd", "Shift", "C"]
+        },
+        {
+          "description": "Ordered list",
+          "keys": ["Cmd", "Shift", "7"]
+        },
+        {
+          "description": "List",
+          "keys": ["Cmd", "Shift", "8"]
+        },
+        {
+          "description": "Add a URL or doc link to selection",
+          "keys": ["Cmd", "K"]
+        },
+        {
+          "description": "Comment a selection",
+          "keys": ["Cmd", "Opt", "M"]
+        },
+        {
+          "description": "Quick validate a comment",
+          "keys": ["Cmd", "Enter"]
+        },
+        {
+          "description": "Placeholder",
+          "keys": ["Cmd", "Shift", "P"]
+        },
+        {
+          "description": "Inline code",
+          "keys": ["Cmd", "J"]
+        },
+        {
+          "description": "Codeblock",
+          "keys": ["Cmd", "Shift", "9"]
+        },
+        {
+          "description": "Embed a link preview",
+          "keys": ["Cmd", "Shift", "E"]
+        },
+        {
+          "description": "Quote",
+          "keys": ["Cmd", "Shift", ">"]
+        },
+        {
+          "description": "Hint",
+          "keys": ["Cmd", "Shift", "Opt", "H"]
+        },
+        {
+          "description": "Underline",
+          "keys": ["Cmd", "U"]
+        },
+        {
+          "description": "Strikethrough",
+          "keys": ["Cmd", "Shift", "S"]
+        },
+        {
+          "description": "Highlight",
+          "keys": ["Cmd", "E"]
+        },
+        {
+          "description": "Indent",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Undent",
+          "keys": ["Shift", "Tab"]
+        },
+        {
+          "description": "Emoji",
+          "keys": [":"]
+        },
+      ]
+    },
+    {
+      "name": "App",
+      "shortcuts": [
+        {
+          "description": "Create new doc",
+          "keys": ["Cmd", "N"]
+        },
+        {
+          "description": "Search",
+          "keys": ["Cmd", "Shift", "K"]
+        },
+        {
+          "description": "Quick switch",
+          "keys": ["Cmd", "K"]
+        },
+        {
+          "description": "Search in current view",
+          "keys": ["Cmd", "F"]
+        },
+        {
+          "description": "Toggle focus mode",
+          "keys": ["Cmd", "Shift", "E"]
+        },
+        {
+          "description": "Navigate backward",
+          "keys": ["Cmd", "Left"]
+        },
+        {
+          "description": "Navigate forward",
+          "keys": ["Cmd", "Right"]
+        },
+        {
+          "description": "Reload page",
+          "keys": ["Cmd", "R"]
+        },
+        {
+          "description": "Close current panel or modal",
+          "keys": ["Esc"]
+        },
+      ]
+    },
+  ]
+}
