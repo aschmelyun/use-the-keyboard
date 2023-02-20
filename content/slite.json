@@ -28,7 +28,7 @@
         }
         {
           "description": "Redo",
-          "keys": ["Cmd", "Shit", "Z"]
+          "keys": ["Cmd", "Shift", "Z"]
         }
         {
           "description": "Bold",
