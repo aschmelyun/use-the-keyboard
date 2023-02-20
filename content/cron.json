@@ -1,0 +1,290 @@
+{
+  "view": "layout.shortcut",
+  "slug": "cron",
+  "title": "cron",
+  "meta_title": "Keyboard shortcuts for Cron",
+  "meta_description": "A visual cheat-sheet for 56 keyboard shortcuts found in Cron. This list is MacOS-only.",
+  "reference_link": "https://cronhq.notion.site/Global-keyboard-shortcuts-e933a55e7fb648028b09cedf933d3e76",
+  "mac_only": true,
+  "sections": [
+    {
+      "name": "System-wide",
+      "shortcuts": [
+        {
+          "description": "Menu bar calendar",
+          "keys": ["Control", "Cmd", "K"]
+        },
+        {
+          "description": "Join conferencing globally",
+          "keys": ["Control", "Cmd", "J"],
+        },
+      ]
+    },
+    {
+      "name": "General",
+      "shortcuts": [
+        {
+          "description": "Command menu",
+          "keys": ["Cmd", "K"]
+        }
+        {
+          "description": "Cron menu",
+          "keys": ["`"]
+        }
+        {
+          "description": "Set theme to light/dark",
+          "keys": ["Cmd", "Shift", "L"]
+        }
+        {
+          "description": "Save or confirm",
+          "keys": ["Cmd", "return"]
+        }
+        {
+          "description": "Dismiss or go back",
+          "keys": ["esc"]
+        }
+        {
+          "description": "Move focus",
+          "keys": ["Tab"]
+        },
+        {
+          "description": "Move focus back",
+          "keys": ["Shift", "Tab"]
+        },
+        {
+          "description": "Undo",
+          "keys": ["Cmd", "Z"]
+        },
+        {
+          "description": "Select/deselect highlighted event",
+          "keys": ["X"]
+        },
+        {
+          "description": "Add/remove selected",
+          "keys": ["Cmd", "click"]
+        },
+        {
+          "description": "Select multiple events",
+          "keys": ["Shift", "drag"]
+        },
+      ]
+    },
+    {
+      "name": "With a selected meeting or repeat event...",
+      "shortcuts": [
+        {
+          "description": "Delete instantly",
+          "keys": ["Cmd", "delete"]
+        },
+        {
+          "description": "Cancel instantly no email",
+          "keys": ["Cmd", "Shift", "delete"]
+        },
+        {
+          "description": "Update instantly no email",
+          "keys": ["Cmd", "Shift", "return"]
+        },
+      ]
+    },
+    {
+      "name": "With a selected event or hold...",
+      "shortcuts": [
+        {
+          "description": "Delete",
+          "keys": ["delete"]
+        },
+        {
+          "description": "Cut",
+          "keys": ["Cmd", "X"]
+        },
+        {
+          "description": "Copy",
+          "keys": ["Cmd", "C"]
+        },
+        {
+          "description": "Duplicate",
+          "keys": ["Cmd", "D"]
+        },
+      ]
+    },
+    {
+      "name": "With a cut/copied event or hold...",
+      "shorcuts": [
+        {
+          "description": "Paste",
+          "keys": ["Cmd", "V"]
+        },
+      ]
+    },
+    {
+      "name": "Workflows",
+      "shortcuts": [
+        {
+          "description": "Create event",
+          "keys": ["C"]
+        },
+        {
+          "description": "Meet with",
+          "keys": ["F"]
+        },
+        {
+          "description": "Share availability",
+          "keys": ["S"]
+        },
+        {
+          "description": "Show teammate calendar",
+          "keys": ["P"]
+        },
+        {
+          "description": "Hide teammate calendars",
+          "keys": ["esc"]
+        },
+        {
+          "description": "Join conferencing",
+          "keys": ["Cmd", "J"]
+        },
+        {
+          "description": "Select next/upcoming",
+          "keys": ["N"]
+        },
+        {
+          "description": "Select previous",
+          "keys": ["B"]
+        },
+        {
+          "description": "Search/Find",
+          "keys": ["Cmd", "F"]
+        },
+      ]
+    },
+    {
+      "name": "With a selected hold...",
+      "shortcuts": [
+        {
+          "description": "Copy snippet",
+          "keys": ["Cmd", "Shift", "C"]
+        },
+        {
+          "description": "Copy scheduleing link",
+          "keys": ["Cmd", "Opt", "C"]
+        },
+      ]
+    },
+    {
+      "name": "When moving a meeting or repeat event...",
+      "shortcuts": [
+        {
+          "description": "Commit instantly",
+          "keys": ["Hold", "Cmd"]
+        },
+        {
+          "description": "Update instantly no email",
+          "keys": ["Hold", "Shift", "Cmd"]
+        },
+      ]
+    },
+    {
+      "name": "Calendar view",
+      "shortcuts": [
+        {
+          "description": "Display day view",
+          "keys": ["D"]
+        },
+        {
+          "description": "Display week view",
+          "keys": ["W"]
+        },
+        {
+          "description": "Display month view",
+          "keys": ["M"]
+        },
+        {
+          "description": "Show/hide weekends",
+          "keys": ["Cmd", "Shift", "E"]
+        },
+        {
+          "description": "Show/hide declined events",
+          "keys": ["Cmd", "Shift", "D"]
+        },
+        {
+          "description": "Default hour size",
+          "keys": ["Cmd", "Shift", "0"]
+        },
+        {
+          "description": "Zoom hours in",
+          "keys": ["Cmd", "Shift", "."]
+        },
+        {
+          "description": "Zoom hours out",
+          "keys": ["Cmd", "Shift", ","]
+        },
+      ]
+    },
+    {
+      "name": "Calendar navigation",
+      "shortcuts": [
+        {
+          "description": "Go to date",
+          "keys": ["."]
+        },
+        {
+          "description": "Go to today",
+          "keys": ["T"]
+        },
+        {
+          "description": "Align today in view",
+          "keys": ["Option", "T"]
+        },
+        {
+          "description": "Go to next week/monthw",
+          "keys": ["J"]
+        },
+        {
+          "description": "Go to previous week/month",
+          "keys": ["K"]
+        },
+        {
+          "description": "Move view right",
+          "keys": ["Arrow right"]
+        },
+        {
+          "description": "Move view left",
+          "keys": ["Arrow left"]
+        },
+        {
+          "description": "Move view up",
+          "keys": ["Arrow Up"]
+        },
+        {
+          "description": "Move view down",
+          "keys": ["Arrow down"]
+        },
+        {
+          "description": "Travel to time zone",
+          "keys": ["Z"]
+        },
+        {
+          "description": "Travel back home",
+          "keys": ["Esc"]
+        },
+      ]
+    },
+    {
+      "name": "App navigation",
+      "shortcuts": [
+        {
+          "description": "Show this view",
+          "keys": ["?"]
+        },
+        {
+          "description": "Show Cron window",
+          "keys": ["Cmd", "1"]
+        },
+        {
+          "description": "Go to settings",
+          "keys": ["Cmd", ","]
+        },
+      ]
+    }
+  ]
+}
