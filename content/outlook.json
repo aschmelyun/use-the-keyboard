@@ -522,6 +522,10 @@
                     "keys": ["Alt", "1-0"]
                 },
                 {
+                    "description": "Go to today",
+                    "keys": ["Ctrl", "T"]
+                },
+                {
                     "description": "Go to a date",
                     "keys": ["Ctrl", "G"]
                 },
